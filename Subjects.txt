@@ -1,0 +1,15 @@
+Calculus 1
+Calculus 2
+Calculus 3
+Calculus 4
+Discrete Math
+Linear Algebra
+Probability and Statistics
+Introduction to Computer Science
+Object Oriented Programming
+Data Structures
+Theory of Automata and Languages
+Theory of Algorithms
+Introduction to Embedded Systems
+Introduction to Logic Design
+Operating Systems
