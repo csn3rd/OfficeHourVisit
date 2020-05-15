@@ -1,0 +1,29 @@
+Subjects that John has attended office hours for:
+
+Data Structures
+Introduction to Embedded Systems
+Operating Systems
+Calculus 1
+Discrete Math
+Probability and Statistics
+Probability and Statistics
+Theory of Algorithms
+Theory of Algorithms
+Calculus 2
+Theory of Automata and Languages
+Probability and Statistics
+Operating Systems
+Calculus 2
+Calculus 2
+Discrete Math
+Introduction to Embedded Systems
+Introduction to Computer Science
+Discrete Math
+Calculus 3
+Probability and Statistics
+Theory of Automata and Languages
+Introduction to Computer Science
+Theory of Automata and Languages
+Discrete Math
+Operating Systems
+Data Structures

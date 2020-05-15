@@ -1,0 +1,41 @@
+Subjects that Austin has attended office hours for:
+
+Object Oriented Programming
+Calculus 4
+Operating Systems
+Calculus 3
+Object Oriented Programming
+Operating Systems
+Object Oriented Programming
+Calculus 1
+Introduction to Embedded Systems
+Probability and Statistics
+Introduction to Computer Science
+Theory of Automata and Languages
+Calculus 1
+Operating Systems
+Calculus 4
+Object Oriented Programming
+Calculus 4
+Operating Systems
+Data Structures
+Calculus 4
+Theory of Automata and Languages
+Introduction to Computer Science
+Calculus 1
+Operating Systems
+Introduction to Computer Science
+Discrete Math
+Calculus 2
+Calculus 4
+Calculus 3
+Probability and Statistics
+Calculus 3
+Introduction to Embedded Systems
+Calculus 4
+Calculus 4
+Linear Algebra
+Data Structures
+Object Oriented Programming
+Linear Algebra
+Theory of Automata and Languages

@@ -1,0 +1,30 @@
+Subjects that Ezra has attended office hours for:
+
+Introduction to Computer Science
+Probability and Statistics
+Discrete Math
+Operating Systems
+Probability and Statistics
+Data Structures
+Calculus 2
+Operating Systems
+Calculus 4
+Discrete Math
+Data Structures
+Calculus 2
+Operating Systems
+Calculus 4
+Introduction to Embedded Systems
+Data Structures
+Introduction to Computer Science
+Probability and Statistics
+Calculus 2
+Introduction to Logic Design
+Introduction to Embedded Systems
+Probability and Statistics
+Operating Systems
+Calculus 2
+Data Structures
+Linear Algebra
+Probability and Statistics
+Introduction to Computer Science

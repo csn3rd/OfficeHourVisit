@@ -1,0 +1,43 @@
+Subjects that Justin has attended office hours for:
+
+Operating Systems
+Theory of Automata and Languages
+Operating Systems
+Probability and Statistics
+Introduction to Computer Science
+Calculus 2
+Introduction to Logic Design
+Calculus 4
+Object Oriented Programming
+Introduction to Logic Design
+Linear Algebra
+Calculus 3
+Object Oriented Programming
+Object Oriented Programming
+Calculus 4
+Operating Systems
+Theory of Automata and Languages
+Introduction to Logic Design
+Calculus 4
+Calculus 2
+Operating Systems
+Object Oriented Programming
+Theory of Algorithms
+Calculus 4
+Introduction to Logic Design
+Object Oriented Programming
+Discrete Math
+Calculus 4
+Probability and Statistics
+Calculus 3
+Discrete Math
+Introduction to Computer Science
+Introduction to Embedded Systems
+Theory of Algorithms
+Theory of Algorithms
+Probability and Statistics
+Data Structures
+Calculus 3
+Calculus 4
+Introduction to Embedded Systems
+Operating Systems

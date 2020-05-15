@@ -1,0 +1,38 @@
+Subjects that Ian has attended office hours for:
+
+Linear Algebra
+Theory of Algorithms
+Calculus 2
+Calculus 4
+Calculus 3
+Calculus 2
+Theory of Algorithms
+Calculus 4
+Operating Systems
+Calculus 2
+Data Structures
+Calculus 3
+Linear Algebra
+Introduction to Embedded Systems
+Introduction to Embedded Systems
+Calculus 3
+Calculus 1
+Data Structures
+Calculus 1
+Operating Systems
+Introduction to Embedded Systems
+Probability and Statistics
+Calculus 3
+Theory of Automata and Languages
+Introduction to Computer Science
+Theory of Algorithms
+Calculus 2
+Calculus 3
+Linear Algebra
+Introduction to Embedded Systems
+Introduction to Computer Science
+Theory of Algorithms
+Introduction to Logic Design
+Introduction to Embedded Systems
+Probability and Statistics
+Object Oriented Programming

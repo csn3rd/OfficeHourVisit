@@ -1,0 +1,35 @@
+Subjects that Pratham has attended office hours for:
+
+Object Oriented Programming
+Discrete Math
+Object Oriented Programming
+Data Structures
+Discrete Math
+Calculus 2
+Probability and Statistics
+Introduction to Embedded Systems
+Introduction to Computer Science
+Introduction to Logic Design
+Calculus 4
+Operating Systems
+Object Oriented Programming
+Introduction to Logic Design
+Calculus 4
+Operating Systems
+Theory of Algorithms
+Operating Systems
+Calculus 1
+Introduction to Computer Science
+Data Structures
+Linear Algebra
+Data Structures
+Calculus 4
+Calculus 3
+Theory of Automata and Languages
+Calculus 4
+Data Structures
+Object Oriented Programming
+Theory of Algorithms
+Introduction to Computer Science
+Probability and Statistics
+Introduction to Embedded Systems

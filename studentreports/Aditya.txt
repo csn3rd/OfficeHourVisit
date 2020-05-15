@@ -1,0 +1,31 @@
+Subjects that Aditya has attended office hours for:
+
+Object Oriented Programming
+Linear Algebra
+Theory of Automata and Languages
+Linear Algebra
+Probability and Statistics
+Calculus 4
+Introduction to Embedded Systems
+Calculus 3
+Object Oriented Programming
+Linear Algebra
+Data Structures
+Theory of Algorithms
+Theory of Automata and Languages
+Calculus 2
+Calculus 1
+Introduction to Logic Design
+Theory of Algorithms
+Calculus 1
+Calculus 3
+Theory of Algorithms
+Introduction to Embedded Systems
+Probability and Statistics
+Introduction to Logic Design
+Data Structures
+Theory of Algorithms
+Calculus 1
+Calculus 2
+Calculus 1
+Calculus 2

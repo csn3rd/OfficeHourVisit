@@ -1,0 +1,37 @@
+Subjects that Camden has attended office hours for:
+
+Discrete Math
+Theory of Algorithms
+Introduction to Embedded Systems
+Data Structures
+Probability and Statistics
+Object Oriented Programming
+Linear Algebra
+Introduction to Computer Science
+Calculus 2
+Linear Algebra
+Calculus 3
+Data Structures
+Calculus 4
+Operating Systems
+Calculus 1
+Calculus 4
+Calculus 3
+Operating Systems
+Operating Systems
+Calculus 3
+Discrete Math
+Introduction to Logic Design
+Probability and Statistics
+Calculus 1
+Introduction to Embedded Systems
+Probability and Statistics
+Calculus 4
+Object Oriented Programming
+Introduction to Computer Science
+Introduction to Embedded Systems
+Introduction to Embedded Systems
+Calculus 1
+Theory of Algorithms
+Data Structures
+Calculus 4

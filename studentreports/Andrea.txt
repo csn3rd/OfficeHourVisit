@@ -1,0 +1,33 @@
+Subjects that Andrea has attended office hours for:
+
+Probability and Statistics
+Theory of Automata and Languages
+Introduction to Computer Science
+Data Structures
+Theory of Algorithms
+Introduction to Computer Science
+Introduction to Embedded Systems
+Introduction to Computer Science
+Discrete Math
+Introduction to Embedded Systems
+Introduction to Logic Design
+Discrete Math
+Introduction to Logic Design
+Discrete Math
+Calculus 2
+Discrete Math
+Theory of Algorithms
+Introduction to Logic Design
+Theory of Algorithms
+Calculus 4
+Calculus 2
+Introduction to Embedded Systems
+Probability and Statistics
+Introduction to Embedded Systems
+Theory of Automata and Languages
+Calculus 4
+Calculus 3
+Linear Algebra
+Calculus 3
+Calculus 2
+Calculus 4

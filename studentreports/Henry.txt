@@ -1,0 +1,38 @@
+Subjects that Henry has attended office hours for:
+
+Operating Systems
+Probability and Statistics
+Calculus 2
+Introduction to Computer Science
+Data Structures
+Theory of Automata and Languages
+Probability and Statistics
+Calculus 2
+Discrete Math
+Theory of Automata and Languages
+Probability and Statistics
+Calculus 1
+Discrete Math
+Theory of Automata and Languages
+Theory of Algorithms
+Probability and Statistics
+Calculus 4
+Operating Systems
+Calculus 2
+Introduction to Embedded Systems
+Calculus 4
+Discrete Math
+Operating Systems
+Calculus 4
+Calculus 2
+Calculus 3
+Linear Algebra
+Discrete Math
+Data Structures
+Discrete Math
+Object Oriented Programming
+Theory of Algorithms
+Calculus 3
+Calculus 1
+Object Oriented Programming
+Operating Systems
