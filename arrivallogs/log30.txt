@@ -1,0 +1,28 @@
+Arrival Log: 
+
+	Jacob is arriving at 1 minutes. The urgency of the meeting is 3 out of 10.
+
+	Jessica is arriving 3 minutes after Jacob.
+	Jessica is arriving at 4 minutes. The urgency of the meeting is 8 out of 10.
+
+	Emma is arriving 10 minutes after Jessica.
+	Emma is arriving at 14 minutes. The urgency of the meeting is 1 out of 10.
+
+	Sarah is arriving 5 minutes after Emma.
+	Sarah is arriving at 19 minutes. The urgency of the meeting is 7 out of 10.
+
+	Emma is arriving 5 minutes after Sarah.
+	Emma is arriving at 24 minutes. The urgency of the meeting is 5 out of 10.
+
+	Kristi is arriving 7 minutes after Emma.
+	Kristi is arriving at 31 minutes. The urgency of the meeting is 5 out of 10.
+
+	Jacob is arriving 9 minutes after Kristi.
+	Jacob is arriving at 40 minutes. The urgency of the meeting is 4 out of 10.
+
+	George is arriving 9 minutes after Jacob.
+	George is arriving at 49 minutes. The urgency of the meeting is 1 out of 10.
+
+	Anthony is arriving 5 minutes after George.
+	Anthony is arriving at 54 minutes. The urgency of the meeting is 10 out of 10.
+

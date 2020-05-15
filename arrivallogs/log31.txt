@@ -1,0 +1,37 @@
+Arrival Log: 
+
+	Camden is arriving at 2 minutes. The urgency of the meeting is 9 out of 10.
+
+	Henry is arriving 10 minutes after Camden.
+	Henry is arriving at 12 minutes. The urgency of the meeting is 6 out of 10.
+
+	Henry is arriving 5 minutes after Henry.
+	Henry is arriving at 17 minutes. The urgency of the meeting is 5 out of 10.
+
+	Henry is arriving 5 minutes after Henry.
+	Henry is arriving at 22 minutes. The urgency of the meeting is 10 out of 10.
+
+	Sunjit is arriving 5 minutes after Henry.
+	Sunjit is arriving at 27 minutes. The urgency of the meeting is 6 out of 10.
+
+	Grace is arriving 5 minutes after Sunjit.
+	Grace is arriving at 32 minutes. The urgency of the meeting is 9 out of 10.
+
+	Arjun is arriving 9 minutes after Grace.
+	Arjun is arriving at 41 minutes. The urgency of the meeting is 4 out of 10.
+
+	George is arriving 7 minutes after Arjun.
+	George is arriving at 48 minutes. The urgency of the meeting is 4 out of 10.
+
+	Kristi is arriving 0 minutes after George.
+	Kristi is arriving at 48 minutes. The urgency of the meeting is 5 out of 10.
+
+	Emma is arriving 5 minutes after Kristi.
+	Emma is arriving at 53 minutes. The urgency of the meeting is 3 out of 10.
+
+	Brian is arriving 1 minutes after Emma.
+	Brian is arriving at 54 minutes. The urgency of the meeting is 9 out of 10.
+
+	Swathi is arriving 2 minutes after Brian.
+	Swathi is arriving at 56 minutes. The urgency of the meeting is 2 out of 10.
+

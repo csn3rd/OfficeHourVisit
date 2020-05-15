@@ -1,0 +1,52 @@
+Arrival Log: 
+
+	Ezra is arriving at 10 minutes. The urgency of the meeting is 5 out of 10.
+
+	Francesca is arriving 4 minutes after Ezra.
+	Francesca is arriving at 14 minutes. The urgency of the meeting is 7 out of 10.
+
+	Henry is arriving 1 minutes after Francesca.
+	Henry is arriving at 15 minutes. The urgency of the meeting is 5 out of 10.
+
+	Sergio is arriving 1 minutes after Henry.
+	Sergio is arriving at 16 minutes. The urgency of the meeting is 3 out of 10.
+
+	Chiwei is arriving 4 minutes after Sergio.
+	Chiwei is arriving at 20 minutes. The urgency of the meeting is 8 out of 10.
+
+	George is arriving 1 minutes after Chiwei.
+	George is arriving at 21 minutes. The urgency of the meeting is 6 out of 10.
+
+	Brycen is arriving 1 minutes after George.
+	Brycen is arriving at 22 minutes. The urgency of the meeting is 7 out of 10.
+
+	Ezra is arriving 1 minutes after Brycen.
+	Ezra is arriving at 23 minutes. The urgency of the meeting is 9 out of 10.
+
+	Austin is arriving 1 minutes after Ezra.
+	Austin is arriving at 24 minutes. The urgency of the meeting is 4 out of 10.
+
+	Kristi is arriving 10 minutes after Austin.
+	Kristi is arriving at 34 minutes. The urgency of the meeting is 9 out of 10.
+
+	Grant is arriving 1 minutes after Kristi.
+	Grant is arriving at 35 minutes. The urgency of the meeting is 1 out of 10.
+
+	Aditya is arriving 4 minutes after Grant.
+	Aditya is arriving at 39 minutes. The urgency of the meeting is 8 out of 10.
+
+	Grace is arriving 1 minutes after Aditya.
+	Grace is arriving at 40 minutes. The urgency of the meeting is 1 out of 10.
+
+	Sergio is arriving 5 minutes after Grace.
+	Sergio is arriving at 45 minutes. The urgency of the meeting is 1 out of 10.
+
+	Francesca is arriving 0 minutes after Sergio.
+	Francesca is arriving at 45 minutes. The urgency of the meeting is 2 out of 10.
+
+	Sunjit is arriving 5 minutes after Francesca.
+	Sunjit is arriving at 50 minutes. The urgency of the meeting is 10 out of 10.
+
+	Jessica is arriving 8 minutes after Sunjit.
+	Jessica is arriving at 58 minutes. The urgency of the meeting is 7 out of 10.
+

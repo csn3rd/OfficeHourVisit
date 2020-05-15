@@ -1,0 +1,34 @@
+Arrival Log: 
+
+	Justin is arriving at 5 minutes. The urgency of the meeting is 4 out of 10.
+
+	George is arriving 9 minutes after Justin.
+	George is arriving at 14 minutes. The urgency of the meeting is 5 out of 10.
+
+	Brycen is arriving 0 minutes after George.
+	Brycen is arriving at 14 minutes. The urgency of the meeting is 3 out of 10.
+
+	Andrea is arriving 4 minutes after Brycen.
+	Andrea is arriving at 18 minutes. The urgency of the meeting is 5 out of 10.
+
+	Ian is arriving 10 minutes after Andrea.
+	Ian is arriving at 28 minutes. The urgency of the meeting is 3 out of 10.
+
+	Ezra is arriving 2 minutes after Ian.
+	Ezra is arriving at 30 minutes. The urgency of the meeting is 4 out of 10.
+
+	Jessica is arriving 8 minutes after Ezra.
+	Jessica is arriving at 38 minutes. The urgency of the meeting is 2 out of 10.
+
+	Sunjit is arriving 1 minutes after Jessica.
+	Sunjit is arriving at 39 minutes. The urgency of the meeting is 2 out of 10.
+
+	Juan is arriving 7 minutes after Sunjit.
+	Juan is arriving at 46 minutes. The urgency of the meeting is 10 out of 10.
+
+	Aditya is arriving 1 minutes after Juan.
+	Aditya is arriving at 47 minutes. The urgency of the meeting is 8 out of 10.
+
+	Sunjit is arriving 9 minutes after Aditya.
+	Sunjit is arriving at 56 minutes. The urgency of the meeting is 9 out of 10.
+

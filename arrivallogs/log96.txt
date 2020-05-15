@@ -1,0 +1,43 @@
+Arrival Log: 
+
+	Ezra is arriving at 4 minutes. The urgency of the meeting is 1 out of 10.
+
+	Brycen is arriving 4 minutes after Ezra.
+	Brycen is arriving at 8 minutes. The urgency of the meeting is 4 out of 10.
+
+	Frank is arriving 2 minutes after Brycen.
+	Frank is arriving at 10 minutes. The urgency of the meeting is 1 out of 10.
+
+	Emma is arriving 3 minutes after Frank.
+	Emma is arriving at 13 minutes. The urgency of the meeting is 2 out of 10.
+
+	Francesca is arriving 7 minutes after Emma.
+	Francesca is arriving at 20 minutes. The urgency of the meeting is 5 out of 10.
+
+	Brycen is arriving 3 minutes after Francesca.
+	Brycen is arriving at 23 minutes. The urgency of the meeting is 10 out of 10.
+
+	Martin is arriving 2 minutes after Brycen.
+	Martin is arriving at 25 minutes. The urgency of the meeting is 9 out of 10.
+
+	Andrea is arriving 10 minutes after Martin.
+	Andrea is arriving at 35 minutes. The urgency of the meeting is 4 out of 10.
+
+	Juan is arriving 7 minutes after Andrea.
+	Juan is arriving at 42 minutes. The urgency of the meeting is 7 out of 10.
+
+	Pratham is arriving 9 minutes after Juan.
+	Pratham is arriving at 51 minutes. The urgency of the meeting is 5 out of 10.
+
+	Anthony is arriving 3 minutes after Pratham.
+	Anthony is arriving at 54 minutes. The urgency of the meeting is 10 out of 10.
+
+	Francesca is arriving 2 minutes after Anthony.
+	Francesca is arriving at 56 minutes. The urgency of the meeting is 4 out of 10.
+
+	Kristi is arriving 3 minutes after Francesca.
+	Kristi is arriving at 59 minutes. The urgency of the meeting is 1 out of 10.
+
+	Camden is arriving 0 minutes after Kristi.
+	Camden is arriving at 59 minutes. The urgency of the meeting is 3 out of 10.
+

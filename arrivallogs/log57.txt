@@ -1,0 +1,31 @@
+Arrival Log: 
+
+	Grant is arriving at 3 minutes. The urgency of the meeting is 6 out of 10.
+
+	Sunjit is arriving 3 minutes after Grant.
+	Sunjit is arriving at 6 minutes. The urgency of the meeting is 5 out of 10.
+
+	Emma is arriving 10 minutes after Sunjit.
+	Emma is arriving at 16 minutes. The urgency of the meeting is 3 out of 10.
+
+	Chiwei is arriving 4 minutes after Emma.
+	Chiwei is arriving at 20 minutes. The urgency of the meeting is 4 out of 10.
+
+	Swathi is arriving 5 minutes after Chiwei.
+	Swathi is arriving at 25 minutes. The urgency of the meeting is 9 out of 10.
+
+	Brian is arriving 6 minutes after Swathi.
+	Brian is arriving at 31 minutes. The urgency of the meeting is 9 out of 10.
+
+	Frank is arriving 10 minutes after Brian.
+	Frank is arriving at 41 minutes. The urgency of the meeting is 7 out of 10.
+
+	Andrea is arriving 6 minutes after Frank.
+	Andrea is arriving at 47 minutes. The urgency of the meeting is 8 out of 10.
+
+	Swathi is arriving 4 minutes after Andrea.
+	Swathi is arriving at 51 minutes. The urgency of the meeting is 2 out of 10.
+
+	Sarah is arriving 3 minutes after Swathi.
+	Sarah is arriving at 54 minutes. The urgency of the meeting is 9 out of 10.
+

@@ -1,0 +1,31 @@
+Arrival Log: 
+
+	Aditya is arriving at 1 minutes. The urgency of the meeting is 9 out of 10.
+
+	Swathi is arriving 1 minutes after Aditya.
+	Swathi is arriving at 2 minutes. The urgency of the meeting is 9 out of 10.
+
+	Martin is arriving 3 minutes after Swathi.
+	Martin is arriving at 5 minutes. The urgency of the meeting is 9 out of 10.
+
+	Pratham is arriving 2 minutes after Martin.
+	Pratham is arriving at 7 minutes. The urgency of the meeting is 8 out of 10.
+
+	Juan is arriving 10 minutes after Pratham.
+	Juan is arriving at 17 minutes. The urgency of the meeting is 1 out of 10.
+
+	Anthony is arriving 7 minutes after Juan.
+	Anthony is arriving at 24 minutes. The urgency of the meeting is 9 out of 10.
+
+	Pratham is arriving 5 minutes after Anthony.
+	Pratham is arriving at 29 minutes. The urgency of the meeting is 7 out of 10.
+
+	Brycen is arriving 6 minutes after Pratham.
+	Brycen is arriving at 35 minutes. The urgency of the meeting is 1 out of 10.
+
+	Brycen is arriving 8 minutes after Brycen.
+	Brycen is arriving at 43 minutes. The urgency of the meeting is 8 out of 10.
+
+	Anthony is arriving 9 minutes after Brycen.
+	Anthony is arriving at 52 minutes. The urgency of the meeting is 9 out of 10.
+

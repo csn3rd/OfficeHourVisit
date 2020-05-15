@@ -1,0 +1,34 @@
+Arrival Log: 
+
+	Brian is arriving at 3 minutes. The urgency of the meeting is 2 out of 10.
+
+	George is arriving 3 minutes after Brian.
+	George is arriving at 6 minutes. The urgency of the meeting is 2 out of 10.
+
+	George is arriving 5 minutes after George.
+	George is arriving at 11 minutes. The urgency of the meeting is 1 out of 10.
+
+	Ian is arriving 7 minutes after George.
+	Ian is arriving at 18 minutes. The urgency of the meeting is 3 out of 10.
+
+	Henry is arriving 10 minutes after Ian.
+	Henry is arriving at 28 minutes. The urgency of the meeting is 2 out of 10.
+
+	Sergio is arriving 2 minutes after Henry.
+	Sergio is arriving at 30 minutes. The urgency of the meeting is 9 out of 10.
+
+	Francesca is arriving 4 minutes after Sergio.
+	Francesca is arriving at 34 minutes. The urgency of the meeting is 2 out of 10.
+
+	George is arriving 5 minutes after Francesca.
+	George is arriving at 39 minutes. The urgency of the meeting is 7 out of 10.
+
+	Brian is arriving 8 minutes after George.
+	Brian is arriving at 47 minutes. The urgency of the meeting is 10 out of 10.
+
+	Henry is arriving 1 minutes after Brian.
+	Henry is arriving at 48 minutes. The urgency of the meeting is 5 out of 10.
+
+	Ezra is arriving 3 minutes after Henry.
+	Ezra is arriving at 51 minutes. The urgency of the meeting is 4 out of 10.
+

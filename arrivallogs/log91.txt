@@ -1,0 +1,34 @@
+Arrival Log: 
+
+	Samuel is arriving at 10 minutes. The urgency of the meeting is 1 out of 10.
+
+	Camden is arriving 6 minutes after Samuel.
+	Camden is arriving at 16 minutes. The urgency of the meeting is 5 out of 10.
+
+	Ian is arriving 3 minutes after Camden.
+	Ian is arriving at 19 minutes. The urgency of the meeting is 10 out of 10.
+
+	Juan is arriving 2 minutes after Ian.
+	Juan is arriving at 21 minutes. The urgency of the meeting is 9 out of 10.
+
+	Chiwei is arriving 10 minutes after Juan.
+	Chiwei is arriving at 31 minutes. The urgency of the meeting is 6 out of 10.
+
+	Kyle is arriving 8 minutes after Chiwei.
+	Kyle is arriving at 39 minutes. The urgency of the meeting is 2 out of 10.
+
+	Swathi is arriving 2 minutes after Kyle.
+	Swathi is arriving at 41 minutes. The urgency of the meeting is 1 out of 10.
+
+	Martin is arriving 6 minutes after Swathi.
+	Martin is arriving at 47 minutes. The urgency of the meeting is 5 out of 10.
+
+	Emma is arriving 2 minutes after Martin.
+	Emma is arriving at 49 minutes. The urgency of the meeting is 8 out of 10.
+
+	Samuel is arriving 7 minutes after Emma.
+	Samuel is arriving at 56 minutes. The urgency of the meeting is 10 out of 10.
+
+	Jacob is arriving 3 minutes after Samuel.
+	Jacob is arriving at 59 minutes. The urgency of the meeting is 10 out of 10.
+

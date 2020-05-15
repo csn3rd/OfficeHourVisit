@@ -1,0 +1,34 @@
+Arrival Log: 
+
+	Primrose is arriving at 10 minutes. The urgency of the meeting is 8 out of 10.
+
+	Austin is arriving 2 minutes after Primrose.
+	Austin is arriving at 12 minutes. The urgency of the meeting is 1 out of 10.
+
+	Samuel is arriving 9 minutes after Austin.
+	Samuel is arriving at 21 minutes. The urgency of the meeting is 10 out of 10.
+
+	Swathi is arriving 8 minutes after Samuel.
+	Swathi is arriving at 29 minutes. The urgency of the meeting is 8 out of 10.
+
+	Henry is arriving 1 minutes after Swathi.
+	Henry is arriving at 30 minutes. The urgency of the meeting is 10 out of 10.
+
+	Arjun is arriving 10 minutes after Henry.
+	Arjun is arriving at 40 minutes. The urgency of the meeting is 3 out of 10.
+
+	Ezra is arriving 2 minutes after Arjun.
+	Ezra is arriving at 42 minutes. The urgency of the meeting is 7 out of 10.
+
+	Kristi is arriving 5 minutes after Ezra.
+	Kristi is arriving at 47 minutes. The urgency of the meeting is 8 out of 10.
+
+	Primrose is arriving 5 minutes after Kristi.
+	Primrose is arriving at 52 minutes. The urgency of the meeting is 6 out of 10.
+
+	Grace is arriving 2 minutes after Primrose.
+	Grace is arriving at 54 minutes. The urgency of the meeting is 6 out of 10.
+
+	Brian is arriving 2 minutes after Grace.
+	Brian is arriving at 56 minutes. The urgency of the meeting is 10 out of 10.
+

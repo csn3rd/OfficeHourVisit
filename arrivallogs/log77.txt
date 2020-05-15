@@ -1,0 +1,28 @@
+Arrival Log: 
+
+	Arjun is arriving at 7 minutes. The urgency of the meeting is 4 out of 10.
+
+	Kristi is arriving 10 minutes after Arjun.
+	Kristi is arriving at 17 minutes. The urgency of the meeting is 5 out of 10.
+
+	Jacob is arriving 1 minutes after Kristi.
+	Jacob is arriving at 18 minutes. The urgency of the meeting is 1 out of 10.
+
+	Pratham is arriving 10 minutes after Jacob.
+	Pratham is arriving at 28 minutes. The urgency of the meeting is 1 out of 10.
+
+	Aditya is arriving 1 minutes after Pratham.
+	Aditya is arriving at 29 minutes. The urgency of the meeting is 3 out of 10.
+
+	Grant is arriving 9 minutes after Aditya.
+	Grant is arriving at 38 minutes. The urgency of the meeting is 2 out of 10.
+
+	Frank is arriving 7 minutes after Grant.
+	Frank is arriving at 45 minutes. The urgency of the meeting is 4 out of 10.
+
+	Jonathan is arriving 10 minutes after Frank.
+	Jonathan is arriving at 55 minutes. The urgency of the meeting is 2 out of 10.
+
+	George is arriving 0 minutes after Jonathan.
+	George is arriving at 55 minutes. The urgency of the meeting is 7 out of 10.
+

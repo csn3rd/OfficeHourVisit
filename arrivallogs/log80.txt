@@ -1,0 +1,28 @@
+Arrival Log: 
+
+	Swathi is arriving at 9 minutes. The urgency of the meeting is 4 out of 10.
+
+	Kyle is arriving 9 minutes after Swathi.
+	Kyle is arriving at 18 minutes. The urgency of the meeting is 4 out of 10.
+
+	Grant is arriving 5 minutes after Kyle.
+	Grant is arriving at 23 minutes. The urgency of the meeting is 9 out of 10.
+
+	Arjun is arriving 4 minutes after Grant.
+	Arjun is arriving at 27 minutes. The urgency of the meeting is 10 out of 10.
+
+	Sunjit is arriving 7 minutes after Arjun.
+	Sunjit is arriving at 34 minutes. The urgency of the meeting is 2 out of 10.
+
+	Kyle is arriving 6 minutes after Sunjit.
+	Kyle is arriving at 40 minutes. The urgency of the meeting is 9 out of 10.
+
+	Brycen is arriving 7 minutes after Kyle.
+	Brycen is arriving at 47 minutes. The urgency of the meeting is 7 out of 10.
+
+	Camden is arriving 6 minutes after Brycen.
+	Camden is arriving at 53 minutes. The urgency of the meeting is 2 out of 10.
+
+	Austin is arriving 5 minutes after Camden.
+	Austin is arriving at 58 minutes. The urgency of the meeting is 3 out of 10.
+
