@@ -1,0 +1,52 @@
+Meeting Log: 
+
+	The professor has been waiting for 9 minutes before Chiwei showed up.
+	Chiwei is meeting the professor for 9 minutes, starting at 9 minutes and ending at 18 minutes.
+	The subject of this meeting is Introduction to Embedded Systems.
+	The urgency of this meeting is 1 out of 10.
+
+	John arrived just as the previous student was leaving.
+	John is meeting the professor for 6 minutes, starting at 18 minutes and ending at 24 minutes.
+	The subject of this meeting is Calculus 2.
+	The urgency of this meeting is 6 out of 10.
+
+	Frank has been waiting in the queue for 2 minutes.
+	Frank is meeting the professor for 10 minutes, starting at 24 minutes and ending at 34 minutes.
+	The subject of this meeting is Introduction to Embedded Systems.
+	The urgency of this meeting is 10 out of 10.
+
+	Aditya has been waiting in the queue for 13 minutes.
+	Aditya is meeting the professor for 1 minutes, starting at 34 minutes and ending at 35 minutes.
+	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 5 out of 10.
+
+	Grace has been waiting in the queue for 6 minutes.
+	Grace is meeting the professor for 1 minutes, starting at 35 minutes and ending at 36 minutes.
+	The subject of this meeting is Discrete Math.
+	The urgency of this meeting is 5 out of 10.
+
+	The professor has been waiting for 2 minutes before Jessica showed up.
+	Jessica is meeting the professor for 10 minutes, starting at 38 minutes and ending at 48 minutes.
+	The subject of this meeting is Calculus 3.
+	The urgency of this meeting is 3 out of 10.
+
+	Ian has been waiting in the queue for 1 minutes.
+	Ian is meeting the professor for 7 minutes, starting at 48 minutes and ending at 55 minutes.
+	The subject of this meeting is Introduction to Embedded Systems.
+	The urgency of this meeting is 9 out of 10.
+
+	Austin has been waiting in the queue for 6 minutes.
+	Austin is meeting the professor for 3 minutes, starting at 55 minutes and ending at 58 minutes.
+	The subject of this meeting is Object Oriented Programming.
+	The urgency of this meeting is 5 out of 10.
+
+	Henry has been waiting in the queue for 4 minutes.
+	Henry is meeting the professor for 6 minutes, starting at 58 minutes and ending at 64 minutes.
+	The subject of this meeting is Calculus 4.
+	The urgency of this meeting is 5 out of 10.
+
+	Brian has been waiting in the queue for 5 minutes.
+	Brian is meeting the professor for 7 minutes, starting at 64 minutes and ending at 71 minutes.
+	The subject of this meeting is Theory of Automata and Languages.
+	The urgency of this meeting is 10 out of 10.
+

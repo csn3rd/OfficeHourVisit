@@ -1,0 +1,37 @@
+Meeting Log: 
+
+	The professor has been waiting for 2 minutes before Patrick showed up.
+	Patrick is meeting the professor for 7 minutes, starting at 2 minutes and ending at 9 minutes.
+	The subject of this meeting is Introduction to Computer Science.
+	The urgency of this meeting is 5 out of 10.
+
+	Frank arrived just as the previous student was leaving.
+	Frank is meeting the professor for 4 minutes, starting at 9 minutes and ending at 13 minutes.
+	The subject of this meeting is Probability and Statistics.
+	The urgency of this meeting is 10 out of 10.
+
+	The professor has been waiting for 5 minutes before Camden showed up.
+	Camden is meeting the professor for 10 minutes, starting at 18 minutes and ending at 28 minutes.
+	The subject of this meeting is Operating Systems.
+	The urgency of this meeting is 6 out of 10.
+
+	John has been waiting in the queue for 2 minutes.
+	John is meeting the professor for 3 minutes, starting at 28 minutes and ending at 31 minutes.
+	The subject of this meeting is Discrete Math.
+	The urgency of this meeting is 10 out of 10.
+
+	The professor has been waiting for 3 minutes before Brycen showed up.
+	Brycen is meeting the professor for 4 minutes, starting at 34 minutes and ending at 38 minutes.
+	The subject of this meeting is Operating Systems.
+	The urgency of this meeting is 4 out of 10.
+
+	The professor has been waiting for 6 minutes before Brycen showed up.
+	Brycen is meeting the professor for 5 minutes, starting at 44 minutes and ending at 49 minutes.
+	The subject of this meeting is Calculus 2.
+	The urgency of this meeting is 8 out of 10.
+
+	The professor has been waiting for 5 minutes before Sunjit showed up.
+	Sunjit is meeting the professor for 9 minutes, starting at 54 minutes and ending at 63 minutes.
+	The subject of this meeting is Linear Algebra.
+	The urgency of this meeting is 4 out of 10.
+

@@ -1,0 +1,47 @@
+Meeting Log: 
+
+	The professor has been waiting for 9 minutes before Swathi showed up.
+	Swathi is meeting the professor for 6 minutes, starting at 9 minutes and ending at 15 minutes.
+	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 4 out of 10.
+
+	The professor has been waiting for 3 minutes before Kyle showed up.
+	Kyle is meeting the professor for 6 minutes, starting at 18 minutes and ending at 24 minutes.
+	The subject of this meeting is Object Oriented Programming.
+	The urgency of this meeting is 4 out of 10.
+
+	Grant has been waiting in the queue for 1 minutes.
+	Grant is meeting the professor for 3 minutes, starting at 24 minutes and ending at 27 minutes.
+	The subject of this meeting is Calculus 2.
+	The urgency of this meeting is 9 out of 10.
+
+	Arjun arrived just as the previous student was leaving.
+	Arjun is meeting the professor for 3 minutes, starting at 27 minutes and ending at 30 minutes.
+	The subject of this meeting is Introduction to Logic Design.
+	The urgency of this meeting is 10 out of 10.
+
+	The professor has been waiting for 4 minutes before Sunjit showed up.
+	Sunjit is meeting the professor for 4 minutes, starting at 34 minutes and ending at 38 minutes.
+	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 2 out of 10.
+
+	The professor has been waiting for 2 minutes before Kyle showed up.
+	Kyle is meeting the professor for 10 minutes, starting at 40 minutes and ending at 50 minutes.
+	The subject of this meeting is Introduction to Logic Design.
+	The urgency of this meeting is 9 out of 10.
+
+	Brycen has been waiting in the queue for 3 minutes.
+	Brycen is meeting the professor for 9 minutes, starting at 50 minutes and ending at 59 minutes.
+	The subject of this meeting is Theory of Automata and Languages.
+	The urgency of this meeting is 7 out of 10.
+
+	Austin has been waiting in the queue for 1 minutes.
+	Austin is meeting the professor for 4 minutes, starting at 59 minutes and ending at 63 minutes.
+	The subject of this meeting is Calculus 3.
+	The urgency of this meeting is 3 out of 10.
+
+	Camden has been waiting in the queue for 10 minutes.
+	Camden is meeting the professor for 2 minutes, starting at 63 minutes and ending at 65 minutes.
+	The subject of this meeting is Introduction to Embedded Systems.
+	The urgency of this meeting is 2 out of 10.
+

@@ -1,0 +1,47 @@
+Meeting Log: 
+
+	The professor has been waiting for 3 minutes before Chiwei showed up.
+	Chiwei is meeting the professor for 4 minutes, starting at 3 minutes and ending at 7 minutes.
+	The subject of this meeting is Operating Systems.
+	The urgency of this meeting is 2 out of 10.
+
+	The professor has been waiting for 5 minutes before Justin showed up.
+	Justin is meeting the professor for 2 minutes, starting at 12 minutes and ending at 14 minutes.
+	The subject of this meeting is Object Oriented Programming.
+	The urgency of this meeting is 5 out of 10.
+
+	The professor has been waiting for 4 minutes before John showed up.
+	John is meeting the professor for 1 minutes, starting at 18 minutes and ending at 19 minutes.
+	The subject of this meeting is Calculus 2.
+	The urgency of this meeting is 9 out of 10.
+
+	The professor has been waiting for 3 minutes before Jacob showed up.
+	Jacob is meeting the professor for 1 minutes, starting at 22 minutes and ending at 23 minutes.
+	The subject of this meeting is Introduction to Embedded Systems.
+	The urgency of this meeting is 3 out of 10.
+
+	The professor has been waiting for 9 minutes before Anthony showed up.
+	Anthony is meeting the professor for 9 minutes, starting at 32 minutes and ending at 41 minutes.
+	The subject of this meeting is Data Structures.
+	The urgency of this meeting is 7 out of 10.
+
+	Andrea has been waiting in the queue for 3 minutes.
+	Andrea is meeting the professor for 9 minutes, starting at 41 minutes and ending at 50 minutes.
+	The subject of this meeting is Discrete Math.
+	The urgency of this meeting is 3 out of 10.
+
+	Juan has been waiting in the queue for 3 minutes.
+	Juan is meeting the professor for 10 minutes, starting at 50 minutes and ending at 60 minutes.
+	The subject of this meeting is Introduction to Computer Science.
+	The urgency of this meeting is 10 out of 10.
+
+	Jonathan has been waiting in the queue for 5 minutes.
+	Jonathan is meeting the professor for 5 minutes, starting at 60 minutes and ending at 65 minutes.
+	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 7 out of 10.
+
+	Sergio has been waiting in the queue for 15 minutes.
+	Sergio is meeting the professor for 9 minutes, starting at 65 minutes and ending at 74 minutes.
+	The subject of this meeting is Introduction to Computer Science.
+	The urgency of this meeting is 3 out of 10.
+

@@ -1,0 +1,57 @@
+Meeting Log: 
+
+	The professor has been waiting for 9 minutes before Grace showed up.
+	Grace is meeting the professor for 3 minutes, starting at 9 minutes and ending at 12 minutes.
+	The subject of this meeting is Calculus 2.
+	The urgency of this meeting is 9 out of 10.
+
+	Jessica has been waiting in the queue for 3 minutes.
+	Jessica is meeting the professor for 6 minutes, starting at 12 minutes and ending at 18 minutes.
+	The subject of this meeting is Linear Algebra.
+	The urgency of this meeting is 5 out of 10.
+
+	Grant has been waiting in the queue for 2 minutes.
+	Grant is meeting the professor for 7 minutes, starting at 18 minutes and ending at 25 minutes.
+	The subject of this meeting is Object Oriented Programming.
+	The urgency of this meeting is 5 out of 10.
+
+	Jonathan has been waiting in the queue for 6 minutes.
+	Jonathan is meeting the professor for 3 minutes, starting at 25 minutes and ending at 28 minutes.
+	The subject of this meeting is Probability and Statistics.
+	The urgency of this meeting is 6 out of 10.
+
+	Kristi has been waiting in the queue for 1 minutes.
+	Kristi is meeting the professor for 3 minutes, starting at 28 minutes and ending at 31 minutes.
+	The subject of this meeting is Probability and Statistics.
+	The urgency of this meeting is 9 out of 10.
+
+	John has been waiting in the queue for 1 minutes.
+	John is meeting the professor for 2 minutes, starting at 31 minutes and ending at 33 minutes.
+	The subject of this meeting is Introduction to Computer Science.
+	The urgency of this meeting is 5 out of 10.
+
+	Kyle has been waiting in the queue for 12 minutes.
+	Kyle is meeting the professor for 3 minutes, starting at 33 minutes and ending at 36 minutes.
+	The subject of this meeting is Operating Systems.
+	The urgency of this meeting is 1 out of 10.
+
+	The professor has been waiting for 4 minutes before Jonathan showed up.
+	Jonathan is meeting the professor for 3 minutes, starting at 40 minutes and ending at 43 minutes.
+	The subject of this meeting is Discrete Math.
+	The urgency of this meeting is 9 out of 10.
+
+	The professor has been waiting for 3 minutes before Camden showed up.
+	Camden is meeting the professor for 8 minutes, starting at 46 minutes and ending at 54 minutes.
+	The subject of this meeting is Calculus 4.
+	The urgency of this meeting is 10 out of 10.
+
+	The professor has been waiting for 2 minutes before Henry showed up.
+	Henry is meeting the professor for 10 minutes, starting at 56 minutes and ending at 66 minutes.
+	The subject of this meeting is Calculus 3.
+	The urgency of this meeting is 10 out of 10.
+
+	Kyle has been waiting in the queue for 9 minutes.
+	Kyle is meeting the professor for 10 minutes, starting at 66 minutes and ending at 76 minutes.
+	The subject of this meeting is Calculus 4.
+	The urgency of this meeting is 1 out of 10.
+

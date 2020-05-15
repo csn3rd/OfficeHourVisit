@@ -1,0 +1,47 @@
+Meeting Log: 
+
+	The professor has been waiting for 9 minutes before Chiwei showed up.
+	Chiwei is meeting the professor for 8 minutes, starting at 9 minutes and ending at 17 minutes.
+	The subject of this meeting is Calculus 3.
+	The urgency of this meeting is 1 out of 10.
+
+	Ian has been waiting in the queue for 1 minutes.
+	Ian is meeting the professor for 5 minutes, starting at 17 minutes and ending at 22 minutes.
+	The subject of this meeting is Calculus 2.
+	The urgency of this meeting is 10 out of 10.
+
+	Pratham has been waiting in the queue for 1 minutes.
+	Pratham is meeting the professor for 2 minutes, starting at 22 minutes and ending at 24 minutes.
+	The subject of this meeting is Data Structures.
+	The urgency of this meeting is 4 out of 10.
+
+	The professor has been waiting for 2 minutes before Kristi showed up.
+	Kristi is meeting the professor for 7 minutes, starting at 26 minutes and ending at 33 minutes.
+	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 8 out of 10.
+
+	Swathi has been waiting in the queue for 6 minutes.
+	Swathi is meeting the professor for 7 minutes, starting at 33 minutes and ending at 40 minutes.
+	The subject of this meeting is Object Oriented Programming.
+	The urgency of this meeting is 5 out of 10.
+
+	Grant has been waiting in the queue for 4 minutes.
+	Grant is meeting the professor for 9 minutes, starting at 40 minutes and ending at 49 minutes.
+	The subject of this meeting is Calculus 3.
+	The urgency of this meeting is 8 out of 10.
+
+	Swathi has been waiting in the queue for 1 minutes.
+	Swathi is meeting the professor for 6 minutes, starting at 49 minutes and ending at 55 minutes.
+	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 8 out of 10.
+
+	Sergio has been waiting in the queue for 12 minutes.
+	Sergio is meeting the professor for 4 minutes, starting at 55 minutes and ending at 59 minutes.
+	The subject of this meeting is Linear Algebra.
+	The urgency of this meeting is 1 out of 10.
+
+	Patrick has been waiting in the queue for 3 minutes.
+	Patrick is meeting the professor for 5 minutes, starting at 59 minutes and ending at 64 minutes.
+	The subject of this meeting is Calculus 3.
+	The urgency of this meeting is 1 out of 10.
+

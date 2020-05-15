@@ -1,0 +1,47 @@
+Meeting Log: 
+
+	The professor has been waiting for 8 minutes before Samuel showed up.
+	Samuel is meeting the professor for 9 minutes, starting at 8 minutes and ending at 17 minutes.
+	The subject of this meeting is Probability and Statistics.
+	The urgency of this meeting is 3 out of 10.
+
+	Brycen has been waiting in the queue for 5 minutes.
+	Brycen is meeting the professor for 10 minutes, starting at 17 minutes and ending at 27 minutes.
+	The subject of this meeting is Introduction to Embedded Systems.
+	The urgency of this meeting is 10 out of 10.
+
+	Juan has been waiting in the queue for 8 minutes.
+	Juan is meeting the professor for 10 minutes, starting at 27 minutes and ending at 37 minutes.
+	The subject of this meeting is Introduction to Computer Science.
+	The urgency of this meeting is 8 out of 10.
+
+	Swathi has been waiting in the queue for 14 minutes.
+	Swathi is meeting the professor for 4 minutes, starting at 37 minutes and ending at 41 minutes.
+	The subject of this meeting is Introduction to Embedded Systems.
+	The urgency of this meeting is 7 out of 10.
+
+	Camden has been waiting in the queue for 10 minutes.
+	Camden is meeting the professor for 1 minutes, starting at 41 minutes and ending at 42 minutes.
+	The subject of this meeting is Introduction to Computer Science.
+	The urgency of this meeting is 5 out of 10.
+
+	Ian has been waiting in the queue for 1 minutes.
+	Ian is meeting the professor for 10 minutes, starting at 42 minutes and ending at 52 minutes.
+	The subject of this meeting is Calculus 2.
+	The urgency of this meeting is 1 out of 10.
+
+	Andrea has been waiting in the queue for 2 minutes.
+	Andrea is meeting the professor for 3 minutes, starting at 52 minutes and ending at 55 minutes.
+	The subject of this meeting is Discrete Math.
+	The urgency of this meeting is 3 out of 10.
+
+	The professor has been waiting for 3 minutes before Swathi showed up.
+	Swathi is meeting the professor for 1 minutes, starting at 58 minutes and ending at 59 minutes.
+	The subject of this meeting is Operating Systems.
+	The urgency of this meeting is 3 out of 10.
+
+	Ian arrived just as the previous student was leaving.
+	Ian is meeting the professor for 4 minutes, starting at 59 minutes and ending at 63 minutes.
+	The subject of this meeting is Data Structures.
+	The urgency of this meeting is 5 out of 10.
+

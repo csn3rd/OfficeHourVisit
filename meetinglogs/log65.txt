@@ -1,0 +1,52 @@
+Meeting Log: 
+
+	The professor has been waiting for 9 minutes before Brian showed up.
+	Brian is meeting the professor for 4 minutes, starting at 9 minutes and ending at 13 minutes.
+	The subject of this meeting is Calculus 3.
+	The urgency of this meeting is 1 out of 10.
+
+	The professor has been waiting for 5 minutes before Ezra showed up.
+	Ezra is meeting the professor for 3 minutes, starting at 18 minutes and ending at 21 minutes.
+	The subject of this meeting is Probability and Statistics.
+	The urgency of this meeting is 4 out of 10.
+
+	The professor has been waiting for 4 minutes before Ian showed up.
+	Ian is meeting the professor for 8 minutes, starting at 25 minutes and ending at 33 minutes.
+	The subject of this meeting is Theory of Automata and Languages.
+	The urgency of this meeting is 7 out of 10.
+
+	Primrose arrived just as the previous student was leaving.
+	Primrose is meeting the professor for 2 minutes, starting at 33 minutes and ending at 35 minutes.
+	The subject of this meeting is Theory of Automata and Languages.
+	The urgency of this meeting is 5 out of 10.
+
+	The professor has been waiting for 3 minutes before Jonathan showed up.
+	Jonathan is meeting the professor for 2 minutes, starting at 38 minutes and ending at 40 minutes.
+	The subject of this meeting is Linear Algebra.
+	The urgency of this meeting is 3 out of 10.
+
+	Samuel arrived just as the previous student was leaving.
+	Samuel is meeting the professor for 9 minutes, starting at 40 minutes and ending at 49 minutes.
+	The subject of this meeting is Calculus 3.
+	The urgency of this meeting is 8 out of 10.
+
+	Kyle has been waiting in the queue for 4 minutes.
+	Kyle is meeting the professor for 4 minutes, starting at 49 minutes and ending at 53 minutes.
+	The subject of this meeting is Probability and Statistics.
+	The urgency of this meeting is 9 out of 10.
+
+	Samuel has been waiting in the queue for 1 minutes.
+	Samuel is meeting the professor for 8 minutes, starting at 53 minutes and ending at 61 minutes.
+	The subject of this meeting is Probability and Statistics.
+	The urgency of this meeting is 7 out of 10.
+
+	Austin has been waiting in the queue for 21 minutes.
+	Austin is meeting the professor for 9 minutes, starting at 61 minutes and ending at 70 minutes.
+	The subject of this meeting is Operating Systems.
+	The urgency of this meeting is 5 out of 10.
+
+	Kristi has been waiting in the queue for 11 minutes.
+	Kristi is meeting the professor for 2 minutes, starting at 70 minutes and ending at 72 minutes.
+	The subject of this meeting is Theory of Automata and Languages.
+	The urgency of this meeting is 5 out of 10.
+
