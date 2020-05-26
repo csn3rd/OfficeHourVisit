@@ -1,40 +1,37 @@
 Subjects that Brian has attended office hours for:
 
-Linear Algebra
-Object Oriented Programming
+Discrete Math
 Discrete Math
 Introduction to Logic Design
-Operating Systems
+Object Oriented Programming
+Discrete Math
+Theory of Algorithms
+Linear Algebra
 Linear Algebra
 Calculus 4
-Introduction to Logic Design
-Object Oriented Programming
 Operating Systems
-Calculus 1
-Introduction to Logic Design
-Calculus 1
+Calculus 2
+Introduction to Embedded Systems
+Operating Systems
+Data Structures
+Introduction to Computer Science
+Theory of Automata and Languages
+Theory of Algorithms
 Linear Algebra
 Introduction to Computer Science
+Object Oriented Programming
 Probability and Statistics
-Theory of Automata and Languages
-Operating Systems
-Linear Algebra
-Theory of Algorithms
-Data Structures
-Probability and Statistics
-Operating Systems
-Operating Systems
-Calculus 1
-Data Structures
-Linear Algebra
 Introduction to Embedded Systems
-Calculus 3
-Calculus 3
-Operating Systems
-Probability and Statistics
-Theory of Algorithms
+Linear Algebra
 Introduction to Logic Design
 Operating Systems
-Data Structures
-Calculus 3
+Theory of Automata and Languages
+Introduction to Computer Science
+Object Oriented Programming
 Probability and Statistics
+Introduction to Computer Science
+Introduction to Logic Design
+Discrete Math
+Operating Systems
+Introduction to Computer Science
+Theory of Automata and Languages

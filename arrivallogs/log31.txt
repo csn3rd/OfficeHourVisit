@@ -1,37 +1,46 @@
 Arrival Log: 
 
-	Camden is arriving at 2 minutes. The urgency of the meeting is 9 out of 10.
+	Emma is arriving at 3 minutes. The urgency of the meeting is 10 out of 10.
 
-	Henry is arriving 10 minutes after Camden.
-	Henry is arriving at 12 minutes. The urgency of the meeting is 6 out of 10.
+	Frank is arriving 0 minutes after Emma.
+	Frank is arriving at 3 minutes. The urgency of the meeting is 5 out of 10.
 
-	Henry is arriving 5 minutes after Henry.
-	Henry is arriving at 17 minutes. The urgency of the meeting is 5 out of 10.
+	Aditya is arriving 7 minutes after Frank.
+	Aditya is arriving at 10 minutes. The urgency of the meeting is 1 out of 10.
 
-	Henry is arriving 5 minutes after Henry.
-	Henry is arriving at 22 minutes. The urgency of the meeting is 10 out of 10.
+	Ezra is arriving 2 minutes after Aditya.
+	Ezra is arriving at 12 minutes. The urgency of the meeting is 10 out of 10.
 
-	Sunjit is arriving 5 minutes after Henry.
-	Sunjit is arriving at 27 minutes. The urgency of the meeting is 6 out of 10.
+	Justin is arriving 3 minutes after Ezra.
+	Justin is arriving at 15 minutes. The urgency of the meeting is 7 out of 10.
 
-	Grace is arriving 5 minutes after Sunjit.
-	Grace is arriving at 32 minutes. The urgency of the meeting is 9 out of 10.
+	Samuel is arriving 5 minutes after Justin.
+	Samuel is arriving at 20 minutes. The urgency of the meeting is 9 out of 10.
 
-	Arjun is arriving 9 minutes after Grace.
-	Arjun is arriving at 41 minutes. The urgency of the meeting is 4 out of 10.
+	Austin is arriving 0 minutes after Samuel.
+	Austin is arriving at 20 minutes. The urgency of the meeting is 2 out of 10.
 
-	George is arriving 7 minutes after Arjun.
-	George is arriving at 48 minutes. The urgency of the meeting is 4 out of 10.
+	Sergio is arriving 9 minutes after Austin.
+	Sergio is arriving at 29 minutes. The urgency of the meeting is 9 out of 10.
 
-	Kristi is arriving 0 minutes after George.
-	Kristi is arriving at 48 minutes. The urgency of the meeting is 5 out of 10.
+	Camden is arriving 2 minutes after Sergio.
+	Camden is arriving at 31 minutes. The urgency of the meeting is 4 out of 10.
 
-	Emma is arriving 5 minutes after Kristi.
-	Emma is arriving at 53 minutes. The urgency of the meeting is 3 out of 10.
+	Sarah is arriving 1 minutes after Camden.
+	Sarah is arriving at 32 minutes. The urgency of the meeting is 2 out of 10.
 
-	Brian is arriving 1 minutes after Emma.
-	Brian is arriving at 54 minutes. The urgency of the meeting is 9 out of 10.
+	Emma is arriving 8 minutes after Sarah.
+	Emma is arriving at 40 minutes. The urgency of the meeting is 7 out of 10.
 
-	Swathi is arriving 2 minutes after Brian.
-	Swathi is arriving at 56 minutes. The urgency of the meeting is 2 out of 10.
+	Grace is arriving 2 minutes after Emma.
+	Grace is arriving at 42 minutes. The urgency of the meeting is 2 out of 10.
+
+	Andrea is arriving 3 minutes after Grace.
+	Andrea is arriving at 45 minutes. The urgency of the meeting is 3 out of 10.
+
+	Patrick is arriving 4 minutes after Andrea.
+	Patrick is arriving at 49 minutes. The urgency of the meeting is 1 out of 10.
+
+	Ezra is arriving 8 minutes after Patrick.
+	Ezra is arriving at 57 minutes. The urgency of the meeting is 2 out of 10.
 

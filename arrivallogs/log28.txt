@@ -1,37 +1,25 @@
 Arrival Log: 
 
-	Chiwei is arriving at 2 minutes. The urgency of the meeting is 9 out of 10.
+	Aditya is arriving at 8 minutes. The urgency of the meeting is 10 out of 10.
 
-	Sarah is arriving 0 minutes after Chiwei.
-	Sarah is arriving at 2 minutes. The urgency of the meeting is 3 out of 10.
+	Jacob is arriving 6 minutes after Aditya.
+	Jacob is arriving at 14 minutes. The urgency of the meeting is 4 out of 10.
 
-	Camden is arriving 9 minutes after Sarah.
-	Camden is arriving at 11 minutes. The urgency of the meeting is 7 out of 10.
+	Ian is arriving 8 minutes after Jacob.
+	Ian is arriving at 22 minutes. The urgency of the meeting is 2 out of 10.
 
-	Chiwei is arriving 7 minutes after Camden.
-	Chiwei is arriving at 18 minutes. The urgency of the meeting is 7 out of 10.
+	Andrea is arriving 10 minutes after Ian.
+	Andrea is arriving at 32 minutes. The urgency of the meeting is 5 out of 10.
 
-	Camden is arriving 10 minutes after Chiwei.
-	Camden is arriving at 28 minutes. The urgency of the meeting is 7 out of 10.
+	Camden is arriving 0 minutes after Andrea.
+	Camden is arriving at 32 minutes. The urgency of the meeting is 6 out of 10.
 
-	Ian is arriving 6 minutes after Camden.
-	Ian is arriving at 34 minutes. The urgency of the meeting is 7 out of 10.
+	Aditya is arriving 10 minutes after Camden.
+	Aditya is arriving at 42 minutes. The urgency of the meeting is 6 out of 10.
 
-	Ian is arriving 7 minutes after Ian.
-	Ian is arriving at 41 minutes. The urgency of the meeting is 9 out of 10.
+	Francesca is arriving 8 minutes after Aditya.
+	Francesca is arriving at 50 minutes. The urgency of the meeting is 6 out of 10.
 
-	Samuel is arriving 0 minutes after Ian.
-	Samuel is arriving at 41 minutes. The urgency of the meeting is 4 out of 10.
-
-	George is arriving 8 minutes after Samuel.
-	George is arriving at 49 minutes. The urgency of the meeting is 3 out of 10.
-
-	Kyle is arriving 1 minutes after George.
-	Kyle is arriving at 50 minutes. The urgency of the meeting is 6 out of 10.
-
-	Samuel is arriving 6 minutes after Kyle.
-	Samuel is arriving at 56 minutes. The urgency of the meeting is 9 out of 10.
-
-	Swathi is arriving 0 minutes after Samuel.
-	Swathi is arriving at 56 minutes. The urgency of the meeting is 10 out of 10.
+	Brian is arriving 3 minutes after Francesca.
+	Brian is arriving at 53 minutes. The urgency of the meeting is 3 out of 10.
 

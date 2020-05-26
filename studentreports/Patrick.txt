@@ -1,37 +1,32 @@
 Subjects that Patrick has attended office hours for:
 
-Introduction to Logic Design
-Data Structures
-Data Structures
-Calculus 1
-Calculus 1
-Calculus 3
-Theory of Algorithms
-Probability and Statistics
-Operating Systems
 Theory of Automata and Languages
-Introduction to Logic Design
-Data Structures
-Calculus 4
-Introduction to Computer Science
-Introduction to Logic Design
-Calculus 1
-Discrete Math
-Linear Algebra
-Introduction to Computer Science
-Probability and Statistics
-Operating Systems
-Introduction to Computer Science
-Linear Algebra
-Discrete Math
-Theory of Algorithms
 Introduction to Embedded Systems
 Probability and Statistics
-Discrete Math
+Linear Algebra
 Operating Systems
+Introduction to Embedded Systems
+Calculus 4
 Calculus 1
-Calculus 1
-Probability and Statistics
 Introduction to Computer Science
-Operating Systems
+Object Oriented Programming
+Data Structures
+Calculus 2
+Linear Algebra
+Probability and Statistics
+Introduction to Embedded Systems
+Calculus 1
 Theory of Algorithms
+Calculus 2
+Discrete Math
+Data Structures
+Theory of Automata and Languages
+Introduction to Computer Science
+Calculus 3
+Linear Algebra
+Theory of Automata and Languages
+Probability and Statistics
+Probability and Statistics
+Theory of Algorithms
+Probability and Statistics
+Calculus 3

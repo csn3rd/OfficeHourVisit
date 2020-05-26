@@ -1,29 +1,34 @@
 Subjects that Grant has attended office hours for:
 
+Theory of Automata and Languages
+Discrete Math
+Calculus 1
+Theory of Automata and Languages
+Object Oriented Programming
+Probability and Statistics
+Probability and Statistics
+Probability and Statistics
+Data Structures
 Theory of Algorithms
-Calculus 3
+Theory of Algorithms
+Calculus 1
+Theory of Algorithms
+Introduction to Logic Design
 Calculus 4
-Calculus 2
+Data Structures
+Object Oriented Programming
+Theory of Automata and Languages
+Probability and Statistics
+Theory of Automata and Languages
 Probability and Statistics
 Calculus 1
-Discrete Math
-Introduction to Embedded Systems
 Object Oriented Programming
-Object Oriented Programming
-Operating Systems
-Discrete Math
-Discrete Math
-Calculus 4
-Object Oriented Programming
-Data Structures
-Calculus 3
-Calculus 2
 Theory of Algorithms
-Calculus 2
-Introduction to Computer Science
-Calculus 2
+Object Oriented Programming
 Discrete Math
-Calculus 1
-Data Structures
-Linear Algebra
-Linear Algebra
+Calculus 3
+Object Oriented Programming
+Introduction to Logic Design
+Discrete Math
+Calculus 3
+Introduction to Computer Science

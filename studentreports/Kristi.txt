@@ -1,43 +1,26 @@
 Subjects that Kristi has attended office hours for:
 
-Calculus 4
 Calculus 1
-Theory of Algorithms
-Calculus 3
-Introduction to Embedded Systems
-Calculus 3
-Operating Systems
-Calculus 4
-Operating Systems
-Introduction to Logic Design
-Theory of Algorithms
-Operating Systems
-Operating Systems
-Introduction to Logic Design
-Calculus 4
-Calculus 3
-Theory of Algorithms
+Linear Algebra
 Probability and Statistics
-Introduction to Logic Design
-Introduction to Embedded Systems
-Theory of Automata and Languages
-Probability and Statistics
+Object Oriented Programming
+Discrete Math
 Discrete Math
 Theory of Automata and Languages
-Theory of Automata and Languages
-Theory of Automata and Languages
-Theory of Algorithms
+Introduction to Embedded Systems
+Calculus 2
 Introduction to Logic Design
-Data Structures
-Probability and Statistics
-Operating Systems
-Operating Systems
-Calculus 1
-Data Structures
+Theory of Automata and Languages
+Discrete Math
+Introduction to Computer Science
 Introduction to Logic Design
-Object Oriented Programming
+Discrete Math
 Calculus 4
+Introduction to Logic Design
+Calculus 4
+Theory of Automata and Languages
+Theory of Automata and Languages
 Calculus 1
 Linear Algebra
-Linear Algebra
-Calculus 3
+Probability and Statistics
+Calculus 1

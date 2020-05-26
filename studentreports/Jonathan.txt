@@ -1,26 +1,20 @@
 Subjects that Jonathan has attended office hours for:
 
-Discrete Math
+Theory of Algorithms
+Calculus 2
+Calculus 2
+Calculus 4
+Linear Algebra
+Introduction to Logic Design
 Calculus 1
-Linear Algebra
-Theory of Algorithms
-Object Oriented Programming
-Discrete Math
-Introduction to Computer Science
-Theory of Algorithms
-Probability and Statistics
-Discrete Math
-Linear Algebra
-Theory of Algorithms
-Linear Algebra
-Linear Algebra
-Theory of Automata and Languages
-Theory of Algorithms
-Linear Algebra
-Discrete Math
-Calculus 3
+Introduction to Logic Design
 Introduction to Computer Science
 Introduction to Embedded Systems
-Operating Systems
-Calculus 1
-Operating Systems
+Object Oriented Programming
+Introduction to Computer Science
+Theory of Automata and Languages
+Calculus 4
+Linear Algebra
+Object Oriented Programming
+Introduction to Computer Science
+Theory of Automata and Languages

@@ -1,40 +1,28 @@
 Arrival Log: 
 
-	Grace is arriving at 9 minutes. The urgency of the meeting is 6 out of 10.
+	Jessica is arriving at 2 minutes. The urgency of the meeting is 4 out of 10.
 
-	Jessica is arriving 2 minutes after Grace.
-	Jessica is arriving at 11 minutes. The urgency of the meeting is 1 out of 10.
+	Jonathan is arriving 5 minutes after Jessica.
+	Jonathan is arriving at 7 minutes. The urgency of the meeting is 4 out of 10.
 
-	John is arriving 7 minutes after Jessica.
-	John is arriving at 18 minutes. The urgency of the meeting is 3 out of 10.
+	John is arriving 0 minutes after Jonathan.
+	John is arriving at 7 minutes. The urgency of the meeting is 7 out of 10.
 
-	Francesca is arriving 0 minutes after John.
-	Francesca is arriving at 18 minutes. The urgency of the meeting is 3 out of 10.
+	John is arriving 10 minutes after John.
+	John is arriving at 17 minutes. The urgency of the meeting is 10 out of 10.
 
-	Andrea is arriving 7 minutes after Francesca.
-	Andrea is arriving at 25 minutes. The urgency of the meeting is 8 out of 10.
+	Frank is arriving 4 minutes after John.
+	Frank is arriving at 21 minutes. The urgency of the meeting is 6 out of 10.
 
-	Pratham is arriving 7 minutes after Andrea.
-	Pratham is arriving at 32 minutes. The urgency of the meeting is 10 out of 10.
+	Juan is arriving 5 minutes after Frank.
+	Juan is arriving at 26 minutes. The urgency of the meeting is 10 out of 10.
 
-	Juan is arriving 3 minutes after Pratham.
-	Juan is arriving at 35 minutes. The urgency of the meeting is 5 out of 10.
+	Ezra is arriving 10 minutes after Juan.
+	Ezra is arriving at 36 minutes. The urgency of the meeting is 8 out of 10.
 
-	Brycen is arriving 2 minutes after Juan.
-	Brycen is arriving at 37 minutes. The urgency of the meeting is 9 out of 10.
+	Arjun is arriving 7 minutes after Ezra.
+	Arjun is arriving at 43 minutes. The urgency of the meeting is 3 out of 10.
 
-	Kyle is arriving 3 minutes after Brycen.
-	Kyle is arriving at 40 minutes. The urgency of the meeting is 6 out of 10.
-
-	Camden is arriving 2 minutes after Kyle.
-	Camden is arriving at 42 minutes. The urgency of the meeting is 2 out of 10.
-
-	Austin is arriving 0 minutes after Camden.
-	Austin is arriving at 42 minutes. The urgency of the meeting is 4 out of 10.
-
-	Grace is arriving 5 minutes after Austin.
-	Grace is arriving at 47 minutes. The urgency of the meeting is 4 out of 10.
-
-	Anthony is arriving 10 minutes after Grace.
-	Anthony is arriving at 57 minutes. The urgency of the meeting is 8 out of 10.
+	Frank is arriving 7 minutes after Arjun.
+	Frank is arriving at 50 minutes. The urgency of the meeting is 9 out of 10.
 

@@ -35,6 +35,8 @@ void collateRes();		// collates and analyzes all the simulations run
 void nameInput();		// function to read "Student Roster.txt"
 void subjectInput();	// function to read "Subjects.txt"
 
+void sort();
+
 string arrivallog;		// string to keep track of arrival data
 string meetinglog;		// string to keep track of meeting data
 
@@ -49,6 +51,7 @@ int totalovertime = 0;
 
 multimap<string, string> totalmeetingdata;		// multimap to store subjects that each student has asked about
 
+vector<student> data;		// vector to store all the students for sorting purposes
 
 // main
 int main() {
@@ -91,6 +94,8 @@ int main() {
 	}
 
 	collateRes();		// call the collate results function
+
+	sort();				// call the sort function
 
 	return 0;
 }
@@ -149,6 +154,8 @@ void simulate() {
 			student current = queue.top();
 			queue.pop();
 
+			data.push_back(current);		// add current student to the vector to sort later
+
 			// increment trackers
 			count++;
 			totalstudents++;
@@ -193,6 +200,51 @@ void simulate() {
 	}
 }
 
+// insertion sort function
+void sort() {
+
+	// input
+	cout << "\nPlease enter whether you would like to sort by name or subject [N/S]: ";
+	string sortingBy;
+	cin >> sortingBy;
+
+	// determine field to sort by
+	bool sortingByName = true;
+	if (sortingBy == "S") {
+		sortingByName = false;
+	}
+
+	// insertion sort
+	for (int i = 0; i < data.size(); i++) {
+		int j = i-1;
+		student current = data[i];
+		if (sortingByName) {
+			while (j >= 0 && (current.name() < data[j].name() || (current.name() == data[j].name() && current.topic() < data[j].topic()))) {
+				data[j+1] = data[j];
+				j--;
+			}
+			data[j+1] = current;
+		} else {
+			while (j >= 0 && (current.topic() < data[j].topic() || (current.topic() == data[j].topic() && current.name() < data[j].name()))) {
+				data[j+1] = data[j];
+				j--;
+			}
+			data[j+1] = current;
+		}
+	}
+
+	// print to file
+	ofstream reportPrint ("Sorted Report.txt");
+	if (reportPrint.is_open()) {
+		for (auto const& i: data) {
+			if (sortingByName) {
+				reportPrint << i.name() << " " << i.topic() << endl;
+			} else {
+				reportPrint << i.topic() << " " << i.name() << endl;
+			}
+		}
+	}
+}
 
 // collate results function
 void collateRes() {

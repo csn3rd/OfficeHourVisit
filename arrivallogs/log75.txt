@@ -1,40 +1,43 @@
 Arrival Log: 
 
-	Frank is arriving at 9 minutes. The urgency of the meeting is 10 out of 10.
+	Andrea is arriving at 5 minutes. The urgency of the meeting is 4 out of 10.
 
-	Andrea is arriving 4 minutes after Frank.
-	Andrea is arriving at 13 minutes. The urgency of the meeting is 10 out of 10.
+	Sarah is arriving 3 minutes after Andrea.
+	Sarah is arriving at 8 minutes. The urgency of the meeting is 9 out of 10.
 
-	Ian is arriving 5 minutes after Andrea.
-	Ian is arriving at 18 minutes. The urgency of the meeting is 9 out of 10.
+	Ian is arriving 4 minutes after Sarah.
+	Ian is arriving at 12 minutes. The urgency of the meeting is 10 out of 10.
 
-	Swathi is arriving 2 minutes after Ian.
-	Swathi is arriving at 20 minutes. The urgency of the meeting is 2 out of 10.
+	Ian is arriving 9 minutes after Ian.
+	Ian is arriving at 21 minutes. The urgency of the meeting is 3 out of 10.
 
-	Primrose is arriving 2 minutes after Swathi.
-	Primrose is arriving at 22 minutes. The urgency of the meeting is 8 out of 10.
+	Anthony is arriving 1 minutes after Ian.
+	Anthony is arriving at 22 minutes. The urgency of the meeting is 1 out of 10.
 
-	Camden is arriving 8 minutes after Primrose.
-	Camden is arriving at 30 minutes. The urgency of the meeting is 9 out of 10.
+	Sarah is arriving 0 minutes after Anthony.
+	Sarah is arriving at 22 minutes. The urgency of the meeting is 7 out of 10.
 
-	Henry is arriving 4 minutes after Camden.
-	Henry is arriving at 34 minutes. The urgency of the meeting is 4 out of 10.
+	Brian is arriving 6 minutes after Sarah.
+	Brian is arriving at 28 minutes. The urgency of the meeting is 10 out of 10.
 
-	Kristi is arriving 6 minutes after Henry.
-	Kristi is arriving at 40 minutes. The urgency of the meeting is 8 out of 10.
+	Aditya is arriving 6 minutes after Brian.
+	Aditya is arriving at 34 minutes. The urgency of the meeting is 8 out of 10.
 
-	Sarah is arriving 6 minutes after Kristi.
-	Sarah is arriving at 46 minutes. The urgency of the meeting is 2 out of 10.
+	Jonathan is arriving 5 minutes after Aditya.
+	Jonathan is arriving at 39 minutes. The urgency of the meeting is 5 out of 10.
 
-	Brian is arriving 0 minutes after Sarah.
-	Brian is arriving at 46 minutes. The urgency of the meeting is 7 out of 10.
+	Sergio is arriving 9 minutes after Jonathan.
+	Sergio is arriving at 48 minutes. The urgency of the meeting is 8 out of 10.
 
-	Henry is arriving 2 minutes after Brian.
-	Henry is arriving at 48 minutes. The urgency of the meeting is 6 out of 10.
+	Jessica is arriving 4 minutes after Sergio.
+	Jessica is arriving at 52 minutes. The urgency of the meeting is 5 out of 10.
 
-	Primrose is arriving 5 minutes after Henry.
-	Primrose is arriving at 53 minutes. The urgency of the meeting is 10 out of 10.
+	Samuel is arriving 2 minutes after Jessica.
+	Samuel is arriving at 54 minutes. The urgency of the meeting is 6 out of 10.
 
-	Ian is arriving 4 minutes after Primrose.
-	Ian is arriving at 57 minutes. The urgency of the meeting is 3 out of 10.
+	Francesca is arriving 1 minutes after Samuel.
+	Francesca is arriving at 55 minutes. The urgency of the meeting is 7 out of 10.
+
+	Emma is arriving 0 minutes after Francesca.
+	Emma is arriving at 55 minutes. The urgency of the meeting is 6 out of 10.
 

@@ -1,22 +1,37 @@
 Arrival Log: 
 
-	Henry is arriving at 8 minutes. The urgency of the meeting is 2 out of 10.
+	Patrick is arriving at 9 minutes. The urgency of the meeting is 2 out of 10.
 
-	Henry is arriving 10 minutes after Henry.
-	Henry is arriving at 18 minutes. The urgency of the meeting is 5 out of 10.
+	Austin is arriving 9 minutes after Patrick.
+	Austin is arriving at 18 minutes. The urgency of the meeting is 3 out of 10.
 
-	Brycen is arriving 3 minutes after Henry.
-	Brycen is arriving at 21 minutes. The urgency of the meeting is 3 out of 10.
+	Aditya is arriving 4 minutes after Austin.
+	Aditya is arriving at 22 minutes. The urgency of the meeting is 4 out of 10.
 
-	John is arriving 9 minutes after Brycen.
-	John is arriving at 30 minutes. The urgency of the meeting is 4 out of 10.
+	Grace is arriving 9 minutes after Aditya.
+	Grace is arriving at 31 minutes. The urgency of the meeting is 6 out of 10.
 
-	Patrick is arriving 10 minutes after John.
-	Patrick is arriving at 40 minutes. The urgency of the meeting is 10 out of 10.
+	George is arriving 0 minutes after Grace.
+	George is arriving at 31 minutes. The urgency of the meeting is 10 out of 10.
 
-	Arjun is arriving 9 minutes after Patrick.
-	Arjun is arriving at 49 minutes. The urgency of the meeting is 3 out of 10.
+	Jessica is arriving 2 minutes after George.
+	Jessica is arriving at 33 minutes. The urgency of the meeting is 5 out of 10.
 
-	Sunjit is arriving 8 minutes after Arjun.
-	Sunjit is arriving at 57 minutes. The urgency of the meeting is 7 out of 10.
+	Arjun is arriving 4 minutes after Jessica.
+	Arjun is arriving at 37 minutes. The urgency of the meeting is 9 out of 10.
+
+	Sarah is arriving 3 minutes after Arjun.
+	Sarah is arriving at 40 minutes. The urgency of the meeting is 2 out of 10.
+
+	Andrea is arriving 10 minutes after Sarah.
+	Andrea is arriving at 50 minutes. The urgency of the meeting is 1 out of 10.
+
+	Austin is arriving 7 minutes after Andrea.
+	Austin is arriving at 57 minutes. The urgency of the meeting is 6 out of 10.
+
+	George is arriving 0 minutes after Austin.
+	George is arriving at 57 minutes. The urgency of the meeting is 3 out of 10.
+
+	Emma is arriving 1 minutes after George.
+	Emma is arriving at 58 minutes. The urgency of the meeting is 8 out of 10.
 

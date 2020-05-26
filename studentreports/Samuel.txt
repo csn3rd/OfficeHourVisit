@@ -1,35 +1,28 @@
 Subjects that Samuel has attended office hours for:
 
-Data Structures
-Introduction to Computer Science
+Operating Systems
+Theory of Algorithms
+Probability and Statistics
+Object Oriented Programming
 Linear Algebra
-Object Oriented Programming
-Data Structures
+Discrete Math
+Linear Algebra
+Calculus 4
 Theory of Algorithms
+Data Structures
+Operating Systems
+Operating Systems
+Operating Systems
+Discrete Math
+Operating Systems
+Calculus 4
 Probability and Statistics
 Operating Systems
-Calculus 3
+Calculus 2
 Introduction to Logic Design
-Introduction to Computer Science
-Introduction to Computer Science
+Linear Algebra
+Calculus 4
+Calculus 4
 Probability and Statistics
-Introduction to Computer Science
-Object Oriented Programming
-Data Structures
-Calculus 3
-Theory of Algorithms
-Calculus 3
-Probability and Statistics
-Operating Systems
-Introduction to Computer Science
 Theory of Automata and Languages
-Calculus 3
-Theory of Algorithms
-Theory of Automata and Languages
-Theory of Automata and Languages
-Calculus 3
-Calculus 2
-Object Oriented Programming
-Operating Systems
-Calculus 2
-Operating Systems
+Introduction to Logic Design

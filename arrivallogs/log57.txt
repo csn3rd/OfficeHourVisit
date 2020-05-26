@@ -1,31 +1,34 @@
 Arrival Log: 
 
-	Grant is arriving at 3 minutes. The urgency of the meeting is 6 out of 10.
+	Jessica is arriving at 1 minutes. The urgency of the meeting is 7 out of 10.
 
-	Sunjit is arriving 3 minutes after Grant.
-	Sunjit is arriving at 6 minutes. The urgency of the meeting is 5 out of 10.
+	Henry is arriving 5 minutes after Jessica.
+	Henry is arriving at 6 minutes. The urgency of the meeting is 10 out of 10.
 
-	Emma is arriving 10 minutes after Sunjit.
-	Emma is arriving at 16 minutes. The urgency of the meeting is 3 out of 10.
+	Frank is arriving 0 minutes after Henry.
+	Frank is arriving at 6 minutes. The urgency of the meeting is 3 out of 10.
 
-	Chiwei is arriving 4 minutes after Emma.
-	Chiwei is arriving at 20 minutes. The urgency of the meeting is 4 out of 10.
+	George is arriving 1 minutes after Frank.
+	George is arriving at 7 minutes. The urgency of the meeting is 2 out of 10.
 
-	Swathi is arriving 5 minutes after Chiwei.
-	Swathi is arriving at 25 minutes. The urgency of the meeting is 9 out of 10.
+	Sarah is arriving 10 minutes after George.
+	Sarah is arriving at 17 minutes. The urgency of the meeting is 2 out of 10.
 
-	Brian is arriving 6 minutes after Swathi.
-	Brian is arriving at 31 minutes. The urgency of the meeting is 9 out of 10.
+	Emma is arriving 3 minutes after Sarah.
+	Emma is arriving at 20 minutes. The urgency of the meeting is 5 out of 10.
 
-	Frank is arriving 10 minutes after Brian.
-	Frank is arriving at 41 minutes. The urgency of the meeting is 7 out of 10.
+	Ezra is arriving 10 minutes after Emma.
+	Ezra is arriving at 30 minutes. The urgency of the meeting is 5 out of 10.
 
-	Andrea is arriving 6 minutes after Frank.
-	Andrea is arriving at 47 minutes. The urgency of the meeting is 8 out of 10.
+	Frank is arriving 8 minutes after Ezra.
+	Frank is arriving at 38 minutes. The urgency of the meeting is 7 out of 10.
 
-	Swathi is arriving 4 minutes after Andrea.
-	Swathi is arriving at 51 minutes. The urgency of the meeting is 2 out of 10.
+	Brian is arriving 10 minutes after Frank.
+	Brian is arriving at 48 minutes. The urgency of the meeting is 5 out of 10.
 
-	Sarah is arriving 3 minutes after Swathi.
-	Sarah is arriving at 54 minutes. The urgency of the meeting is 9 out of 10.
+	Austin is arriving 3 minutes after Brian.
+	Austin is arriving at 51 minutes. The urgency of the meeting is 8 out of 10.
+
+	Ezra is arriving 5 minutes after Austin.
+	Ezra is arriving at 56 minutes. The urgency of the meeting is 2 out of 10.
 

@@ -1,50 +1,44 @@
 Subjects that George has attended office hours for:
 
-Probability and Statistics
-Calculus 2
-Operating Systems
-Introduction to Computer Science
-Linear Algebra
-Probability and Statistics
-Probability and Statistics
-Theory of Automata and Languages
 Calculus 4
+Theory of Algorithms
+Introduction to Embedded Systems
+Operating Systems
+Linear Algebra
 Discrete Math
-Introduction to Embedded Systems
-Linear Algebra
-Calculus 4
-Calculus 4
-Operating Systems
-Calculus 1
-Discrete Math
-Introduction to Embedded Systems
-Calculus 2
-Linear Algebra
-Object Oriented Programming
-Introduction to Computer Science
-Object Oriented Programming
-Calculus 4
-Calculus 3
-Introduction to Computer Science
-Calculus 1
-Calculus 4
-Operating Systems
-Introduction to Embedded Systems
-Calculus 4
-Theory of Automata and Languages
-Probability and Statistics
-Calculus 4
-Introduction to Computer Science
-Calculus 2
 Data Structures
 Probability and Statistics
-Introduction to Embedded Systems
-Calculus 4
-Calculus 2
-Calculus 2
+Calculus 1
 Object Oriented Programming
+Operating Systems
+Calculus 3
+Calculus 2
+Calculus 2
+Calculus 1
+Theory of Automata and Languages
+Calculus 1
+Object Oriented Programming
+Introduction to Logic Design
+Calculus 1
+Calculus 4
+Data Structures
+Theory of Automata and Languages
+Introduction to Embedded Systems
+Calculus 1
+Probability and Statistics
+Calculus 1
+Theory of Algorithms
+Discrete Math
+Calculus 1
+Discrete Math
+Theory of Automata and Languages
+Calculus 2
 Calculus 4
 Introduction to Computer Science
-Operating Systems
+Introduction to Logic Design
 Introduction to Embedded Systems
-Linear Algebra
+Theory of Automata and Languages
+Data Structures
+Calculus 2
+Calculus 3
+Probability and Statistics

@@ -1,40 +1,38 @@
 Subjects that Emma has attended office hours for:
 
-Calculus 2
-Introduction to Computer Science
-Calculus 3
-Introduction to Embedded Systems
 Calculus 1
-Discrete Math
-Introduction to Computer Science
-Theory of Algorithms
-Calculus 4
+Calculus 2
+Operating Systems
 Linear Algebra
+Introduction to Computer Science
+Calculus 1
 Object Oriented Programming
-Theory of Automata and Languages
+Probability and Statistics
 Calculus 4
-Calculus 1
+Calculus 2
+Calculus 4
+Theory of Automata and Languages
 Theory of Algorithms
-Introduction to Embedded Systems
-Introduction to Embedded Systems
-Introduction to Computer Science
-Introduction to Embedded Systems
-Calculus 4
-Calculus 2
-Introduction to Computer Science
-Calculus 2
 Calculus 1
-Discrete Math
-Operating Systems
-Calculus 2
-Calculus 1
-Operating Systems
-Data Structures
-Theory of Automata and Languages
+Introduction to Logic Design
+Introduction to Logic Design
+Introduction to Logic Design
 Linear Algebra
-Data Structures
+Introduction to Logic Design
+Theory of Algorithms
+Object Oriented Programming
+Discrete Math
+Calculus 4
+Theory of Automata and Languages
 Calculus 2
 Data Structures
+Theory of Algorithms
+Calculus 4
+Probability and Statistics
+Discrete Math
 Introduction to Computer Science
 Calculus 2
-Introduction to Computer Science
+Calculus 4
+Calculus 4
+Probability and Statistics
+Discrete Math

@@ -1,31 +1,46 @@
 Arrival Log: 
 
-	Justin is arriving at 8 minutes. The urgency of the meeting is 2 out of 10.
+	Chiwei is arriving at 1 minutes. The urgency of the meeting is 1 out of 10.
 
-	Justin is arriving 9 minutes after Justin.
-	Justin is arriving at 17 minutes. The urgency of the meeting is 6 out of 10.
+	Jonathan is arriving 7 minutes after Chiwei.
+	Jonathan is arriving at 8 minutes. The urgency of the meeting is 9 out of 10.
 
-	Juan is arriving 7 minutes after Justin.
-	Juan is arriving at 24 minutes. The urgency of the meeting is 8 out of 10.
+	Austin is arriving 0 minutes after Jonathan.
+	Austin is arriving at 8 minutes. The urgency of the meeting is 10 out of 10.
 
-	Samuel is arriving 5 minutes after Juan.
-	Samuel is arriving at 29 minutes. The urgency of the meeting is 4 out of 10.
+	Camden is arriving 2 minutes after Austin.
+	Camden is arriving at 10 minutes. The urgency of the meeting is 7 out of 10.
 
-	Kristi is arriving 4 minutes after Samuel.
-	Kristi is arriving at 33 minutes. The urgency of the meeting is 6 out of 10.
+	Chiwei is arriving 3 minutes after Camden.
+	Chiwei is arriving at 13 minutes. The urgency of the meeting is 5 out of 10.
 
-	Austin is arriving 3 minutes after Kristi.
-	Austin is arriving at 36 minutes. The urgency of the meeting is 1 out of 10.
+	Jacob is arriving 7 minutes after Chiwei.
+	Jacob is arriving at 20 minutes. The urgency of the meeting is 7 out of 10.
 
-	John is arriving 8 minutes after Austin.
-	John is arriving at 44 minutes. The urgency of the meeting is 8 out of 10.
+	Ezra is arriving 5 minutes after Jacob.
+	Ezra is arriving at 25 minutes. The urgency of the meeting is 2 out of 10.
 
-	Sarah is arriving 9 minutes after John.
-	Sarah is arriving at 53 minutes. The urgency of the meeting is 7 out of 10.
+	Grace is arriving 2 minutes after Ezra.
+	Grace is arriving at 27 minutes. The urgency of the meeting is 8 out of 10.
 
-	Martin is arriving 1 minutes after Sarah.
-	Martin is arriving at 54 minutes. The urgency of the meeting is 4 out of 10.
+	Francesca is arriving 1 minutes after Grace.
+	Francesca is arriving at 28 minutes. The urgency of the meeting is 1 out of 10.
 
-	Sunjit is arriving 5 minutes after Martin.
-	Sunjit is arriving at 59 minutes. The urgency of the meeting is 9 out of 10.
+	Francesca is arriving 1 minutes after Francesca.
+	Francesca is arriving at 29 minutes. The urgency of the meeting is 6 out of 10.
+
+	Frank is arriving 9 minutes after Francesca.
+	Frank is arriving at 38 minutes. The urgency of the meeting is 4 out of 10.
+
+	Grace is arriving 10 minutes after Frank.
+	Grace is arriving at 48 minutes. The urgency of the meeting is 8 out of 10.
+
+	Henry is arriving 6 minutes after Grace.
+	Henry is arriving at 54 minutes. The urgency of the meeting is 2 out of 10.
+
+	Patrick is arriving 4 minutes after Henry.
+	Patrick is arriving at 58 minutes. The urgency of the meeting is 3 out of 10.
+
+	Ezra is arriving 0 minutes after Patrick.
+	Ezra is arriving at 58 minutes. The urgency of the meeting is 10 out of 10.
 

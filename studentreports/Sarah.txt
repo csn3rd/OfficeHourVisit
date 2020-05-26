@@ -1,27 +1,46 @@
 Subjects that Sarah has attended office hours for:
 
-Introduction to Logic Design
+Discrete Math
+Calculus 3
 Object Oriented Programming
 Calculus 1
-Calculus 1
-Probability and Statistics
-Object Oriented Programming
-Theory of Algorithms
-Linear Algebra
-Introduction to Logic Design
-Linear Algebra
 Introduction to Computer Science
+Data Structures
+Discrete Math
+Calculus 2
+Theory of Algorithms
+Probability and Statistics
+Theory of Algorithms
+Calculus 1
+Theory of Algorithms
+Introduction to Logic Design
+Object Oriented Programming
+Object Oriented Programming
+Object Oriented Programming
+Discrete Math
+Calculus 1
+Calculus 2
+Calculus 4
+Calculus 4
+Operating Systems
+Theory of Automata and Languages
+Operating Systems
+Calculus 2
+Data Structures
+Theory of Automata and Languages
+Data Structures
+Object Oriented Programming
+Calculus 2
 Calculus 4
 Probability and Statistics
+Calculus 2
 Introduction to Embedded Systems
-Introduction to Computer Science
-Discrete Math
-Data Structures
-Introduction to Embedded Systems
-Linear Algebra
-Theory of Automata and Languages
+Calculus 4
+Introduction to Logic Design
+Calculus 2
+Probability and Statistics
+Calculus 2
 Theory of Algorithms
-Data Structures
-Data Structures
-Data Structures
-Introduction to Embedded Systems
+Introduction to Logic Design
+Calculus 4
+Introduction to Logic Design

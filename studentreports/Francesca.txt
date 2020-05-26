@@ -1,32 +1,31 @@
 Subjects that Francesca has attended office hours for:
 
+Data Structures
 Calculus 3
+Discrete Math
+Discrete Math
 Introduction to Logic Design
-Operating Systems
-Calculus 4
-Calculus 4
-Calculus 4
-Introduction to Logic Design
-Operating Systems
+Linear Algebra
 Calculus 2
 Data Structures
-Calculus 1
-Discrete Math
-Calculus 1
-Discrete Math
-Theory of Automata and Languages
-Calculus 3
-Theory of Automata and Languages
-Introduction to Embedded Systems
-Discrete Math
-Introduction to Embedded Systems
-Calculus 2
-Operating Systems
-Introduction to Logic Design
-Theory of Automata and Languages
-Calculus 3
-Operating Systems
-Discrete Math
-Introduction to Embedded Systems
 Calculus 4
 Operating Systems
+Introduction to Computer Science
+Calculus 3
+Introduction to Logic Design
+Theory of Algorithms
+Discrete Math
+Theory of Algorithms
+Data Structures
+Discrete Math
+Introduction to Logic Design
+Calculus 2
+Calculus 4
+Introduction to Computer Science
+Theory of Algorithms
+Introduction to Logic Design
+Introduction to Embedded Systems
+Object Oriented Programming
+Object Oriented Programming
+Calculus 2
+Object Oriented Programming

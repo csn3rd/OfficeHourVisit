@@ -1,31 +1,28 @@
 Arrival Log: 
 
-	Chiwei is arriving at 9 minutes. The urgency of the meeting is 1 out of 10.
+	Henry is arriving at 7 minutes. The urgency of the meeting is 5 out of 10.
 
-	John is arriving 9 minutes after Chiwei.
-	John is arriving at 18 minutes. The urgency of the meeting is 6 out of 10.
+	Swathi is arriving 5 minutes after Henry.
+	Swathi is arriving at 12 minutes. The urgency of the meeting is 4 out of 10.
 
-	Aditya is arriving 3 minutes after John.
-	Aditya is arriving at 21 minutes. The urgency of the meeting is 5 out of 10.
+	Jessica is arriving 8 minutes after Swathi.
+	Jessica is arriving at 20 minutes. The urgency of the meeting is 7 out of 10.
 
-	Frank is arriving 1 minutes after Aditya.
-	Frank is arriving at 22 minutes. The urgency of the meeting is 10 out of 10.
+	Aditya is arriving 6 minutes after Jessica.
+	Aditya is arriving at 26 minutes. The urgency of the meeting is 6 out of 10.
 
-	Grace is arriving 7 minutes after Frank.
-	Grace is arriving at 29 minutes. The urgency of the meeting is 5 out of 10.
+	George is arriving 8 minutes after Aditya.
+	George is arriving at 34 minutes. The urgency of the meeting is 8 out of 10.
 
-	Jessica is arriving 9 minutes after Grace.
-	Jessica is arriving at 38 minutes. The urgency of the meeting is 3 out of 10.
+	Ezra is arriving 5 minutes after George.
+	Ezra is arriving at 39 minutes. The urgency of the meeting is 5 out of 10.
 
-	Ian is arriving 9 minutes after Jessica.
-	Ian is arriving at 47 minutes. The urgency of the meeting is 9 out of 10.
+	Ezra is arriving 9 minutes after Ezra.
+	Ezra is arriving at 48 minutes. The urgency of the meeting is 7 out of 10.
 
-	Austin is arriving 2 minutes after Ian.
-	Austin is arriving at 49 minutes. The urgency of the meeting is 5 out of 10.
+	Arjun is arriving 5 minutes after Ezra.
+	Arjun is arriving at 53 minutes. The urgency of the meeting is 2 out of 10.
 
-	Henry is arriving 5 minutes after Austin.
-	Henry is arriving at 54 minutes. The urgency of the meeting is 5 out of 10.
-
-	Brian is arriving 5 minutes after Henry.
-	Brian is arriving at 59 minutes. The urgency of the meeting is 10 out of 10.
+	Justin is arriving 5 minutes after Arjun.
+	Justin is arriving at 58 minutes. The urgency of the meeting is 6 out of 10.
 

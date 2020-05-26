@@ -1,34 +1,31 @@
 Arrival Log: 
 
-	Jonathan is arriving at 2 minutes. The urgency of the meeting is 6 out of 10.
+	Camden is arriving at 1 minutes. The urgency of the meeting is 1 out of 10.
 
-	Justin is arriving 2 minutes after Jonathan.
-	Justin is arriving at 4 minutes. The urgency of the meeting is 7 out of 10.
+	Primrose is arriving 7 minutes after Camden.
+	Primrose is arriving at 8 minutes. The urgency of the meeting is 9 out of 10.
 
-	Henry is arriving 5 minutes after Justin.
-	Henry is arriving at 9 minutes. The urgency of the meeting is 6 out of 10.
+	Patrick is arriving 0 minutes after Primrose.
+	Patrick is arriving at 8 minutes. The urgency of the meeting is 6 out of 10.
 
-	Brian is arriving 7 minutes after Henry.
-	Brian is arriving at 16 minutes. The urgency of the meeting is 8 out of 10.
+	Brycen is arriving 8 minutes after Patrick.
+	Brycen is arriving at 16 minutes. The urgency of the meeting is 6 out of 10.
 
-	Kyle is arriving 7 minutes after Brian.
-	Kyle is arriving at 23 minutes. The urgency of the meeting is 10 out of 10.
+	Ian is arriving 0 minutes after Brycen.
+	Ian is arriving at 16 minutes. The urgency of the meeting is 7 out of 10.
 
-	Kristi is arriving 6 minutes after Kyle.
-	Kristi is arriving at 29 minutes. The urgency of the meeting is 7 out of 10.
+	Ian is arriving 10 minutes after Ian.
+	Ian is arriving at 26 minutes. The urgency of the meeting is 9 out of 10.
 
-	Andrea is arriving 6 minutes after Kristi.
-	Andrea is arriving at 35 minutes. The urgency of the meeting is 4 out of 10.
+	Swathi is arriving 1 minutes after Ian.
+	Swathi is arriving at 27 minutes. The urgency of the meeting is 8 out of 10.
 
-	Juan is arriving 6 minutes after Andrea.
-	Juan is arriving at 41 minutes. The urgency of the meeting is 1 out of 10.
+	Austin is arriving 9 minutes after Swathi.
+	Austin is arriving at 36 minutes. The urgency of the meeting is 9 out of 10.
 
-	Kyle is arriving 2 minutes after Juan.
-	Kyle is arriving at 43 minutes. The urgency of the meeting is 2 out of 10.
+	Ian is arriving 7 minutes after Austin.
+	Ian is arriving at 43 minutes. The urgency of the meeting is 3 out of 10.
 
-	Henry is arriving 8 minutes after Kyle.
-	Henry is arriving at 51 minutes. The urgency of the meeting is 6 out of 10.
-
-	Austin is arriving 8 minutes after Henry.
-	Austin is arriving at 59 minutes. The urgency of the meeting is 5 out of 10.
+	Arjun is arriving 9 minutes after Ian.
+	Arjun is arriving at 52 minutes. The urgency of the meeting is 10 out of 10.
 

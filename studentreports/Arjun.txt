@@ -1,29 +1,38 @@
 Subjects that Arjun has attended office hours for:
 
-Object Oriented Programming
-Linear Algebra
-Operating Systems
-Probability and Statistics
-Calculus 1
-Linear Algebra
-Linear Algebra
-Calculus 4
-Probability and Statistics
-Discrete Math
-Calculus 4
+Theory of Algorithms
+Data Structures
 Operating Systems
 Theory of Algorithms
 Introduction to Logic Design
-Operating Systems
+Calculus 3
 Calculus 2
 Calculus 2
-Introduction to Embedded Systems
-Data Structures
-Calculus 4
+Introduction to Logic Design
+Calculus 2
+Object Oriented Programming
 Introduction to Embedded Systems
 Discrete Math
+Introduction to Embedded Systems
+Introduction to Embedded Systems
+Introduction to Embedded Systems
 Probability and Statistics
+Introduction to Computer Science
+Calculus 1
+Object Oriented Programming
+Linear Algebra
 Theory of Automata and Languages
 Introduction to Logic Design
-Discrete Math
+Introduction to Logic Design
 Linear Algebra
+Theory of Algorithms
+Introduction to Logic Design
+Calculus 1
+Object Oriented Programming
+Calculus 2
+Theory of Algorithms
+Calculus 1
+Linear Algebra
+Data Structures
+Calculus 1
+Calculus 4

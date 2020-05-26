@@ -1,34 +1,31 @@
 Arrival Log: 
 
-	Henry is arriving at 3 minutes. The urgency of the meeting is 4 out of 10.
+	Swathi is arriving at 4 minutes. The urgency of the meeting is 6 out of 10.
 
-	Swathi is arriving 10 minutes after Henry.
-	Swathi is arriving at 13 minutes. The urgency of the meeting is 2 out of 10.
+	George is arriving 3 minutes after Swathi.
+	George is arriving at 7 minutes. The urgency of the meeting is 6 out of 10.
 
-	Justin is arriving 2 minutes after Swathi.
-	Justin is arriving at 15 minutes. The urgency of the meeting is 7 out of 10.
+	Henry is arriving 7 minutes after George.
+	Henry is arriving at 14 minutes. The urgency of the meeting is 9 out of 10.
 
-	John is arriving 6 minutes after Justin.
-	John is arriving at 21 minutes. The urgency of the meeting is 5 out of 10.
+	Jonathan is arriving 9 minutes after Henry.
+	Jonathan is arriving at 23 minutes. The urgency of the meeting is 7 out of 10.
 
-	Sarah is arriving 3 minutes after John.
-	Sarah is arriving at 24 minutes. The urgency of the meeting is 9 out of 10.
+	Anthony is arriving 7 minutes after Jonathan.
+	Anthony is arriving at 30 minutes. The urgency of the meeting is 5 out of 10.
 
-	Grace is arriving 4 minutes after Sarah.
-	Grace is arriving at 28 minutes. The urgency of the meeting is 2 out of 10.
+	Grant is arriving 6 minutes after Anthony.
+	Grant is arriving at 36 minutes. The urgency of the meeting is 2 out of 10.
 
-	Andrea is arriving 3 minutes after Grace.
-	Andrea is arriving at 31 minutes. The urgency of the meeting is 6 out of 10.
+	Ian is arriving 8 minutes after Grant.
+	Ian is arriving at 44 minutes. The urgency of the meeting is 1 out of 10.
 
-	Ian is arriving 8 minutes after Andrea.
-	Ian is arriving at 39 minutes. The urgency of the meeting is 4 out of 10.
+	Grant is arriving 4 minutes after Ian.
+	Grant is arriving at 48 minutes. The urgency of the meeting is 2 out of 10.
 
-	Kristi is arriving 8 minutes after Ian.
-	Kristi is arriving at 47 minutes. The urgency of the meeting is 3 out of 10.
+	Brycen is arriving 5 minutes after Grant.
+	Brycen is arriving at 53 minutes. The urgency of the meeting is 7 out of 10.
 
-	Frank is arriving 2 minutes after Kristi.
-	Frank is arriving at 49 minutes. The urgency of the meeting is 7 out of 10.
-
-	Justin is arriving 9 minutes after Frank.
-	Justin is arriving at 58 minutes. The urgency of the meeting is 1 out of 10.
+	Jonathan is arriving 3 minutes after Brycen.
+	Jonathan is arriving at 56 minutes. The urgency of the meeting is 3 out of 10.
 

@@ -1,29 +1,40 @@
 Subjects that Jessica has attended office hours for:
 
+Calculus 4
+Theory of Algorithms
+Calculus 3
 Data Structures
 Theory of Automata and Languages
-Introduction to Logic Design
-Introduction to Computer Science
-Introduction to Computer Science
-Calculus 4
-Calculus 1
-Calculus 1
-Calculus 4
-Introduction to Computer Science
-Object Oriented Programming
+Probability and Statistics
+Data Structures
 Calculus 3
-Introduction to Logic Design
-Theory of Automata and Languages
-Calculus 3
-Linear Algebra
+Data Structures
+Operating Systems
 Data Structures
 Introduction to Logic Design
-Calculus 1
-Operating Systems
+Theory of Algorithms
+Discrete Math
 Introduction to Computer Science
-Operating Systems
+Discrete Math
 Calculus 2
-Introduction to Logic Design
+Introduction to Embedded Systems
+Theory of Algorithms
+Calculus 2
+Linear Algebra
+Theory of Automata and Languages
 Operating Systems
+Introduction to Computer Science
 Data Structures
+Operating Systems
+Introduction to Logic Design
+Introduction to Computer Science
+Linear Algebra
+Theory of Algorithms
+Object Oriented Programming
+Introduction to Embedded Systems
+Introduction to Computer Science
+Introduction to Embedded Systems
+Discrete Math
+Calculus 1
+Probability and Statistics
 Data Structures
