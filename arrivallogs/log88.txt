@@ -1,34 +1,31 @@
 Arrival Log: 
 
-	Grant is arriving at 7 minutes. The urgency of the meeting is 6 out of 10.
+	Henry is arriving at 4 minutes. The urgency of the meeting is 6 out of 10.
 
-	Arjun is arriving 8 minutes after Grant.
-	Arjun is arriving at 15 minutes. The urgency of the meeting is 2 out of 10.
+	Andrea is arriving 7 minutes after Henry.
+	Andrea is arriving at 11 minutes. The urgency of the meeting is 6 out of 10.
 
-	Primrose is arriving 7 minutes after Arjun.
-	Primrose is arriving at 22 minutes. The urgency of the meeting is 10 out of 10.
+	Jessica is arriving 10 minutes after Andrea.
+	Jessica is arriving at 21 minutes. The urgency of the meeting is 4 out of 10.
 
-	Kyle is arriving 4 minutes after Primrose.
-	Kyle is arriving at 26 minutes. The urgency of the meeting is 5 out of 10.
+	Arjun is arriving 0 minutes after Jessica.
+	Arjun is arriving at 21 minutes. The urgency of the meeting is 7 out of 10.
 
-	George is arriving 0 minutes after Kyle.
-	George is arriving at 26 minutes. The urgency of the meeting is 10 out of 10.
+	George is arriving 7 minutes after Arjun.
+	George is arriving at 28 minutes. The urgency of the meeting is 8 out of 10.
 
-	Martin is arriving 8 minutes after George.
-	Martin is arriving at 34 minutes. The urgency of the meeting is 8 out of 10.
+	Frank is arriving 1 minutes after George.
+	Frank is arriving at 29 minutes. The urgency of the meeting is 3 out of 10.
 
-	Sergio is arriving 6 minutes after Martin.
-	Sergio is arriving at 40 minutes. The urgency of the meeting is 7 out of 10.
+	Jacob is arriving 3 minutes after Frank.
+	Jacob is arriving at 32 minutes. The urgency of the meeting is 6 out of 10.
 
-	Sunjit is arriving 5 minutes after Sergio.
-	Sunjit is arriving at 45 minutes. The urgency of the meeting is 3 out of 10.
+	Jacob is arriving 7 minutes after Jacob.
+	Jacob is arriving at 39 minutes. The urgency of the meeting is 2 out of 10.
 
-	Emma is arriving 5 minutes after Sunjit.
-	Emma is arriving at 50 minutes. The urgency of the meeting is 2 out of 10.
+	Sunjit is arriving 4 minutes after Jacob.
+	Sunjit is arriving at 43 minutes. The urgency of the meeting is 6 out of 10.
 
-	Arjun is arriving 7 minutes after Emma.
-	Arjun is arriving at 57 minutes. The urgency of the meeting is 6 out of 10.
-
-	Patrick is arriving 2 minutes after Arjun.
-	Patrick is arriving at 59 minutes. The urgency of the meeting is 2 out of 10.
+	Samuel is arriving 9 minutes after Sunjit.
+	Samuel is arriving at 52 minutes. The urgency of the meeting is 3 out of 10.
 

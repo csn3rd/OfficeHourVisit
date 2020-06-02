@@ -1,34 +1,31 @@
 Arrival Log: 
 
-	Francesca is arriving at 4 minutes. The urgency of the meeting is 4 out of 10.
+	Ezra is arriving at 6 minutes. The urgency of the meeting is 7 out of 10.
 
-	Anthony is arriving 8 minutes after Francesca.
-	Anthony is arriving at 12 minutes. The urgency of the meeting is 7 out of 10.
+	Chiwei is arriving 7 minutes after Ezra.
+	Chiwei is arriving at 13 minutes. The urgency of the meeting is 7 out of 10.
 
-	Jessica is arriving 10 minutes after Anthony.
-	Jessica is arriving at 22 minutes. The urgency of the meeting is 9 out of 10.
+	Sergio is arriving 8 minutes after Chiwei.
+	Sergio is arriving at 21 minutes. The urgency of the meeting is 3 out of 10.
 
-	Frank is arriving 7 minutes after Jessica.
-	Frank is arriving at 29 minutes. The urgency of the meeting is 10 out of 10.
+	Juan is arriving 5 minutes after Sergio.
+	Juan is arriving at 26 minutes. The urgency of the meeting is 5 out of 10.
 
-	Arjun is arriving 0 minutes after Frank.
-	Arjun is arriving at 29 minutes. The urgency of the meeting is 9 out of 10.
+	Jacob is arriving 6 minutes after Juan.
+	Jacob is arriving at 32 minutes. The urgency of the meeting is 7 out of 10.
 
-	Henry is arriving 10 minutes after Arjun.
-	Henry is arriving at 39 minutes. The urgency of the meeting is 3 out of 10.
+	Andrea is arriving 3 minutes after Jacob.
+	Andrea is arriving at 35 minutes. The urgency of the meeting is 6 out of 10.
 
-	Juan is arriving 8 minutes after Henry.
-	Juan is arriving at 47 minutes. The urgency of the meeting is 1 out of 10.
+	John is arriving 0 minutes after Andrea.
+	John is arriving at 35 minutes. The urgency of the meeting is 6 out of 10.
 
-	John is arriving 4 minutes after Juan.
-	John is arriving at 51 minutes. The urgency of the meeting is 5 out of 10.
+	Arjun is arriving 10 minutes after John.
+	Arjun is arriving at 45 minutes. The urgency of the meeting is 2 out of 10.
 
-	Ian is arriving 1 minutes after John.
-	Ian is arriving at 52 minutes. The urgency of the meeting is 10 out of 10.
+	Camden is arriving 0 minutes after Arjun.
+	Camden is arriving at 45 minutes. The urgency of the meeting is 9 out of 10.
 
-	Anthony is arriving 1 minutes after Ian.
-	Anthony is arriving at 53 minutes. The urgency of the meeting is 8 out of 10.
-
-	Aditya is arriving 6 minutes after Anthony.
-	Aditya is arriving at 59 minutes. The urgency of the meeting is 4 out of 10.
+	Samuel is arriving 7 minutes after Camden.
+	Samuel is arriving at 52 minutes. The urgency of the meeting is 5 out of 10.
 

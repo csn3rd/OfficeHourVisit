@@ -1,62 +1,67 @@
 Meeting Log: 
 
-	The professor has been waiting for 6 minutes before Patrick showed up.
-	Patrick is meeting the professor for 10 minutes, starting at 6 minutes and ending at 16 minutes.
-	The subject of this meeting is Linear Algebra.
-	The urgency of this meeting is 4 out of 10.
+	The professor has been waiting for 4 minutes before Anthony showed up.
+	Anthony is meeting the professor for 6 minutes, starting at 4 minutes and ending at 10 minutes.
+	The subject of this meeting is Probability and Statistics.
+	The urgency of this meeting is 10 out of 10.
 
-	Ian has been waiting in the queue for 3 minutes.
-	Ian is meeting the professor for 10 minutes, starting at 16 minutes and ending at 26 minutes.
-	The subject of this meeting is Introduction to Logic Design.
+	Primrose has been waiting in the queue for 5 minutes.
+	Primrose is meeting the professor for 2 minutes, starting at 10 minutes and ending at 12 minutes.
+	The subject of this meeting is Introduction to Embedded Systems.
 	The urgency of this meeting is 9 out of 10.
 
-	Jonathan has been waiting in the queue for 2 minutes.
-	Jonathan is meeting the professor for 6 minutes, starting at 26 minutes and ending at 32 minutes.
+	Grace has been waiting in the queue for 2 minutes.
+	Grace is meeting the professor for 6 minutes, starting at 12 minutes and ending at 18 minutes.
 	The subject of this meeting is Calculus 2.
-	The urgency of this meeting is 6 out of 10.
-
-	Patrick has been waiting in the queue for 16 minutes.
-	Patrick is meeting the professor for 10 minutes, starting at 32 minutes and ending at 42 minutes.
-	The subject of this meeting is Operating Systems.
-	The urgency of this meeting is 4 out of 10.
-
-	Anthony has been waiting in the queue for 17 minutes.
-	Anthony is meeting the professor for 7 minutes, starting at 42 minutes and ending at 49 minutes.
-	The subject of this meeting is Introduction to Computer Science.
-	The urgency of this meeting is 4 out of 10.
-
-	Ian has been waiting in the queue for 10 minutes.
-	Ian is meeting the professor for 3 minutes, starting at 49 minutes and ending at 52 minutes.
-	The subject of this meeting is Probability and Statistics.
 	The urgency of this meeting is 3 out of 10.
 
+	Primrose has been waiting in the queue for 3 minutes.
+	Primrose is meeting the professor for 6 minutes, starting at 18 minutes and ending at 24 minutes.
+	The subject of this meeting is Introduction to Logic Design.
+	The urgency of this meeting is 3 out of 10.
+
+	John has been waiting in the queue for 3 minutes.
+	John is meeting the professor for 2 minutes, starting at 24 minutes and ending at 26 minutes.
+	The subject of this meeting is Introduction to Embedded Systems.
+	The urgency of this meeting is 10 out of 10.
+
+	Martin has been waiting in the queue for 12 minutes.
+	Martin is meeting the professor for 8 minutes, starting at 26 minutes and ending at 34 minutes.
+	The subject of this meeting is Object Oriented Programming.
+	The urgency of this meeting is 1 out of 10.
+
+	Austin has been waiting in the queue for 4 minutes.
+	Austin is meeting the professor for 8 minutes, starting at 34 minutes and ending at 42 minutes.
+	The subject of this meeting is Calculus 2.
+	The urgency of this meeting is 9 out of 10.
+
 	John has been waiting in the queue for 1 minutes.
-	John is meeting the professor for 1 minutes, starting at 52 minutes and ending at 53 minutes.
+	John is meeting the professor for 5 minutes, starting at 42 minutes and ending at 47 minutes.
+	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 8 out of 10.
+
+	Martin has been waiting in the queue for 13 minutes.
+	Martin is meeting the professor for 3 minutes, starting at 47 minutes and ending at 50 minutes.
+	The subject of this meeting is Introduction to Logic Design.
+	The urgency of this meeting is 5 out of 10.
+
+	Grace has been waiting in the queue for 21 minutes.
+	Grace is meeting the professor for 6 minutes, starting at 50 minutes and ending at 56 minutes.
+	The subject of this meeting is Linear Algebra.
+	The urgency of this meeting is 3 out of 10.
+
+	John has been waiting in the queue for 5 minutes.
+	John is meeting the professor for 2 minutes, starting at 56 minutes and ending at 58 minutes.
+	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 10 out of 10.
+
+	Jacob has been waiting in the queue for 3 minutes.
+	Jacob is meeting the professor for 9 minutes, starting at 58 minutes and ending at 67 minutes.
 	The subject of this meeting is Calculus 3.
 	The urgency of this meeting is 5 out of 10.
 
-	Ezra has been waiting in the queue for 18 minutes.
-	Ezra is meeting the professor for 8 minutes, starting at 53 minutes and ending at 61 minutes.
-	The subject of this meeting is Object Oriented Programming.
-	The urgency of this meeting is 2 out of 10.
-
-	Brian has been waiting in the queue for 2 minutes.
-	Brian is meeting the professor for 5 minutes, starting at 61 minutes and ending at 66 minutes.
-	The subject of this meeting is Discrete Math.
-	The urgency of this meeting is 9 out of 10.
-
-	Martin has been waiting in the queue for 31 minutes.
-	Martin is meeting the professor for 2 minutes, starting at 66 minutes and ending at 68 minutes.
-	The subject of this meeting is Introduction to Embedded Systems.
-	The urgency of this meeting is 2 out of 10.
-
-	Aditya has been waiting in the queue for 20 minutes.
-	Aditya is meeting the professor for 6 minutes, starting at 68 minutes and ending at 74 minutes.
-	The subject of this meeting is Linear Algebra.
-	The urgency of this meeting is 1 out of 10.
-
-	Emma has been waiting in the queue for 29 minutes.
-	Emma is meeting the professor for 3 minutes, starting at 74 minutes and ending at 77 minutes.
-	The subject of this meeting is Linear Algebra.
-	The urgency of this meeting is 1 out of 10.
+	Camden has been waiting in the queue for 8 minutes.
+	Camden is meeting the professor for 4 minutes, starting at 67 minutes and ending at 71 minutes.
+	The subject of this meeting is Theory of Automata and Languages.
+	The urgency of this meeting is 5 out of 10.
 

@@ -1,29 +1,42 @@
 Subjects that Primrose has attended office hours for:
 
-Theory of Automata and Languages
-Discrete Math
-Calculus 2
-Introduction to Embedded Systems
-Linear Algebra
-Calculus 3
-Introduction to Computer Science
 Probability and Statistics
+Data Structures
 Introduction to Embedded Systems
+Introduction to Logic Design
+Object Oriented Programming
+Probability and Statistics
+Calculus 1
+Theory of Automata and Languages
+Calculus 4
+Calculus 4
+Probability and Statistics
+Calculus 1
+Data Structures
+Object Oriented Programming
+Calculus 2
+Probability and Statistics
+Data Structures
+Introduction to Embedded Systems
+Probability and Statistics
+Data Structures
+Theory of Automata and Languages
+Object Oriented Programming
+Introduction to Logic Design
+Theory of Algorithms
+Calculus 2
+Calculus 3
 Introduction to Computer Science
 Object Oriented Programming
 Operating Systems
-Calculus 1
-Operating Systems
-Operating Systems
-Linear Algebra
-Introduction to Logic Design
-Calculus 1
 Probability and Statistics
+Operating Systems
 Linear Algebra
-Calculus 4
-Introduction to Computer Science
 Discrete Math
-Calculus 2
-Calculus 4
-Probability and Statistics
-Calculus 2
+Discrete Math
+Object Oriented Programming
+Calculus 1
+Calculus 1
+Discrete Math
+Theory of Automata and Languages
+Theory of Automata and Languages

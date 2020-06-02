@@ -1,32 +1,37 @@
 Subjects that Swathi has attended office hours for:
 
-Object Oriented Programming
-Object Oriented Programming
-Theory of Automata and Languages
-Probability and Statistics
-Calculus 3
-Linear Algebra
-Calculus 3
+Discrete Math
 Calculus 4
-Calculus 4
+Object Oriented Programming
+Operating Systems
 Introduction to Logic Design
-Theory of Automata and Languages
-Introduction to Embedded Systems
+Calculus 3
+Calculus 4
+Probability and Statistics
 Calculus 1
-Object Oriented Programming
-Theory of Automata and Languages
-Operating Systems
-Calculus 3
+Linear Algebra
+Calculus 1
 Introduction to Logic Design
-Discrete Math
+Calculus 2
+Introduction to Logic Design
+Operating Systems
+Object Oriented Programming
+Object Oriented Programming
 Introduction to Computer Science
+Theory of Automata and Languages
+Calculus 3
+Introduction to Computer Science
+Object Oriented Programming
 Introduction to Embedded Systems
+Introduction to Embedded Systems
+Calculus 3
+Introduction to Embedded Systems
+Operating Systems
+Introduction to Logic Design
+Linear Algebra
 Introduction to Computer Science
-Linear Algebra
-Operating Systems
-Probability and Statistics
+Theory of Automata and Languages
 Discrete Math
-Discrete Math
-Operating Systems
-Linear Algebra
-Theory of Algorithms
+Calculus 3
+Calculus 3
+Calculus 4

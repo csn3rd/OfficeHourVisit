@@ -1,38 +1,40 @@
 Subjects that Ezra has attended office hours for:
 
-Calculus 2
-Operating Systems
-Linear Algebra
-Introduction to Embedded Systems
-Object Oriented Programming
-Theory of Algorithms
-Introduction to Embedded Systems
 Theory of Automata and Languages
-Probability and Statistics
-Discrete Math
-Discrete Math
-Object Oriented Programming
-Introduction to Logic Design
-Theory of Algorithms
-Discrete Math
-Calculus 4
 Operating Systems
-Calculus 1
-Calculus 3
-Discrete Math
-Discrete Math
-Probability and Statistics
 Introduction to Logic Design
-Calculus 1
-Object Oriented Programming
-Theory of Automata and Languages
-Probability and Statistics
-Discrete Math
-Calculus 3
-Discrete Math
-Calculus 3
-Linear Algebra
-Calculus 3
-Discrete Math
 Data Structures
+Calculus 3
+Object Oriented Programming
+Introduction to Embedded Systems
+Calculus 2
+Calculus 4
+Calculus 1
+Calculus 4
+Introduction to Embedded Systems
+Calculus 1
+Calculus 4
+Theory of Algorithms
+Theory of Automata and Languages
+Calculus 3
+Calculus 1
+Calculus 2
+Data Structures
+Calculus 4
+Calculus 3
+Calculus 4
+Theory of Automata and Languages
+Linear Algebra
+Calculus 3
+Introduction to Computer Science
 Introduction to Logic Design
+Calculus 4
+Linear Algebra
+Introduction to Logic Design
+Theory of Algorithms
+Linear Algebra
+Calculus 3
+Operating Systems
+Theory of Automata and Languages
+Theory of Algorithms
+Operating Systems

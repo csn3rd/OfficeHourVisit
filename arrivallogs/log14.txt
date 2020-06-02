@@ -1,37 +1,40 @@
 Arrival Log: 
 
-	Patrick is arriving at 6 minutes. The urgency of the meeting is 4 out of 10.
+	Anthony is arriving at 4 minutes. The urgency of the meeting is 10 out of 10.
 
-	Ian is arriving 7 minutes after Patrick.
-	Ian is arriving at 13 minutes. The urgency of the meeting is 9 out of 10.
+	Primrose is arriving 1 minutes after Anthony.
+	Primrose is arriving at 5 minutes. The urgency of the meeting is 9 out of 10.
 
-	Patrick is arriving 3 minutes after Ian.
-	Patrick is arriving at 16 minutes. The urgency of the meeting is 4 out of 10.
+	Grace is arriving 5 minutes after Primrose.
+	Grace is arriving at 10 minutes. The urgency of the meeting is 3 out of 10.
 
-	Jonathan is arriving 8 minutes after Patrick.
-	Jonathan is arriving at 24 minutes. The urgency of the meeting is 6 out of 10.
+	Martin is arriving 4 minutes after Grace.
+	Martin is arriving at 14 minutes. The urgency of the meeting is 1 out of 10.
 
-	Anthony is arriving 1 minutes after Jonathan.
-	Anthony is arriving at 25 minutes. The urgency of the meeting is 4 out of 10.
+	Primrose is arriving 1 minutes after Martin.
+	Primrose is arriving at 15 minutes. The urgency of the meeting is 3 out of 10.
 
-	Ezra is arriving 10 minutes after Anthony.
-	Ezra is arriving at 35 minutes. The urgency of the meeting is 2 out of 10.
+	John is arriving 6 minutes after Primrose.
+	John is arriving at 21 minutes. The urgency of the meeting is 10 out of 10.
 
-	Martin is arriving 0 minutes after Ezra.
-	Martin is arriving at 35 minutes. The urgency of the meeting is 2 out of 10.
+	Grace is arriving 8 minutes after John.
+	Grace is arriving at 29 minutes. The urgency of the meeting is 3 out of 10.
 
-	Ian is arriving 4 minutes after Martin.
-	Ian is arriving at 39 minutes. The urgency of the meeting is 3 out of 10.
+	Austin is arriving 1 minutes after Grace.
+	Austin is arriving at 30 minutes. The urgency of the meeting is 9 out of 10.
 
-	Emma is arriving 6 minutes after Ian.
-	Emma is arriving at 45 minutes. The urgency of the meeting is 1 out of 10.
+	Martin is arriving 4 minutes after Austin.
+	Martin is arriving at 34 minutes. The urgency of the meeting is 5 out of 10.
 
-	Aditya is arriving 3 minutes after Emma.
-	Aditya is arriving at 48 minutes. The urgency of the meeting is 1 out of 10.
+	John is arriving 7 minutes after Martin.
+	John is arriving at 41 minutes. The urgency of the meeting is 8 out of 10.
 
-	John is arriving 3 minutes after Aditya.
-	John is arriving at 51 minutes. The urgency of the meeting is 5 out of 10.
+	John is arriving 10 minutes after John.
+	John is arriving at 51 minutes. The urgency of the meeting is 10 out of 10.
 
-	Brian is arriving 8 minutes after John.
-	Brian is arriving at 59 minutes. The urgency of the meeting is 9 out of 10.
+	Jacob is arriving 4 minutes after John.
+	Jacob is arriving at 55 minutes. The urgency of the meeting is 5 out of 10.
+
+	Camden is arriving 4 minutes after Jacob.
+	Camden is arriving at 59 minutes. The urgency of the meeting is 5 out of 10.
 

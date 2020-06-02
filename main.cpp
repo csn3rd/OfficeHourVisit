@@ -35,7 +35,8 @@ void collateRes();		// collates and analyzes all the simulations run
 void nameInput();		// function to read "Student Roster.txt"
 void subjectInput();	// function to read "Subjects.txt"
 
-void sort();
+void sort();			// function to create "sortedreport.txt"
+void search();			// function for user to search
 
 string arrivallog;		// string to keep track of arrival data
 string meetinglog;		// string to keep track of meeting data
@@ -96,6 +97,21 @@ int main() {
 	collateRes();		// call the collate results function
 
 	sort();				// call the sort function
+
+	bool searching = true;
+
+	while (searching) {
+		cout << "\nWould you like to search for a specific student or subject (y/n)?" << endl;
+		string cont;
+		cin >> cont;
+		searching = (cont=="y");
+
+		if (searching) {
+			search();
+		}
+	}
+
+	cout << "\nThank you for running the Office Hour Visit Simulation!" << endl;
 
 	return 0;
 }
@@ -200,11 +216,53 @@ void simulate() {
 	}
 }
 
+void search() {
+
+	cout << "\nPlease enter whether you are searching for a name or a subject [N/S]: ";
+	string searchingBy;
+	cin >> searchingBy;
+
+	bool searchingByName = true;
+	if (searchingBy == "S") {
+		searchingByName = false;
+	}
+
+	string searchterm;
+	if (searchingByName) {
+		cout << "\nPlease enter the name of the student you are searching for: ";
+		cin >> searchterm;
+		cout << "\nHere are the subjects for which " << searchterm << " has come to office hours for.\n";
+	} else {
+		cout << "\nPlease enter the name of the subject you are searching for: ";
+		cin.ignore();
+		getline(cin, searchterm);
+		cout << "\nHere are the students that have asked questions regarding " << searchterm << ".\n";
+	}
+
+
+	int count = 0;
+	// serial search
+	for (int i = 0; i < data.size(); i++) {
+		if (searchingByName && data[i].name()==searchterm) {
+			cout << "\t" << data[i].topic() << endl;
+			count++;
+		}
+		if (!searchingByName && data[i].topic()==searchterm) {
+			cout << "\t" << data[i].name() << endl;
+			count++;
+		}
+	}
+
+	if (count == 0) {
+		cout << "Sorry! Nothing found for " << searchterm << ". Please make sure that you did not make any typos." << endl;
+	}
+}
+
 // insertion sort function
 void sort() {
 
 	// input
-	cout << "\nPlease enter whether you would like to sort by name or subject [N/S]: ";
+	cout << "\nFor the sorted report, please enter whether you would like to sort by name or subject [N/S]: ";
 	string sortingBy;
 	cin >> sortingBy;
 

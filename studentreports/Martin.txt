@@ -1,34 +1,33 @@
 Subjects that Martin has attended office hours for:
 
-Theory of Algorithms
+Theory of Automata and Languages
+Probability and Statistics
+Calculus 4
+Theory of Automata and Languages
 Object Oriented Programming
+Introduction to Logic Design
+Linear Algebra
+Data Structures
 Introduction to Embedded Systems
-Calculus 3
-Theory of Automata and Languages
-Introduction to Computer Science
-Linear Algebra
-Theory of Automata and Languages
-Calculus 1
-Linear Algebra
-Theory of Algorithms
-Linear Algebra
-Calculus 3
-Calculus 2
 Theory of Algorithms
 Calculus 4
-Calculus 1
+Introduction to Embedded Systems
+Introduction to Embedded Systems
+Calculus 3
 Calculus 2
-Theory of Algorithms
-Discrete Math
+Calculus 3
+Data Structures
+Operating Systems
+Calculus 1
+Calculus 4
+Introduction to Computer Science
+Introduction to Embedded Systems
+Object Oriented Programming
+Calculus 2
+Calculus 3
+Probability and Statistics
+Calculus 3
+Object Oriented Programming
 Object Oriented Programming
 Theory of Algorithms
-Data Structures
-Introduction to Logic Design
-Introduction to Computer Science
 Calculus 1
-Introduction to Logic Design
-Data Structures
-Introduction to Computer Science
-Introduction to Computer Science
-Calculus 2
-Theory of Algorithms

@@ -1,22 +1,40 @@
 Arrival Log: 
 
-	Sarah is arriving at 3 minutes. The urgency of the meeting is 1 out of 10.
+	Arjun is arriving at 1 minutes. The urgency of the meeting is 4 out of 10.
 
-	Martin is arriving 9 minutes after Sarah.
-	Martin is arriving at 12 minutes. The urgency of the meeting is 5 out of 10.
+	Ian is arriving 8 minutes after Arjun.
+	Ian is arriving at 9 minutes. The urgency of the meeting is 6 out of 10.
 
-	Sergio is arriving 10 minutes after Martin.
-	Sergio is arriving at 22 minutes. The urgency of the meeting is 1 out of 10.
+	George is arriving 6 minutes after Ian.
+	George is arriving at 15 minutes. The urgency of the meeting is 8 out of 10.
 
-	Arjun is arriving 9 minutes after Sergio.
-	Arjun is arriving at 31 minutes. The urgency of the meeting is 5 out of 10.
+	Juan is arriving 8 minutes after George.
+	Juan is arriving at 23 minutes. The urgency of the meeting is 8 out of 10.
 
-	George is arriving 8 minutes after Arjun.
-	George is arriving at 39 minutes. The urgency of the meeting is 2 out of 10.
+	Frank is arriving 2 minutes after Juan.
+	Frank is arriving at 25 minutes. The urgency of the meeting is 4 out of 10.
 
-	Austin is arriving 10 minutes after George.
-	Austin is arriving at 49 minutes. The urgency of the meeting is 8 out of 10.
+	Aditya is arriving 5 minutes after Frank.
+	Aditya is arriving at 30 minutes. The urgency of the meeting is 7 out of 10.
 
-	Brian is arriving 10 minutes after Austin.
-	Brian is arriving at 59 minutes. The urgency of the meeting is 7 out of 10.
+	Justin is arriving 2 minutes after Aditya.
+	Justin is arriving at 32 minutes. The urgency of the meeting is 2 out of 10.
+
+	Anthony is arriving 4 minutes after Justin.
+	Anthony is arriving at 36 minutes. The urgency of the meeting is 6 out of 10.
+
+	Sunjit is arriving 1 minutes after Anthony.
+	Sunjit is arriving at 37 minutes. The urgency of the meeting is 4 out of 10.
+
+	Arjun is arriving 0 minutes after Sunjit.
+	Arjun is arriving at 37 minutes. The urgency of the meeting is 3 out of 10.
+
+	Grant is arriving 6 minutes after Arjun.
+	Grant is arriving at 43 minutes. The urgency of the meeting is 7 out of 10.
+
+	Brian is arriving 5 minutes after Grant.
+	Brian is arriving at 48 minutes. The urgency of the meeting is 9 out of 10.
+
+	Francesca is arriving 8 minutes after Brian.
+	Francesca is arriving at 56 minutes. The urgency of the meeting is 8 out of 10.
 

@@ -1,31 +1,34 @@
 Arrival Log: 
 
-	Brycen is arriving at 6 minutes. The urgency of the meeting is 10 out of 10.
+	Primrose is arriving at 10 minutes. The urgency of the meeting is 1 out of 10.
 
-	Justin is arriving 5 minutes after Brycen.
-	Justin is arriving at 11 minutes. The urgency of the meeting is 10 out of 10.
+	Grace is arriving 1 minutes after Primrose.
+	Grace is arriving at 11 minutes. The urgency of the meeting is 5 out of 10.
 
-	Juan is arriving 5 minutes after Justin.
-	Juan is arriving at 16 minutes. The urgency of the meeting is 4 out of 10.
+	Francesca is arriving 1 minutes after Grace.
+	Francesca is arriving at 12 minutes. The urgency of the meeting is 6 out of 10.
 
-	Grant is arriving 10 minutes after Juan.
-	Grant is arriving at 26 minutes. The urgency of the meeting is 6 out of 10.
+	Sergio is arriving 5 minutes after Francesca.
+	Sergio is arriving at 17 minutes. The urgency of the meeting is 2 out of 10.
 
-	John is arriving 1 minutes after Grant.
-	John is arriving at 27 minutes. The urgency of the meeting is 3 out of 10.
+	Jessica is arriving 6 minutes after Sergio.
+	Jessica is arriving at 23 minutes. The urgency of the meeting is 9 out of 10.
 
-	Jacob is arriving 5 minutes after John.
-	Jacob is arriving at 32 minutes. The urgency of the meeting is 1 out of 10.
+	Pratham is arriving 5 minutes after Jessica.
+	Pratham is arriving at 28 minutes. The urgency of the meeting is 3 out of 10.
 
-	Aditya is arriving 10 minutes after Jacob.
-	Aditya is arriving at 42 minutes. The urgency of the meeting is 7 out of 10.
+	Francesca is arriving 8 minutes after Pratham.
+	Francesca is arriving at 36 minutes. The urgency of the meeting is 3 out of 10.
 
-	Brian is arriving 10 minutes after Aditya.
-	Brian is arriving at 52 minutes. The urgency of the meeting is 7 out of 10.
+	Ian is arriving 5 minutes after Francesca.
+	Ian is arriving at 41 minutes. The urgency of the meeting is 4 out of 10.
 
-	Henry is arriving 2 minutes after Brian.
-	Henry is arriving at 54 minutes. The urgency of the meeting is 1 out of 10.
+	Jessica is arriving 2 minutes after Ian.
+	Jessica is arriving at 43 minutes. The urgency of the meeting is 2 out of 10.
 
-	Henry is arriving 5 minutes after Henry.
-	Henry is arriving at 59 minutes. The urgency of the meeting is 10 out of 10.
+	Martin is arriving 8 minutes after Jessica.
+	Martin is arriving at 51 minutes. The urgency of the meeting is 5 out of 10.
+
+	Sergio is arriving 6 minutes after Martin.
+	Sergio is arriving at 57 minutes. The urgency of the meeting is 10 out of 10.
 

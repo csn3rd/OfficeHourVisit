@@ -1,37 +1,40 @@
 Arrival Log: 
 
-	Emma is arriving at 4 minutes. The urgency of the meeting is 3 out of 10.
+	Kyle is arriving at 3 minutes. The urgency of the meeting is 10 out of 10.
 
-	Sergio is arriving 5 minutes after Emma.
-	Sergio is arriving at 9 minutes. The urgency of the meeting is 7 out of 10.
+	Patrick is arriving 2 minutes after Kyle.
+	Patrick is arriving at 5 minutes. The urgency of the meeting is 1 out of 10.
 
-	Sergio is arriving 1 minutes after Sergio.
-	Sergio is arriving at 10 minutes. The urgency of the meeting is 9 out of 10.
+	Brian is arriving 8 minutes after Patrick.
+	Brian is arriving at 13 minutes. The urgency of the meeting is 3 out of 10.
 
-	Sarah is arriving 0 minutes after Sergio.
-	Sarah is arriving at 10 minutes. The urgency of the meeting is 1 out of 10.
+	Swathi is arriving 1 minutes after Brian.
+	Swathi is arriving at 14 minutes. The urgency of the meeting is 9 out of 10.
 
-	Arjun is arriving 9 minutes after Sarah.
-	Arjun is arriving at 19 minutes. The urgency of the meeting is 5 out of 10.
+	Chiwei is arriving 0 minutes after Swathi.
+	Chiwei is arriving at 14 minutes. The urgency of the meeting is 9 out of 10.
 
-	Jessica is arriving 10 minutes after Arjun.
-	Jessica is arriving at 29 minutes. The urgency of the meeting is 3 out of 10.
+	Brycen is arriving 7 minutes after Chiwei.
+	Brycen is arriving at 21 minutes. The urgency of the meeting is 9 out of 10.
 
-	Austin is arriving 0 minutes after Jessica.
-	Austin is arriving at 29 minutes. The urgency of the meeting is 6 out of 10.
+	Henry is arriving 5 minutes after Brycen.
+	Henry is arriving at 26 minutes. The urgency of the meeting is 3 out of 10.
 
-	Aditya is arriving 5 minutes after Austin.
-	Aditya is arriving at 34 minutes. The urgency of the meeting is 6 out of 10.
+	Jonathan is arriving 5 minutes after Henry.
+	Jonathan is arriving at 31 minutes. The urgency of the meeting is 5 out of 10.
 
-	Austin is arriving 8 minutes after Aditya.
-	Austin is arriving at 42 minutes. The urgency of the meeting is 1 out of 10.
+	Chiwei is arriving 7 minutes after Jonathan.
+	Chiwei is arriving at 38 minutes. The urgency of the meeting is 3 out of 10.
 
-	Anthony is arriving 7 minutes after Austin.
-	Anthony is arriving at 49 minutes. The urgency of the meeting is 6 out of 10.
+	Jessica is arriving 1 minutes after Chiwei.
+	Jessica is arriving at 39 minutes. The urgency of the meeting is 5 out of 10.
 
-	Kristi is arriving 1 minutes after Anthony.
-	Kristi is arriving at 50 minutes. The urgency of the meeting is 8 out of 10.
+	Kyle is arriving 3 minutes after Jessica.
+	Kyle is arriving at 42 minutes. The urgency of the meeting is 2 out of 10.
 
-	Emma is arriving 8 minutes after Kristi.
-	Emma is arriving at 58 minutes. The urgency of the meeting is 6 out of 10.
+	Patrick is arriving 4 minutes after Kyle.
+	Patrick is arriving at 46 minutes. The urgency of the meeting is 4 out of 10.
+
+	Sarah is arriving 10 minutes after Patrick.
+	Sarah is arriving at 56 minutes. The urgency of the meeting is 2 out of 10.
 

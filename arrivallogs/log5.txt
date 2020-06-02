@@ -1,37 +1,31 @@
 Arrival Log: 
 
-	Ian is arriving at 0 minutes. The urgency of the meeting is 6 out of 10.
+	Grant is arriving at 10 minutes. The urgency of the meeting is 2 out of 10.
 
-	Grant is arriving 7 minutes after Ian.
-	Grant is arriving at 7 minutes. The urgency of the meeting is 3 out of 10.
+	Justin is arriving 2 minutes after Grant.
+	Justin is arriving at 12 minutes. The urgency of the meeting is 1 out of 10.
 
-	Aditya is arriving 6 minutes after Grant.
-	Aditya is arriving at 13 minutes. The urgency of the meeting is 10 out of 10.
+	Jacob is arriving 1 minutes after Justin.
+	Jacob is arriving at 13 minutes. The urgency of the meeting is 9 out of 10.
 
-	Primrose is arriving 0 minutes after Aditya.
-	Primrose is arriving at 13 minutes. The urgency of the meeting is 1 out of 10.
+	Jonathan is arriving 5 minutes after Jacob.
+	Jonathan is arriving at 18 minutes. The urgency of the meeting is 8 out of 10.
 
-	Andrea is arriving 4 minutes after Primrose.
-	Andrea is arriving at 17 minutes. The urgency of the meeting is 9 out of 10.
+	Kristi is arriving 1 minutes after Jonathan.
+	Kristi is arriving at 19 minutes. The urgency of the meeting is 10 out of 10.
 
-	Ezra is arriving 6 minutes after Andrea.
-	Ezra is arriving at 23 minutes. The urgency of the meeting is 7 out of 10.
+	Jonathan is arriving 8 minutes after Kristi.
+	Jonathan is arriving at 27 minutes. The urgency of the meeting is 7 out of 10.
 
-	Grant is arriving 2 minutes after Ezra.
-	Grant is arriving at 25 minutes. The urgency of the meeting is 5 out of 10.
+	John is arriving 5 minutes after Jonathan.
+	John is arriving at 32 minutes. The urgency of the meeting is 9 out of 10.
 
-	Martin is arriving 5 minutes after Grant.
-	Martin is arriving at 30 minutes. The urgency of the meeting is 3 out of 10.
+	Ezra is arriving 10 minutes after John.
+	Ezra is arriving at 42 minutes. The urgency of the meeting is 6 out of 10.
 
-	Kyle is arriving 1 minutes after Martin.
-	Kyle is arriving at 31 minutes. The urgency of the meeting is 8 out of 10.
+	Swathi is arriving 6 minutes after Ezra.
+	Swathi is arriving at 48 minutes. The urgency of the meeting is 6 out of 10.
 
-	John is arriving 10 minutes after Kyle.
-	John is arriving at 41 minutes. The urgency of the meeting is 1 out of 10.
-
-	Anthony is arriving 9 minutes after John.
-	Anthony is arriving at 50 minutes. The urgency of the meeting is 6 out of 10.
-
-	Austin is arriving 7 minutes after Anthony.
-	Austin is arriving at 57 minutes. The urgency of the meeting is 9 out of 10.
+	Brian is arriving 7 minutes after Swathi.
+	Brian is arriving at 55 minutes. The urgency of the meeting is 1 out of 10.
 

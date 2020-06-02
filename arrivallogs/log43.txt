@@ -1,43 +1,22 @@
 Arrival Log: 
 
-	Primrose is arriving at 1 minutes. The urgency of the meeting is 4 out of 10.
+	Aditya is arriving at 10 minutes. The urgency of the meeting is 4 out of 10.
 
-	Francesca is arriving 8 minutes after Primrose.
-	Francesca is arriving at 9 minutes. The urgency of the meeting is 5 out of 10.
+	Primrose is arriving 10 minutes after Aditya.
+	Primrose is arriving at 20 minutes. The urgency of the meeting is 1 out of 10.
 
-	Swathi is arriving 9 minutes after Francesca.
-	Swathi is arriving at 18 minutes. The urgency of the meeting is 4 out of 10.
+	Pratham is arriving 4 minutes after Primrose.
+	Pratham is arriving at 24 minutes. The urgency of the meeting is 6 out of 10.
 
-	Francesca is arriving 1 minutes after Swathi.
-	Francesca is arriving at 19 minutes. The urgency of the meeting is 8 out of 10.
+	Andrea is arriving 5 minutes after Pratham.
+	Andrea is arriving at 29 minutes. The urgency of the meeting is 5 out of 10.
 
-	Martin is arriving 0 minutes after Francesca.
-	Martin is arriving at 19 minutes. The urgency of the meeting is 2 out of 10.
+	Camden is arriving 9 minutes after Andrea.
+	Camden is arriving at 38 minutes. The urgency of the meeting is 2 out of 10.
 
-	Kristi is arriving 5 minutes after Martin.
-	Kristi is arriving at 24 minutes. The urgency of the meeting is 1 out of 10.
+	Sarah is arriving 10 minutes after Camden.
+	Sarah is arriving at 48 minutes. The urgency of the meeting is 4 out of 10.
 
-	Austin is arriving 2 minutes after Kristi.
-	Austin is arriving at 26 minutes. The urgency of the meeting is 4 out of 10.
-
-	Brycen is arriving 0 minutes after Austin.
-	Brycen is arriving at 26 minutes. The urgency of the meeting is 6 out of 10.
-
-	Brian is arriving 0 minutes after Brycen.
-	Brian is arriving at 26 minutes. The urgency of the meeting is 6 out of 10.
-
-	Andrea is arriving 1 minutes after Brian.
-	Andrea is arriving at 27 minutes. The urgency of the meeting is 8 out of 10.
-
-	Sarah is arriving 7 minutes after Andrea.
-	Sarah is arriving at 34 minutes. The urgency of the meeting is 3 out of 10.
-
-	George is arriving 4 minutes after Sarah.
-	George is arriving at 38 minutes. The urgency of the meeting is 2 out of 10.
-
-	Martin is arriving 9 minutes after George.
-	Martin is arriving at 47 minutes. The urgency of the meeting is 5 out of 10.
-
-	Ezra is arriving 10 minutes after Martin.
-	Ezra is arriving at 57 minutes. The urgency of the meeting is 7 out of 10.
+	Chiwei is arriving 9 minutes after Sarah.
+	Chiwei is arriving at 57 minutes. The urgency of the meeting is 5 out of 10.
 

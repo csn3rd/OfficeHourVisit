@@ -1,43 +1,37 @@
 Arrival Log: 
 
-	Ian is arriving at 6 minutes. The urgency of the meeting is 8 out of 10.
+	Henry is arriving at 3 minutes. The urgency of the meeting is 8 out of 10.
 
-	Jonathan is arriving 3 minutes after Ian.
-	Jonathan is arriving at 9 minutes. The urgency of the meeting is 3 out of 10.
+	Samuel is arriving 10 minutes after Henry.
+	Samuel is arriving at 13 minutes. The urgency of the meeting is 1 out of 10.
 
-	Andrea is arriving 10 minutes after Jonathan.
-	Andrea is arriving at 19 minutes. The urgency of the meeting is 6 out of 10.
+	Brian is arriving 1 minutes after Samuel.
+	Brian is arriving at 14 minutes. The urgency of the meeting is 4 out of 10.
 
-	Grace is arriving 1 minutes after Andrea.
-	Grace is arriving at 20 minutes. The urgency of the meeting is 2 out of 10.
+	Pratham is arriving 4 minutes after Brian.
+	Pratham is arriving at 18 minutes. The urgency of the meeting is 4 out of 10.
 
-	Sunjit is arriving 4 minutes after Grace.
-	Sunjit is arriving at 24 minutes. The urgency of the meeting is 10 out of 10.
+	Camden is arriving 4 minutes after Pratham.
+	Camden is arriving at 22 minutes. The urgency of the meeting is 8 out of 10.
 
-	Brycen is arriving 7 minutes after Sunjit.
-	Brycen is arriving at 31 minutes. The urgency of the meeting is 8 out of 10.
+	Kyle is arriving 10 minutes after Camden.
+	Kyle is arriving at 32 minutes. The urgency of the meeting is 3 out of 10.
 
-	Kristi is arriving 2 minutes after Brycen.
-	Kristi is arriving at 33 minutes. The urgency of the meeting is 4 out of 10.
+	Sarah is arriving 5 minutes after Kyle.
+	Sarah is arriving at 37 minutes. The urgency of the meeting is 8 out of 10.
 
-	Kyle is arriving 4 minutes after Kristi.
-	Kyle is arriving at 37 minutes. The urgency of the meeting is 10 out of 10.
+	Primrose is arriving 3 minutes after Sarah.
+	Primrose is arriving at 40 minutes. The urgency of the meeting is 4 out of 10.
 
-	Juan is arriving 5 minutes after Kyle.
-	Juan is arriving at 42 minutes. The urgency of the meeting is 2 out of 10.
+	Ezra is arriving 2 minutes after Primrose.
+	Ezra is arriving at 42 minutes. The urgency of the meeting is 3 out of 10.
 
-	Jessica is arriving 1 minutes after Juan.
-	Jessica is arriving at 43 minutes. The urgency of the meeting is 9 out of 10.
+	Juan is arriving 9 minutes after Ezra.
+	Juan is arriving at 51 minutes. The urgency of the meeting is 10 out of 10.
 
-	Anthony is arriving 1 minutes after Jessica.
-	Anthony is arriving at 44 minutes. The urgency of the meeting is 4 out of 10.
+	Pratham is arriving 5 minutes after Juan.
+	Pratham is arriving at 56 minutes. The urgency of the meeting is 6 out of 10.
 
-	Austin is arriving 4 minutes after Anthony.
-	Austin is arriving at 48 minutes. The urgency of the meeting is 2 out of 10.
-
-	Anthony is arriving 4 minutes after Austin.
-	Anthony is arriving at 52 minutes. The urgency of the meeting is 3 out of 10.
-
-	Austin is arriving 6 minutes after Anthony.
-	Austin is arriving at 58 minutes. The urgency of the meeting is 3 out of 10.
+	Camden is arriving 2 minutes after Pratham.
+	Camden is arriving at 58 minutes. The urgency of the meeting is 6 out of 10.
 

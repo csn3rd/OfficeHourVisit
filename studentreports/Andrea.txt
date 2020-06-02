@@ -1,31 +1,43 @@
 Subjects that Andrea has attended office hours for:
 
-Object Oriented Programming
-Probability and Statistics
-Calculus 1
-Introduction to Logic Design
-Calculus 2
+Introduction to Embedded Systems
+Introduction to Embedded Systems
+Introduction to Embedded Systems
 Data Structures
-Theory of Algorithms
-Discrete Math
-Calculus 4
-Theory of Algorithms
-Calculus 3
-Calculus 3
-Probability and Statistics
 Introduction to Embedded Systems
 Introduction to Logic Design
+Discrete Math
+Probability and Statistics
+Data Structures
+Operating Systems
+Introduction to Embedded Systems
+Discrete Math
+Introduction to Computer Science
 Calculus 3
 Object Oriented Programming
-Calculus 3
 Introduction to Computer Science
+Calculus 2
+Theory of Algorithms
+Calculus 4
+Calculus 4
+Data Structures
+Introduction to Embedded Systems
+Introduction to Embedded Systems
+Operating Systems
+Operating Systems
 Theory of Automata and Languages
-Introduction to Computer Science
+Probability and Statistics
+Theory of Automata and Languages
+Theory of Automata and Languages
+Calculus 2
 Theory of Algorithms
-Data Structures
-Data Structures
-Calculus 1
-Calculus 1
-Data Structures
+Theory of Automata and Languages
+Linear Algebra
+Probability and Statistics
+Object Oriented Programming
 Theory of Algorithms
-Calculus 3
+Linear Algebra
+Theory of Automata and Languages
+Object Oriented Programming
+Calculus 2
+Calculus 1

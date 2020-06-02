@@ -1,40 +1,28 @@
 Arrival Log: 
 
-	Justin is arriving at 3 minutes. The urgency of the meeting is 2 out of 10.
+	Camden is arriving at 5 minutes. The urgency of the meeting is 6 out of 10.
 
-	Samuel is arriving 6 minutes after Justin.
-	Samuel is arriving at 9 minutes. The urgency of the meeting is 5 out of 10.
+	Ian is arriving 10 minutes after Camden.
+	Ian is arriving at 15 minutes. The urgency of the meeting is 7 out of 10.
 
-	Jacob is arriving 4 minutes after Samuel.
-	Jacob is arriving at 13 minutes. The urgency of the meeting is 1 out of 10.
+	Henry is arriving 9 minutes after Ian.
+	Henry is arriving at 24 minutes. The urgency of the meeting is 10 out of 10.
 
-	Kyle is arriving 3 minutes after Jacob.
-	Kyle is arriving at 16 minutes. The urgency of the meeting is 2 out of 10.
+	Frank is arriving 9 minutes after Henry.
+	Frank is arriving at 33 minutes. The urgency of the meeting is 2 out of 10.
 
-	Chiwei is arriving 7 minutes after Kyle.
-	Chiwei is arriving at 23 minutes. The urgency of the meeting is 2 out of 10.
+	Francesca is arriving 9 minutes after Frank.
+	Francesca is arriving at 42 minutes. The urgency of the meeting is 4 out of 10.
 
-	Ian is arriving 3 minutes after Chiwei.
-	Ian is arriving at 26 minutes. The urgency of the meeting is 1 out of 10.
+	Jonathan is arriving 6 minutes after Francesca.
+	Jonathan is arriving at 48 minutes. The urgency of the meeting is 3 out of 10.
 
-	Grace is arriving 4 minutes after Ian.
-	Grace is arriving at 30 minutes. The urgency of the meeting is 1 out of 10.
+	John is arriving 1 minutes after Jonathan.
+	John is arriving at 49 minutes. The urgency of the meeting is 1 out of 10.
 
-	John is arriving 6 minutes after Grace.
-	John is arriving at 36 minutes. The urgency of the meeting is 8 out of 10.
+	Ezra is arriving 8 minutes after John.
+	Ezra is arriving at 57 minutes. The urgency of the meeting is 5 out of 10.
 
-	George is arriving 0 minutes after John.
-	George is arriving at 36 minutes. The urgency of the meeting is 9 out of 10.
-
-	Andrea is arriving 2 minutes after George.
-	Andrea is arriving at 38 minutes. The urgency of the meeting is 7 out of 10.
-
-	Aditya is arriving 4 minutes after Andrea.
-	Aditya is arriving at 42 minutes. The urgency of the meeting is 3 out of 10.
-
-	Samuel is arriving 7 minutes after Aditya.
-	Samuel is arriving at 49 minutes. The urgency of the meeting is 9 out of 10.
-
-	Grant is arriving 6 minutes after Samuel.
-	Grant is arriving at 55 minutes. The urgency of the meeting is 8 out of 10.
+	Patrick is arriving 0 minutes after Ezra.
+	Patrick is arriving at 57 minutes. The urgency of the meeting is 3 out of 10.
 

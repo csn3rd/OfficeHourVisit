@@ -1,57 +1,42 @@
 Meeting Log: 
 
-	The professor has been waiting for 7 minutes before Samuel showed up.
-	Samuel is meeting the professor for 4 minutes, starting at 7 minutes and ending at 11 minutes.
-	The subject of this meeting is Introduction to Logic Design.
-	The urgency of this meeting is 5 out of 10.
-
-	Aditya has been waiting in the queue for 2 minutes.
-	Aditya is meeting the professor for 6 minutes, starting at 11 minutes and ending at 17 minutes.
+	The professor has been waiting for 3 minutes before Jonathan showed up.
+	Jonathan is meeting the professor for 2 minutes, starting at 3 minutes and ending at 5 minutes.
 	The subject of this meeting is Data Structures.
-	The urgency of this meeting is 7 out of 10.
+	The urgency of this meeting is 8 out of 10.
 
-	The professor has been waiting for 1 minutes before Swathi showed up.
-	Swathi is meeting the professor for 4 minutes, starting at 18 minutes and ending at 22 minutes.
-	The subject of this meeting is Operating Systems.
-	The urgency of this meeting is 3 out of 10.
-
-	Ezra has been waiting in the queue for 3 minutes.
-	Ezra is meeting the professor for 8 minutes, starting at 22 minutes and ending at 30 minutes.
-	The subject of this meeting is Data Structures.
-	The urgency of this meeting is 10 out of 10.
-
-	Chiwei has been waiting in the queue for 1 minutes.
-	Chiwei is meeting the professor for 2 minutes, starting at 30 minutes and ending at 32 minutes.
-	The subject of this meeting is Theory of Algorithms.
-	The urgency of this meeting is 2 out of 10.
-
-	The professor has been waiting for 1 minutes before Grant showed up.
-	Grant is meeting the professor for 7 minutes, starting at 33 minutes and ending at 40 minutes.
-	The subject of this meeting is Introduction to Logic Design.
-	The urgency of this meeting is 4 out of 10.
-
-	The professor has been waiting for 2 minutes before Patrick showed up.
-	Patrick is meeting the professor for 5 minutes, starting at 42 minutes and ending at 47 minutes.
-	The subject of this meeting is Probability and Statistics.
-	The urgency of this meeting is 6 out of 10.
-
-	The professor has been waiting for 4 minutes before Sarah showed up.
-	Sarah is meeting the professor for 2 minutes, starting at 51 minutes and ending at 53 minutes.
-	The subject of this meeting is Calculus 4.
+	The professor has been waiting for 4 minutes before Kyle showed up.
+	Kyle is meeting the professor for 3 minutes, starting at 9 minutes and ending at 12 minutes.
+	The subject of this meeting is Calculus 1.
 	The urgency of this meeting is 1 out of 10.
 
-	Arjun has been waiting in the queue for 2 minutes.
-	Arjun is meeting the professor for 8 minutes, starting at 53 minutes and ending at 61 minutes.
-	The subject of this meeting is Linear Algebra.
-	The urgency of this meeting is 5 out of 10.
+	The professor has been waiting for 5 minutes before Swathi showed up.
+	Swathi is meeting the professor for 6 minutes, starting at 17 minutes and ending at 23 minutes.
+	The subject of this meeting is Discrete Math.
+	The urgency of this meeting is 3 out of 10.
 
-	John has been waiting in the queue for 3 minutes.
-	John is meeting the professor for 6 minutes, starting at 61 minutes and ending at 67 minutes.
+	The professor has been waiting for 3 minutes before Emma showed up.
+	Emma is meeting the professor for 4 minutes, starting at 26 minutes and ending at 30 minutes.
 	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 8 out of 10.
+
+	The professor has been waiting for 5 minutes before Justin showed up.
+	Justin is meeting the professor for 7 minutes, starting at 35 minutes and ending at 42 minutes.
+	The subject of this meeting is Introduction to Logic Design.
+	The urgency of this meeting is 9 out of 10.
+
+	Henry has been waiting in the queue for 2 minutes.
+	Henry is meeting the professor for 8 minutes, starting at 42 minutes and ending at 50 minutes.
+	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 4 out of 10.
+
+	Swathi has been waiting in the queue for 6 minutes.
+	Swathi is meeting the professor for 1 minutes, starting at 50 minutes and ending at 51 minutes.
+	The subject of this meeting is Calculus 3.
 	The urgency of this meeting is 7 out of 10.
 
-	Jacob has been waiting in the queue for 16 minutes.
-	Jacob is meeting the professor for 2 minutes, starting at 67 minutes and ending at 69 minutes.
-	The subject of this meeting is Discrete Math.
-	The urgency of this meeting is 2 out of 10.
+	The professor has been waiting for 2 minutes before Anthony showed up.
+	Anthony is meeting the professor for 9 minutes, starting at 53 minutes and ending at 62 minutes.
+	The subject of this meeting is Calculus 1.
+	The urgency of this meeting is 6 out of 10.
 

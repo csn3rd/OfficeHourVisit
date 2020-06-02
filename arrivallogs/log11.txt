@@ -1,34 +1,40 @@
 Arrival Log: 
 
-	Aditya is arriving at 1 minutes. The urgency of the meeting is 7 out of 10.
+	Grant is arriving at 6 minutes. The urgency of the meeting is 10 out of 10.
 
-	John is arriving 3 minutes after Aditya.
-	John is arriving at 4 minutes. The urgency of the meeting is 6 out of 10.
+	Juan is arriving 3 minutes after Grant.
+	Juan is arriving at 9 minutes. The urgency of the meeting is 8 out of 10.
 
-	Camden is arriving 2 minutes after John.
-	Camden is arriving at 6 minutes. The urgency of the meeting is 9 out of 10.
+	Chiwei is arriving 8 minutes after Juan.
+	Chiwei is arriving at 17 minutes. The urgency of the meeting is 6 out of 10.
 
-	Ian is arriving 10 minutes after Camden.
-	Ian is arriving at 16 minutes. The urgency of the meeting is 8 out of 10.
+	Justin is arriving 4 minutes after Chiwei.
+	Justin is arriving at 21 minutes. The urgency of the meeting is 7 out of 10.
 
-	Ian is arriving 0 minutes after Ian.
-	Ian is arriving at 16 minutes. The urgency of the meeting is 9 out of 10.
+	Pratham is arriving 3 minutes after Justin.
+	Pratham is arriving at 24 minutes. The urgency of the meeting is 10 out of 10.
 
-	Chiwei is arriving 9 minutes after Ian.
-	Chiwei is arriving at 25 minutes. The urgency of the meeting is 6 out of 10.
+	John is arriving 4 minutes after Pratham.
+	John is arriving at 28 minutes. The urgency of the meeting is 3 out of 10.
 
-	Sergio is arriving 7 minutes after Chiwei.
-	Sergio is arriving at 32 minutes. The urgency of the meeting is 5 out of 10.
+	Jessica is arriving 5 minutes after John.
+	Jessica is arriving at 33 minutes. The urgency of the meeting is 3 out of 10.
 
-	Brycen is arriving 10 minutes after Sergio.
-	Brycen is arriving at 42 minutes. The urgency of the meeting is 4 out of 10.
+	Sergio is arriving 5 minutes after Jessica.
+	Sergio is arriving at 38 minutes. The urgency of the meeting is 4 out of 10.
 
-	Ian is arriving 4 minutes after Brycen.
-	Ian is arriving at 46 minutes. The urgency of the meeting is 4 out of 10.
+	Brycen is arriving 2 minutes after Sergio.
+	Brycen is arriving at 40 minutes. The urgency of the meeting is 9 out of 10.
 
-	Aditya is arriving 1 minutes after Ian.
-	Aditya is arriving at 47 minutes. The urgency of the meeting is 6 out of 10.
+	Grant is arriving 9 minutes after Brycen.
+	Grant is arriving at 49 minutes. The urgency of the meeting is 10 out of 10.
 
-	Grant is arriving 6 minutes after Aditya.
-	Grant is arriving at 53 minutes. The urgency of the meeting is 10 out of 10.
+	Jonathan is arriving 1 minutes after Grant.
+	Jonathan is arriving at 50 minutes. The urgency of the meeting is 2 out of 10.
+
+	Jacob is arriving 5 minutes after Jonathan.
+	Jacob is arriving at 55 minutes. The urgency of the meeting is 9 out of 10.
+
+	Emma is arriving 3 minutes after Jacob.
+	Emma is arriving at 58 minutes. The urgency of the meeting is 6 out of 10.
 

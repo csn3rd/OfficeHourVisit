@@ -1,28 +1,28 @@
 Arrival Log: 
 
-	Emma is arriving at 1 minutes. The urgency of the meeting is 5 out of 10.
+	Jonathan is arriving at 2 minutes. The urgency of the meeting is 4 out of 10.
 
-	Brycen is arriving 9 minutes after Emma.
-	Brycen is arriving at 10 minutes. The urgency of the meeting is 2 out of 10.
+	Pratham is arriving 6 minutes after Jonathan.
+	Pratham is arriving at 8 minutes. The urgency of the meeting is 10 out of 10.
 
-	Martin is arriving 10 minutes after Brycen.
-	Martin is arriving at 20 minutes. The urgency of the meeting is 6 out of 10.
+	Martin is arriving 9 minutes after Pratham.
+	Martin is arriving at 17 minutes. The urgency of the meeting is 8 out of 10.
 
-	Francesca is arriving 10 minutes after Martin.
-	Francesca is arriving at 30 minutes. The urgency of the meeting is 8 out of 10.
+	Frank is arriving 3 minutes after Martin.
+	Frank is arriving at 20 minutes. The urgency of the meeting is 9 out of 10.
 
-	Juan is arriving 9 minutes after Francesca.
-	Juan is arriving at 39 minutes. The urgency of the meeting is 4 out of 10.
+	Chiwei is arriving 5 minutes after Frank.
+	Chiwei is arriving at 25 minutes. The urgency of the meeting is 10 out of 10.
 
-	Emma is arriving 2 minutes after Juan.
-	Emma is arriving at 41 minutes. The urgency of the meeting is 10 out of 10.
+	Grant is arriving 1 minutes after Chiwei.
+	Grant is arriving at 26 minutes. The urgency of the meeting is 5 out of 10.
 
-	Primrose is arriving 0 minutes after Emma.
-	Primrose is arriving at 41 minutes. The urgency of the meeting is 7 out of 10.
+	Kyle is arriving 8 minutes after Grant.
+	Kyle is arriving at 34 minutes. The urgency of the meeting is 10 out of 10.
 
-	Pratham is arriving 10 minutes after Primrose.
-	Pratham is arriving at 51 minutes. The urgency of the meeting is 2 out of 10.
+	Jonathan is arriving 10 minutes after Kyle.
+	Jonathan is arriving at 44 minutes. The urgency of the meeting is 7 out of 10.
 
-	Austin is arriving 8 minutes after Pratham.
-	Austin is arriving at 59 minutes. The urgency of the meeting is 2 out of 10.
+	Francesca is arriving 10 minutes after Jonathan.
+	Francesca is arriving at 54 minutes. The urgency of the meeting is 10 out of 10.
 

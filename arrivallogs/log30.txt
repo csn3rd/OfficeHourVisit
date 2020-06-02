@@ -1,46 +1,37 @@
 Arrival Log: 
 
-	Emma is arriving at 7 minutes. The urgency of the meeting is 6 out of 10.
+	Grace is arriving at 8 minutes. The urgency of the meeting is 1 out of 10.
 
-	Kyle is arriving 1 minutes after Emma.
-	Kyle is arriving at 8 minutes. The urgency of the meeting is 2 out of 10.
+	Henry is arriving 0 minutes after Grace.
+	Henry is arriving at 8 minutes. The urgency of the meeting is 2 out of 10.
 
-	Chiwei is arriving 0 minutes after Kyle.
-	Chiwei is arriving at 8 minutes. The urgency of the meeting is 9 out of 10.
+	Primrose is arriving 1 minutes after Henry.
+	Primrose is arriving at 9 minutes. The urgency of the meeting is 5 out of 10.
 
-	Kristi is arriving 1 minutes after Chiwei.
-	Kristi is arriving at 9 minutes. The urgency of the meeting is 3 out of 10.
+	Henry is arriving 8 minutes after Primrose.
+	Henry is arriving at 17 minutes. The urgency of the meeting is 9 out of 10.
 
-	Chiwei is arriving 9 minutes after Kristi.
-	Chiwei is arriving at 18 minutes. The urgency of the meeting is 5 out of 10.
+	John is arriving 6 minutes after Henry.
+	John is arriving at 23 minutes. The urgency of the meeting is 10 out of 10.
 
-	Frank is arriving 1 minutes after Chiwei.
-	Frank is arriving at 19 minutes. The urgency of the meeting is 6 out of 10.
+	Jacob is arriving 0 minutes after John.
+	Jacob is arriving at 23 minutes. The urgency of the meeting is 3 out of 10.
 
-	Grace is arriving 6 minutes after Frank.
-	Grace is arriving at 25 minutes. The urgency of the meeting is 10 out of 10.
+	Swathi is arriving 5 minutes after Jacob.
+	Swathi is arriving at 28 minutes. The urgency of the meeting is 5 out of 10.
 
-	George is arriving 10 minutes after Grace.
-	George is arriving at 35 minutes. The urgency of the meeting is 4 out of 10.
+	George is arriving 2 minutes after Swathi.
+	George is arriving at 30 minutes. The urgency of the meeting is 4 out of 10.
 
-	Camden is arriving 6 minutes after George.
-	Camden is arriving at 41 minutes. The urgency of the meeting is 3 out of 10.
+	Ian is arriving 9 minutes after George.
+	Ian is arriving at 39 minutes. The urgency of the meeting is 3 out of 10.
 
-	Justin is arriving 2 minutes after Camden.
-	Justin is arriving at 43 minutes. The urgency of the meeting is 9 out of 10.
+	Patrick is arriving 5 minutes after Ian.
+	Patrick is arriving at 44 minutes. The urgency of the meeting is 8 out of 10.
 
-	Chiwei is arriving 1 minutes after Justin.
-	Chiwei is arriving at 44 minutes. The urgency of the meeting is 10 out of 10.
+	Kyle is arriving 8 minutes after Patrick.
+	Kyle is arriving at 52 minutes. The urgency of the meeting is 3 out of 10.
 
-	Ian is arriving 5 minutes after Chiwei.
-	Ian is arriving at 49 minutes. The urgency of the meeting is 4 out of 10.
-
-	Samuel is arriving 1 minutes after Ian.
-	Samuel is arriving at 50 minutes. The urgency of the meeting is 10 out of 10.
-
-	Kristi is arriving 2 minutes after Samuel.
-	Kristi is arriving at 52 minutes. The urgency of the meeting is 4 out of 10.
-
-	Martin is arriving 6 minutes after Kristi.
-	Martin is arriving at 58 minutes. The urgency of the meeting is 9 out of 10.
+	Samuel is arriving 1 minutes after Kyle.
+	Samuel is arriving at 53 minutes. The urgency of the meeting is 10 out of 10.
 

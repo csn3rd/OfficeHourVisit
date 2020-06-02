@@ -1,31 +1,28 @@
 Arrival Log: 
 
-	Sarah is arriving at 4 minutes. The urgency of the meeting is 10 out of 10.
+	Grace is arriving at 3 minutes. The urgency of the meeting is 2 out of 10.
 
-	Brycen is arriving 3 minutes after Sarah.
-	Brycen is arriving at 7 minutes. The urgency of the meeting is 5 out of 10.
+	Jacob is arriving 6 minutes after Grace.
+	Jacob is arriving at 9 minutes. The urgency of the meeting is 4 out of 10.
 
-	Austin is arriving 9 minutes after Brycen.
-	Austin is arriving at 16 minutes. The urgency of the meeting is 9 out of 10.
+	Emma is arriving 9 minutes after Jacob.
+	Emma is arriving at 18 minutes. The urgency of the meeting is 7 out of 10.
 
-	George is arriving 8 minutes after Austin.
-	George is arriving at 24 minutes. The urgency of the meeting is 10 out of 10.
+	Jonathan is arriving 1 minutes after Emma.
+	Jonathan is arriving at 19 minutes. The urgency of the meeting is 9 out of 10.
 
-	Brian is arriving 10 minutes after George.
-	Brian is arriving at 34 minutes. The urgency of the meeting is 10 out of 10.
+	Kyle is arriving 7 minutes after Jonathan.
+	Kyle is arriving at 26 minutes. The urgency of the meeting is 6 out of 10.
 
-	Sarah is arriving 1 minutes after Brian.
-	Sarah is arriving at 35 minutes. The urgency of the meeting is 1 out of 10.
+	Henry is arriving 6 minutes after Kyle.
+	Henry is arriving at 32 minutes. The urgency of the meeting is 7 out of 10.
 
-	Brian is arriving 1 minutes after Sarah.
-	Brian is arriving at 36 minutes. The urgency of the meeting is 4 out of 10.
+	Martin is arriving 9 minutes after Henry.
+	Martin is arriving at 41 minutes. The urgency of the meeting is 9 out of 10.
 
-	Sergio is arriving 7 minutes after Brian.
-	Sergio is arriving at 43 minutes. The urgency of the meeting is 6 out of 10.
+	Patrick is arriving 7 minutes after Martin.
+	Patrick is arriving at 48 minutes. The urgency of the meeting is 6 out of 10.
 
-	Jessica is arriving 9 minutes after Sergio.
-	Jessica is arriving at 52 minutes. The urgency of the meeting is 2 out of 10.
-
-	Anthony is arriving 2 minutes after Jessica.
-	Anthony is arriving at 54 minutes. The urgency of the meeting is 6 out of 10.
+	Brian is arriving 10 minutes after Patrick.
+	Brian is arriving at 58 minutes. The urgency of the meeting is 2 out of 10.
 

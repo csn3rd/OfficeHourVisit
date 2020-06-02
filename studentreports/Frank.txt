@@ -1,35 +1,37 @@
 Subjects that Frank has attended office hours for:
 
-Calculus 1
-Operating Systems
-Theory of Algorithms
-Introduction to Computer Science
-Theory of Algorithms
-Operating Systems
-Introduction to Logic Design
-Calculus 4
-Discrete Math
-Operating Systems
-Theory of Automata and Languages
 Calculus 2
 Introduction to Logic Design
-Theory of Algorithms
-Object Oriented Programming
-Object Oriented Programming
-Calculus 4
-Calculus 3
-Calculus 4
-Introduction to Computer Science
-Calculus 4
+Introduction to Logic Design
 Probability and Statistics
-Object Oriented Programming
-Discrete Math
+Introduction to Computer Science
 Calculus 1
+Probability and Statistics
+Theory of Algorithms
+Calculus 3
+Theory of Automata and Languages
+Calculus 2
 Calculus 4
+Introduction to Logic Design
+Linear Algebra
+Introduction to Logic Design
+Linear Algebra
+Data Structures
 Operating Systems
 Theory of Automata and Languages
-Calculus 3
-Calculus 3
+Introduction to Logic Design
+Theory of Automata and Languages
 Object Oriented Programming
+Calculus 4
+Discrete Math
+Object Oriented Programming
+Calculus 2
+Calculus 3
+Data Structures
+Theory of Algorithms
+Calculus 2
+Calculus 2
 Calculus 1
-Object Oriented Programming
+Theory of Algorithms
+Introduction to Logic Design
+Introduction to Logic Design

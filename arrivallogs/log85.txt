@@ -1,31 +1,28 @@
 Arrival Log: 
 
-	Sunjit is arriving at 10 minutes. The urgency of the meeting is 9 out of 10.
+	Henry is arriving at 3 minutes. The urgency of the meeting is 5 out of 10.
 
-	Patrick is arriving 8 minutes after Sunjit.
-	Patrick is arriving at 18 minutes. The urgency of the meeting is 3 out of 10.
+	Justin is arriving 3 minutes after Henry.
+	Justin is arriving at 6 minutes. The urgency of the meeting is 4 out of 10.
 
-	Sarah is arriving 4 minutes after Patrick.
-	Sarah is arriving at 22 minutes. The urgency of the meeting is 4 out of 10.
+	Samuel is arriving 9 minutes after Justin.
+	Samuel is arriving at 15 minutes. The urgency of the meeting is 7 out of 10.
 
-	Sarah is arriving 2 minutes after Sarah.
-	Sarah is arriving at 24 minutes. The urgency of the meeting is 3 out of 10.
+	Sarah is arriving 10 minutes after Samuel.
+	Sarah is arriving at 25 minutes. The urgency of the meeting is 10 out of 10.
 
-	George is arriving 2 minutes after Sarah.
-	George is arriving at 26 minutes. The urgency of the meeting is 8 out of 10.
+	Kristi is arriving 7 minutes after Sarah.
+	Kristi is arriving at 32 minutes. The urgency of the meeting is 4 out of 10.
 
-	Austin is arriving 7 minutes after George.
-	Austin is arriving at 33 minutes. The urgency of the meeting is 6 out of 10.
+	Anthony is arriving 6 minutes after Kristi.
+	Anthony is arriving at 38 minutes. The urgency of the meeting is 8 out of 10.
 
-	Brian is arriving 2 minutes after Austin.
-	Brian is arriving at 35 minutes. The urgency of the meeting is 6 out of 10.
+	Henry is arriving 1 minutes after Anthony.
+	Henry is arriving at 39 minutes. The urgency of the meeting is 9 out of 10.
 
-	Henry is arriving 6 minutes after Brian.
-	Henry is arriving at 41 minutes. The urgency of the meeting is 5 out of 10.
+	Chiwei is arriving 9 minutes after Henry.
+	Chiwei is arriving at 48 minutes. The urgency of the meeting is 7 out of 10.
 
-	Austin is arriving 2 minutes after Henry.
-	Austin is arriving at 43 minutes. The urgency of the meeting is 1 out of 10.
-
-	Swathi is arriving 8 minutes after Austin.
-	Swathi is arriving at 51 minutes. The urgency of the meeting is 9 out of 10.
+	Brycen is arriving 8 minutes after Chiwei.
+	Brycen is arriving at 56 minutes. The urgency of the meeting is 8 out of 10.
 

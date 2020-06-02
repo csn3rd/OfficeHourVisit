@@ -1,22 +1,34 @@
 Arrival Log: 
 
-	Juan is arriving at 6 minutes. The urgency of the meeting is 3 out of 10.
+	Frank is arriving at 3 minutes. The urgency of the meeting is 6 out of 10.
 
-	Martin is arriving 9 minutes after Juan.
-	Martin is arriving at 15 minutes. The urgency of the meeting is 10 out of 10.
+	Grace is arriving 8 minutes after Frank.
+	Grace is arriving at 11 minutes. The urgency of the meeting is 9 out of 10.
 
-	Primrose is arriving 10 minutes after Martin.
-	Primrose is arriving at 25 minutes. The urgency of the meeting is 4 out of 10.
+	Brycen is arriving 8 minutes after Grace.
+	Brycen is arriving at 19 minutes. The urgency of the meeting is 10 out of 10.
 
-	Andrea is arriving 6 minutes after Primrose.
-	Andrea is arriving at 31 minutes. The urgency of the meeting is 9 out of 10.
+	Kristi is arriving 5 minutes after Brycen.
+	Kristi is arriving at 24 minutes. The urgency of the meeting is 8 out of 10.
 
-	Swathi is arriving 9 minutes after Andrea.
-	Swathi is arriving at 40 minutes. The urgency of the meeting is 2 out of 10.
+	Primrose is arriving 10 minutes after Kristi.
+	Primrose is arriving at 34 minutes. The urgency of the meeting is 8 out of 10.
 
-	Sunjit is arriving 9 minutes after Swathi.
-	Sunjit is arriving at 49 minutes. The urgency of the meeting is 3 out of 10.
+	Andrea is arriving 0 minutes after Primrose.
+	Andrea is arriving at 34 minutes. The urgency of the meeting is 3 out of 10.
 
-	Arjun is arriving 6 minutes after Sunjit.
-	Arjun is arriving at 55 minutes. The urgency of the meeting is 3 out of 10.
+	Austin is arriving 6 minutes after Andrea.
+	Austin is arriving at 40 minutes. The urgency of the meeting is 9 out of 10.
+
+	Andrea is arriving 6 minutes after Austin.
+	Andrea is arriving at 46 minutes. The urgency of the meeting is 5 out of 10.
+
+	Camden is arriving 2 minutes after Andrea.
+	Camden is arriving at 48 minutes. The urgency of the meeting is 1 out of 10.
+
+	Jonathan is arriving 8 minutes after Camden.
+	Jonathan is arriving at 56 minutes. The urgency of the meeting is 9 out of 10.
+
+	Henry is arriving 3 minutes after Jonathan.
+	Henry is arriving at 59 minutes. The urgency of the meeting is 8 out of 10.
 

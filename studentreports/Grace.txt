@@ -1,31 +1,30 @@
 Subjects that Grace has attended office hours for:
 
-Theory of Automata and Languages
-Calculus 4
+Introduction to Embedded Systems
+Probability and Statistics
 Introduction to Embedded Systems
 Calculus 1
 Calculus 2
-Theory of Algorithms
 Linear Algebra
-Object Oriented Programming
-Calculus 2
-Object Oriented Programming
 Introduction to Computer Science
-Introduction to Logic Design
-Discrete Math
-Linear Algebra
-Discrete Math
 Calculus 3
-Object Oriented Programming
+Introduction to Logic Design
 Calculus 2
-Calculus 4
-Probability and Statistics
-Calculus 4
-Introduction to Logic Design
-Operating Systems
-Theory of Automata and Languages
-Introduction to Logic Design
-Operating Systems
-Theory of Algorithms
-Calculus 4
 Calculus 1
+Operating Systems
+Object Oriented Programming
+Probability and Statistics
+Discrete Math
+Operating Systems
+Probability and Statistics
+Calculus 2
+Object Oriented Programming
+Object Oriented Programming
+Linear Algebra
+Calculus 2
+Introduction to Computer Science
+Discrete Math
+Discrete Math
+Introduction to Computer Science
+Calculus 2
+Data Structures

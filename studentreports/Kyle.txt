@@ -1,26 +1,46 @@
 Subjects that Kyle has attended office hours for:
 
+Introduction to Computer Science
+Introduction to Logic Design
+Theory of Algorithms
+Calculus 4
+Theory of Automata and Languages
+Linear Algebra
+Operating Systems
+Calculus 2
+Calculus 2
+Calculus 2
+Calculus 1
+Data Structures
+Data Structures
+Linear Algebra
+Introduction to Computer Science
+Theory of Automata and Languages
+Calculus 4
+Linear Algebra
+Discrete Math
+Introduction to Embedded Systems
+Theory of Automata and Languages
+Introduction to Logic Design
+Introduction to Computer Science
+Calculus 2
+Operating Systems
+Introduction to Embedded Systems
+Linear Algebra
+Introduction to Computer Science
+Introduction to Computer Science
+Discrete Math
+Discrete Math
+Calculus 3
 Introduction to Logic Design
 Calculus 2
-Introduction to Logic Design
-Calculus 4
-Discrete Math
 Theory of Automata and Languages
-Introduction to Computer Science
-Introduction to Computer Science
-Introduction to Logic Design
+Introduction to Embedded Systems
+Calculus 3
+Theory of Automata and Languages
 Calculus 1
-Probability and Statistics
-Introduction to Computer Science
-Calculus 4
+Data Structures
 Data Structures
 Calculus 1
-Calculus 2
-Discrete Math
-Calculus 1
-Object Oriented Programming
-Introduction to Computer Science
-Theory of Algorithms
-Introduction to Computer Science
-Calculus 4
 Calculus 3
+Introduction to Computer Science

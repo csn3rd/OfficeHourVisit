@@ -1,62 +1,67 @@
 Meeting Log: 
 
-	The professor has been waiting for 1 minutes before Frank showed up.
-	Frank is meeting the professor for 8 minutes, starting at 1 minutes and ending at 9 minutes.
-	The subject of this meeting is Calculus 4.
-	The urgency of this meeting is 3 out of 10.
-
-	John has been waiting in the queue for 1 minutes.
-	John is meeting the professor for 6 minutes, starting at 9 minutes and ending at 15 minutes.
+	The professor has been waiting for 6 minutes before Arjun showed up.
+	Arjun is meeting the professor for 9 minutes, starting at 6 minutes and ending at 15 minutes.
 	The subject of this meeting is Discrete Math.
-	The urgency of this meeting is 4 out of 10.
-
-	Justin has been waiting in the queue for 4 minutes.
-	Justin is meeting the professor for 2 minutes, starting at 15 minutes and ending at 17 minutes.
-	The subject of this meeting is Discrete Math.
-	The urgency of this meeting is 2 out of 10.
-
-	Martin has been waiting in the queue for 1 minutes.
-	Martin is meeting the professor for 4 minutes, starting at 17 minutes and ending at 21 minutes.
-	The subject of this meeting is Calculus 4.
-	The urgency of this meeting is 4 out of 10.
-
-	Ezra has been waiting in the queue for 1 minutes.
-	Ezra is meeting the professor for 5 minutes, starting at 21 minutes and ending at 26 minutes.
-	The subject of this meeting is Introduction to Logic Design.
-	The urgency of this meeting is 10 out of 10.
-
-	The professor has been waiting for 3 minutes before Swathi showed up.
-	Swathi is meeting the professor for 2 minutes, starting at 29 minutes and ending at 31 minutes.
-	The subject of this meeting is Calculus 3.
 	The urgency of this meeting is 9 out of 10.
 
-	Emma has been waiting in the queue for 2 minutes.
-	Emma is meeting the professor for 10 minutes, starting at 31 minutes and ending at 41 minutes.
-	The subject of this meeting is Discrete Math.
-	The urgency of this meeting is 8 out of 10.
+	Francesca has been waiting in the queue for 2 minutes.
+	Francesca is meeting the professor for 3 minutes, starting at 15 minutes and ending at 18 minutes.
+	The subject of this meeting is Data Structures.
+	The urgency of this meeting is 7 out of 10.
 
-	Martin has been waiting in the queue for 7 minutes.
-	Martin is meeting the professor for 10 minutes, starting at 41 minutes and ending at 51 minutes.
-	The subject of this meeting is Calculus 1.
-	The urgency of this meeting is 4 out of 10.
-
-	Justin has been waiting in the queue for 17 minutes.
-	Justin is meeting the professor for 3 minutes, starting at 51 minutes and ending at 54 minutes.
-	The subject of this meeting is Calculus 1.
-	The urgency of this meeting is 4 out of 10.
-
-	Frank has been waiting in the queue for 2 minutes.
-	Frank is meeting the professor for 2 minutes, starting at 54 minutes and ending at 56 minutes.
-	The subject of this meeting is Calculus 3.
-	The urgency of this meeting is 9 out of 10.
-
-	Justin has been waiting in the queue for 13 minutes.
-	Justin is meeting the professor for 7 minutes, starting at 56 minutes and ending at 63 minutes.
-	The subject of this meeting is Probability and Statistics.
+	Jessica arrived just as the previous student was leaving.
+	Jessica is meeting the professor for 2 minutes, starting at 18 minutes and ending at 20 minutes.
+	The subject of this meeting is Operating Systems.
 	The urgency of this meeting is 1 out of 10.
 
-	Austin has been waiting in the queue for 5 minutes.
-	Austin is meeting the professor for 5 minutes, starting at 63 minutes and ending at 68 minutes.
+	The professor has been waiting for 7 minutes before Camden showed up.
+	Camden is meeting the professor for 10 minutes, starting at 27 minutes and ending at 37 minutes.
+	The subject of this meeting is Calculus 1.
+	The urgency of this meeting is 9 out of 10.
+
+	Chiwei arrived just as the previous student was leaving.
+	Chiwei is meeting the professor for 10 minutes, starting at 37 minutes and ending at 47 minutes.
+	The subject of this meeting is Introduction to Computer Science.
+	The urgency of this meeting is 7 out of 10.
+
+	Sergio has been waiting in the queue for 1 minutes.
+	Sergio is meeting the professor for 6 minutes, starting at 47 minutes and ending at 53 minutes.
+	The subject of this meeting is Discrete Math.
+	The urgency of this meeting is 10 out of 10.
+
+	Sarah has been waiting in the queue for 14 minutes.
+	Sarah is meeting the professor for 8 minutes, starting at 53 minutes and ending at 61 minutes.
 	The subject of this meeting is Calculus 4.
+	The urgency of this meeting is 8 out of 10.
+
+	Andrea has been waiting in the queue for 2 minutes.
+	Andrea is meeting the professor for 3 minutes, starting at 61 minutes and ending at 64 minutes.
+	The subject of this meeting is Operating Systems.
+	The urgency of this meeting is 8 out of 10.
+
+	George has been waiting in the queue for 18 minutes.
+	George is meeting the professor for 8 minutes, starting at 64 minutes and ending at 72 minutes.
+	The subject of this meeting is Calculus 1.
+	The urgency of this meeting is 7 out of 10.
+
+	Martin has been waiting in the queue for 19 minutes.
+	Martin is meeting the professor for 6 minutes, starting at 72 minutes and ending at 78 minutes.
+	The subject of this meeting is Introduction to Computer Science.
 	The urgency of this meeting is 5 out of 10.
+
+	Jonathan has been waiting in the queue for 28 minutes.
+	Jonathan is meeting the professor for 7 minutes, starting at 78 minutes and ending at 85 minutes.
+	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 3 out of 10.
+
+	Grace has been waiting in the queue for 33 minutes.
+	Grace is meeting the professor for 3 minutes, starting at 85 minutes and ending at 88 minutes.
+	The subject of this meeting is Object Oriented Programming.
+	The urgency of this meeting is 3 out of 10.
+
+	Henry has been waiting in the queue for 56 minutes.
+	Henry is meeting the professor for 9 minutes, starting at 88 minutes and ending at 97 minutes.
+	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 1 out of 10.
 

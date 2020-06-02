@@ -1,67 +1,72 @@
 Meeting Log: 
 
-	The professor has been waiting for 1 minutes before Grace showed up.
-	Grace is meeting the professor for 10 minutes, starting at 1 minutes and ending at 11 minutes.
+	The professor has been waiting for 7 minutes before Juan showed up.
+	Juan is meeting the professor for 6 minutes, starting at 7 minutes and ending at 13 minutes.
 	The subject of this meeting is Calculus 2.
-	The urgency of this meeting is 4 out of 10.
-
-	Sarah has been waiting in the queue for 9 minutes.
-	Sarah is meeting the professor for 3 minutes, starting at 11 minutes and ending at 14 minutes.
-	The subject of this meeting is Data Structures.
-	The urgency of this meeting is 10 out of 10.
-
-	Ezra has been waiting in the queue for 7 minutes.
-	Ezra is meeting the professor for 3 minutes, starting at 14 minutes and ending at 17 minutes.
-	The subject of this meeting is Theory of Algorithms.
-	The urgency of this meeting is 2 out of 10.
-
-	Arjun arrived just as the previous student was leaving.
-	Arjun is meeting the professor for 7 minutes, starting at 17 minutes and ending at 24 minutes.
-	The subject of this meeting is Operating Systems.
-	The urgency of this meeting is 3 out of 10.
-
-	Primrose has been waiting in the queue for 10 minutes.
-	Primrose is meeting the professor for 9 minutes, starting at 24 minutes and ending at 33 minutes.
-	The subject of this meeting is Linear Algebra.
-	The urgency of this meeting is 2 out of 10.
-
-	Sunjit arrived just as the previous student was leaving.
-	Sunjit is meeting the professor for 9 minutes, starting at 33 minutes and ending at 42 minutes.
-	The subject of this meeting is Data Structures.
 	The urgency of this meeting is 9 out of 10.
 
-	Primrose has been waiting in the queue for 3 minutes.
-	Primrose is meeting the professor for 1 minutes, starting at 42 minutes and ending at 43 minutes.
-	The subject of this meeting is Calculus 3.
-	The urgency of this meeting is 10 out of 10.
-
-	Chiwei has been waiting in the queue for 16 minutes.
-	Chiwei is meeting the professor for 2 minutes, starting at 43 minutes and ending at 45 minutes.
+	Brian has been waiting in the queue for 5 minutes.
+	Brian is meeting the professor for 6 minutes, starting at 13 minutes and ending at 19 minutes.
 	The subject of this meeting is Introduction to Logic Design.
+	The urgency of this meeting is 8 out of 10.
+
+	Camden has been waiting in the queue for 1 minutes.
+	Camden is meeting the professor for 6 minutes, starting at 19 minutes and ending at 25 minutes.
+	The subject of this meeting is Calculus 4.
+	The urgency of this meeting is 9 out of 10.
+
+	The professor has been waiting for 3 minutes before Martin showed up.
+	Martin is meeting the professor for 8 minutes, starting at 28 minutes and ending at 36 minutes.
+	The subject of this meeting is Data Structures.
 	The urgency of this meeting is 7 out of 10.
 
-	Sunjit arrived just as the previous student was leaving.
-	Sunjit is meeting the professor for 3 minutes, starting at 45 minutes and ending at 48 minutes.
-	The subject of this meeting is Introduction to Computer Science.
+	Juan has been waiting in the queue for 1 minutes.
+	Juan is meeting the professor for 9 minutes, starting at 36 minutes and ending at 45 minutes.
+	The subject of this meeting is Theory of Algorithms.
 	The urgency of this meeting is 8 out of 10.
 
-	Sarah has been waiting in the queue for 23 minutes.
-	Sarah is meeting the professor for 8 minutes, starting at 48 minutes and ending at 56 minutes.
-	The subject of this meeting is Discrete Math.
-	The urgency of this meeting is 3 out of 10.
+	Kyle has been waiting in the queue for 8 minutes.
+	Kyle is meeting the professor for 9 minutes, starting at 45 minutes and ending at 54 minutes.
+	The subject of this meeting is Linear Algebra.
+	The urgency of this meeting is 10 out of 10.
 
-	Patrick has been waiting in the queue for 4 minutes.
-	Patrick is meeting the professor for 4 minutes, starting at 56 minutes and ending at 60 minutes.
-	The subject of this meeting is Calculus 4.
+	Juan has been waiting in the queue for 18 minutes.
+	Juan is meeting the professor for 2 minutes, starting at 54 minutes and ending at 56 minutes.
+	The subject of this meeting is Theory of Algorithms.
+	The urgency of this meeting is 7 out of 10.
+
+	Grace has been waiting in the queue for 24 minutes.
+	Grace is meeting the professor for 8 minutes, starting at 56 minutes and ending at 64 minutes.
+	The subject of this meeting is Introduction to Computer Science.
+	The urgency of this meeting is 7 out of 10.
+
+	John has been waiting in the queue for 6 minutes.
+	John is meeting the professor for 4 minutes, starting at 64 minutes and ending at 68 minutes.
+	The subject of this meeting is Calculus 1.
+	The urgency of this meeting is 8 out of 10.
+
+	Chiwei has been waiting in the queue for 9 minutes.
+	Chiwei is meeting the professor for 5 minutes, starting at 68 minutes and ending at 73 minutes.
+	The subject of this meeting is Object Oriented Programming.
+	The urgency of this meeting is 7 out of 10.
+
+	Arjun has been waiting in the queue for 24 minutes.
+	Arjun is meeting the professor for 10 minutes, starting at 73 minutes and ending at 83 minutes.
+	The subject of this meeting is Introduction to Computer Science.
+	The urgency of this meeting is 6 out of 10.
+
+	John has been waiting in the queue for 29 minutes.
+	John is meeting the professor for 10 minutes, starting at 83 minutes and ending at 93 minutes.
+	The subject of this meeting is Probability and Statistics.
+	The urgency of this meeting is 5 out of 10.
+
+	Sergio has been waiting in the queue for 49 minutes.
+	Sergio is meeting the professor for 7 minutes, starting at 93 minutes and ending at 100 minutes.
+	The subject of this meeting is Introduction to Logic Design.
+	The urgency of this meeting is 4 out of 10.
+
+	Samuel has been waiting in the queue for 63 minutes.
+	Samuel is meeting the professor for 5 minutes, starting at 100 minutes and ending at 105 minutes.
+	The subject of this meeting is Linear Algebra.
 	The urgency of this meeting is 2 out of 10.
-
-	Austin has been waiting in the queue for 1 minutes.
-	Austin is meeting the professor for 10 minutes, starting at 60 minutes and ending at 70 minutes.
-	The subject of this meeting is Introduction to Computer Science.
-	The urgency of this meeting is 8 out of 10.
-
-	Emma has been waiting in the queue for 68 minutes.
-	Emma is meeting the professor for 7 minutes, starting at 70 minutes and ending at 77 minutes.
-	The subject of this meeting is Introduction to Computer Science.
-	The urgency of this meeting is 1 out of 10.
 

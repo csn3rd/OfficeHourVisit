@@ -1,31 +1,37 @@
 Arrival Log: 
 
-	Jessica is arriving at 0 minutes. The urgency of the meeting is 6 out of 10.
+	Aditya is arriving at 0 minutes. The urgency of the meeting is 8 out of 10.
 
-	Patrick is arriving 7 minutes after Jessica.
-	Patrick is arriving at 7 minutes. The urgency of the meeting is 3 out of 10.
+	Justin is arriving 1 minutes after Aditya.
+	Justin is arriving at 1 minutes. The urgency of the meeting is 7 out of 10.
 
-	Swathi is arriving 0 minutes after Patrick.
-	Swathi is arriving at 7 minutes. The urgency of the meeting is 3 out of 10.
+	Andrea is arriving 3 minutes after Justin.
+	Andrea is arriving at 4 minutes. The urgency of the meeting is 10 out of 10.
 
-	Sergio is arriving 4 minutes after Swathi.
-	Sergio is arriving at 11 minutes. The urgency of the meeting is 7 out of 10.
+	Martin is arriving 9 minutes after Andrea.
+	Martin is arriving at 13 minutes. The urgency of the meeting is 8 out of 10.
 
-	Jacob is arriving 7 minutes after Sergio.
-	Jacob is arriving at 18 minutes. The urgency of the meeting is 5 out of 10.
+	Ian is arriving 7 minutes after Martin.
+	Ian is arriving at 20 minutes. The urgency of the meeting is 10 out of 10.
 
-	Anthony is arriving 4 minutes after Jacob.
-	Anthony is arriving at 22 minutes. The urgency of the meeting is 6 out of 10.
+	Francesca is arriving 1 minutes after Ian.
+	Francesca is arriving at 21 minutes. The urgency of the meeting is 3 out of 10.
 
-	Brycen is arriving 10 minutes after Anthony.
-	Brycen is arriving at 32 minutes. The urgency of the meeting is 3 out of 10.
+	Camden is arriving 5 minutes after Francesca.
+	Camden is arriving at 26 minutes. The urgency of the meeting is 10 out of 10.
 
-	Jonathan is arriving 7 minutes after Brycen.
-	Jonathan is arriving at 39 minutes. The urgency of the meeting is 1 out of 10.
+	Juan is arriving 2 minutes after Camden.
+	Juan is arriving at 28 minutes. The urgency of the meeting is 4 out of 10.
 
-	Sarah is arriving 10 minutes after Jonathan.
-	Sarah is arriving at 49 minutes. The urgency of the meeting is 3 out of 10.
+	Patrick is arriving 7 minutes after Juan.
+	Patrick is arriving at 35 minutes. The urgency of the meeting is 9 out of 10.
 
-	Arjun is arriving 3 minutes after Sarah.
-	Arjun is arriving at 52 minutes. The urgency of the meeting is 2 out of 10.
+	Kristi is arriving 8 minutes after Patrick.
+	Kristi is arriving at 43 minutes. The urgency of the meeting is 1 out of 10.
+
+	Grant is arriving 7 minutes after Kristi.
+	Grant is arriving at 50 minutes. The urgency of the meeting is 6 out of 10.
+
+	Sergio is arriving 8 minutes after Grant.
+	Sergio is arriving at 58 minutes. The urgency of the meeting is 1 out of 10.
 

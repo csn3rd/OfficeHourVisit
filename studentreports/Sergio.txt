@@ -1,41 +1,38 @@
 Subjects that Sergio has attended office hours for:
 
-Object Oriented Programming
-Data Structures
-Discrete Math
-Calculus 3
-Discrete Math
-Calculus 4
-Calculus 2
-Object Oriented Programming
-Object Oriented Programming
-Data Structures
-Probability and Statistics
-Calculus 1
 Introduction to Computer Science
-Probability and Statistics
-Calculus 2
-Introduction to Embedded Systems
-Calculus 1
-Calculus 2
-Introduction to Logic Design
-Introduction to Computer Science
-Object Oriented Programming
-Introduction to Logic Design
-Calculus 3
-Calculus 2
-Introduction to Computer Science
-Calculus 1
-Calculus 3
-Calculus 4
-Probability and Statistics
-Calculus 2
-Calculus 3
 Theory of Algorithms
+Linear Algebra
 Operating Systems
-Introduction to Computer Science
-Calculus 2
-Introduction to Computer Science
-Calculus 3
-Discrete Math
 Introduction to Logic Design
+Calculus 3
+Calculus 3
+Introduction to Logic Design
+Introduction to Computer Science
+Introduction to Logic Design
+Introduction to Computer Science
+Introduction to Embedded Systems
+Introduction to Embedded Systems
+Theory of Automata and Languages
+Calculus 3
+Calculus 2
+Theory of Automata and Languages
+Calculus 1
+Discrete Math
+Operating Systems
+Probability and Statistics
+Probability and Statistics
+Introduction to Logic Design
+Discrete Math
+Calculus 2
+Calculus 4
+Discrete Math
+Theory of Algorithms
+Data Structures
+Introduction to Computer Science
+Calculus 1
+Calculus 3
+Theory of Automata and Languages
+Operating Systems
+Calculus 4
+Data Structures

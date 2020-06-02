@@ -1,37 +1,67 @@
 Arrival Log: 
 
-	Patrick is arriving at 9 minutes. The urgency of the meeting is 2 out of 10.
+	Juan is arriving at 0 minutes. The urgency of the meeting is 10 out of 10.
 
-	Austin is arriving 9 minutes after Patrick.
-	Austin is arriving at 18 minutes. The urgency of the meeting is 3 out of 10.
+	Sarah is arriving 6 minutes after Juan.
+	Sarah is arriving at 6 minutes. The urgency of the meeting is 2 out of 10.
 
-	Aditya is arriving 4 minutes after Austin.
-	Aditya is arriving at 22 minutes. The urgency of the meeting is 4 out of 10.
+	Sunjit is arriving 10 minutes after Sarah.
+	Sunjit is arriving at 16 minutes. The urgency of the meeting is 10 out of 10.
 
-	Grace is arriving 9 minutes after Aditya.
-	Grace is arriving at 31 minutes. The urgency of the meeting is 6 out of 10.
+	Primrose is arriving 1 minutes after Sunjit.
+	Primrose is arriving at 17 minutes. The urgency of the meeting is 8 out of 10.
 
-	George is arriving 0 minutes after Grace.
-	George is arriving at 31 minutes. The urgency of the meeting is 10 out of 10.
+	Sergio is arriving 1 minutes after Primrose.
+	Sergio is arriving at 18 minutes. The urgency of the meeting is 2 out of 10.
 
-	Jessica is arriving 2 minutes after George.
-	Jessica is arriving at 33 minutes. The urgency of the meeting is 5 out of 10.
+	Aditya is arriving 0 minutes after Sergio.
+	Aditya is arriving at 18 minutes. The urgency of the meeting is 6 out of 10.
 
-	Arjun is arriving 4 minutes after Jessica.
-	Arjun is arriving at 37 minutes. The urgency of the meeting is 9 out of 10.
+	Ian is arriving 10 minutes after Aditya.
+	Ian is arriving at 28 minutes. The urgency of the meeting is 3 out of 10.
 
-	Sarah is arriving 3 minutes after Arjun.
-	Sarah is arriving at 40 minutes. The urgency of the meeting is 2 out of 10.
+	Ezra is arriving 2 minutes after Ian.
+	Ezra is arriving at 30 minutes. The urgency of the meeting is 6 out of 10.
 
-	Andrea is arriving 10 minutes after Sarah.
-	Andrea is arriving at 50 minutes. The urgency of the meeting is 1 out of 10.
+	Grant is arriving 6 minutes after Ezra.
+	Grant is arriving at 36 minutes. The urgency of the meeting is 10 out of 10.
 
-	Austin is arriving 7 minutes after Andrea.
-	Austin is arriving at 57 minutes. The urgency of the meeting is 6 out of 10.
+	Chiwei is arriving 0 minutes after Grant.
+	Chiwei is arriving at 36 minutes. The urgency of the meeting is 9 out of 10.
 
-	George is arriving 0 minutes after Austin.
-	George is arriving at 57 minutes. The urgency of the meeting is 3 out of 10.
+	Chiwei is arriving 2 minutes after Chiwei.
+	Chiwei is arriving at 38 minutes. The urgency of the meeting is 9 out of 10.
 
-	Emma is arriving 1 minutes after George.
-	Emma is arriving at 58 minutes. The urgency of the meeting is 8 out of 10.
+	Primrose is arriving 0 minutes after Chiwei.
+	Primrose is arriving at 38 minutes. The urgency of the meeting is 5 out of 10.
+
+	Ezra is arriving 0 minutes after Primrose.
+	Ezra is arriving at 38 minutes. The urgency of the meeting is 6 out of 10.
+
+	Martin is arriving 0 minutes after Ezra.
+	Martin is arriving at 38 minutes. The urgency of the meeting is 2 out of 10.
+
+	Camden is arriving 0 minutes after Martin.
+	Camden is arriving at 38 minutes. The urgency of the meeting is 10 out of 10.
+
+	Kristi is arriving 4 minutes after Camden.
+	Kristi is arriving at 42 minutes. The urgency of the meeting is 5 out of 10.
+
+	Chiwei is arriving 6 minutes after Kristi.
+	Chiwei is arriving at 48 minutes. The urgency of the meeting is 1 out of 10.
+
+	Patrick is arriving 3 minutes after Chiwei.
+	Patrick is arriving at 51 minutes. The urgency of the meeting is 6 out of 10.
+
+	Jacob is arriving 2 minutes after Patrick.
+	Jacob is arriving at 53 minutes. The urgency of the meeting is 8 out of 10.
+
+	John is arriving 2 minutes after Jacob.
+	John is arriving at 55 minutes. The urgency of the meeting is 7 out of 10.
+
+	Emma is arriving 1 minutes after John.
+	Emma is arriving at 56 minutes. The urgency of the meeting is 1 out of 10.
+
+	Samuel is arriving 3 minutes after Emma.
+	Samuel is arriving at 59 minutes. The urgency of the meeting is 4 out of 10.
 

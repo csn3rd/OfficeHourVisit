@@ -1,49 +1,25 @@
 Arrival Log: 
 
-	Justin is arriving at 6 minutes. The urgency of the meeting is 1 out of 10.
+	Pratham is arriving at 2 minutes. The urgency of the meeting is 2 out of 10.
 
-	Aditya is arriving 3 minutes after Justin.
-	Aditya is arriving at 9 minutes. The urgency of the meeting is 6 out of 10.
+	Grace is arriving 10 minutes after Pratham.
+	Grace is arriving at 12 minutes. The urgency of the meeting is 10 out of 10.
 
-	Grant is arriving 9 minutes after Aditya.
-	Grant is arriving at 18 minutes. The urgency of the meeting is 9 out of 10.
+	Sarah is arriving 2 minutes after Grace.
+	Sarah is arriving at 14 minutes. The urgency of the meeting is 3 out of 10.
 
-	Frank is arriving 1 minutes after Grant.
-	Frank is arriving at 19 minutes. The urgency of the meeting is 9 out of 10.
+	Juan is arriving 10 minutes after Sarah.
+	Juan is arriving at 24 minutes. The urgency of the meeting is 5 out of 10.
 
-	Sergio is arriving 5 minutes after Frank.
-	Sergio is arriving at 24 minutes. The urgency of the meeting is 2 out of 10.
+	Jessica is arriving 9 minutes after Juan.
+	Jessica is arriving at 33 minutes. The urgency of the meeting is 3 out of 10.
 
-	Andrea is arriving 0 minutes after Sergio.
-	Andrea is arriving at 24 minutes. The urgency of the meeting is 3 out of 10.
+	Sarah is arriving 9 minutes after Jessica.
+	Sarah is arriving at 42 minutes. The urgency of the meeting is 2 out of 10.
 
-	Austin is arriving 1 minutes after Andrea.
-	Austin is arriving at 25 minutes. The urgency of the meeting is 7 out of 10.
+	Juan is arriving 7 minutes after Sarah.
+	Juan is arriving at 49 minutes. The urgency of the meeting is 2 out of 10.
 
-	Justin is arriving 1 minutes after Austin.
-	Justin is arriving at 26 minutes. The urgency of the meeting is 9 out of 10.
-
-	Ian is arriving 1 minutes after Justin.
-	Ian is arriving at 27 minutes. The urgency of the meeting is 1 out of 10.
-
-	Sunjit is arriving 8 minutes after Ian.
-	Sunjit is arriving at 35 minutes. The urgency of the meeting is 6 out of 10.
-
-	Aditya is arriving 0 minutes after Sunjit.
-	Aditya is arriving at 35 minutes. The urgency of the meeting is 9 out of 10.
-
-	Sunjit is arriving 7 minutes after Aditya.
-	Sunjit is arriving at 42 minutes. The urgency of the meeting is 2 out of 10.
-
-	Primrose is arriving 0 minutes after Sunjit.
-	Primrose is arriving at 42 minutes. The urgency of the meeting is 3 out of 10.
-
-	Brian is arriving 1 minutes after Primrose.
-	Brian is arriving at 43 minutes. The urgency of the meeting is 7 out of 10.
-
-	Patrick is arriving 8 minutes after Brian.
-	Patrick is arriving at 51 minutes. The urgency of the meeting is 10 out of 10.
-
-	Francesca is arriving 5 minutes after Patrick.
-	Francesca is arriving at 56 minutes. The urgency of the meeting is 5 out of 10.
+	Pratham is arriving 7 minutes after Juan.
+	Pratham is arriving at 56 minutes. The urgency of the meeting is 8 out of 10.
 

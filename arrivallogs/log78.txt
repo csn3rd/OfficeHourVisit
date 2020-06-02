@@ -1,34 +1,28 @@
 Arrival Log: 
 
-	Camden is arriving at 0 minutes. The urgency of the meeting is 5 out of 10.
+	Kyle is arriving at 8 minutes. The urgency of the meeting is 2 out of 10.
 
-	Jacob is arriving 6 minutes after Camden.
-	Jacob is arriving at 6 minutes. The urgency of the meeting is 5 out of 10.
+	Patrick is arriving 8 minutes after Kyle.
+	Patrick is arriving at 16 minutes. The urgency of the meeting is 8 out of 10.
 
-	Brian is arriving 1 minutes after Jacob.
-	Brian is arriving at 7 minutes. The urgency of the meeting is 9 out of 10.
+	Emma is arriving 6 minutes after Patrick.
+	Emma is arriving at 22 minutes. The urgency of the meeting is 8 out of 10.
 
-	John is arriving 4 minutes after Brian.
-	John is arriving at 11 minutes. The urgency of the meeting is 9 out of 10.
+	Samuel is arriving 4 minutes after Emma.
+	Samuel is arriving at 26 minutes. The urgency of the meeting is 6 out of 10.
 
-	Justin is arriving 3 minutes after John.
-	Justin is arriving at 14 minutes. The urgency of the meeting is 8 out of 10.
+	Andrea is arriving 1 minutes after Samuel.
+	Andrea is arriving at 27 minutes. The urgency of the meeting is 3 out of 10.
 
-	John is arriving 5 minutes after Justin.
-	John is arriving at 19 minutes. The urgency of the meeting is 1 out of 10.
+	Pratham is arriving 10 minutes after Andrea.
+	Pratham is arriving at 37 minutes. The urgency of the meeting is 1 out of 10.
 
-	Emma is arriving 10 minutes after John.
-	Emma is arriving at 29 minutes. The urgency of the meeting is 9 out of 10.
+	Henry is arriving 9 minutes after Pratham.
+	Henry is arriving at 46 minutes. The urgency of the meeting is 8 out of 10.
 
-	Sarah is arriving 9 minutes after Emma.
-	Sarah is arriving at 38 minutes. The urgency of the meeting is 6 out of 10.
+	Pratham is arriving 4 minutes after Henry.
+	Pratham is arriving at 50 minutes. The urgency of the meeting is 7 out of 10.
 
-	Ian is arriving 3 minutes after Sarah.
-	Ian is arriving at 41 minutes. The urgency of the meeting is 6 out of 10.
-
-	Samuel is arriving 3 minutes after Ian.
-	Samuel is arriving at 44 minutes. The urgency of the meeting is 6 out of 10.
-
-	Brycen is arriving 10 minutes after Samuel.
-	Brycen is arriving at 54 minutes. The urgency of the meeting is 2 out of 10.
+	Pratham is arriving 9 minutes after Pratham.
+	Pratham is arriving at 59 minutes. The urgency of the meeting is 7 out of 10.
 

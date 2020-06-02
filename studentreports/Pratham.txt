@@ -1,28 +1,42 @@
 Subjects that Pratham has attended office hours for:
 
-Calculus 1
-Calculus 1
+Linear Algebra
 Calculus 3
-Introduction to Logic Design
 Calculus 2
-Probability and Statistics
-Theory of Algorithms
-Introduction to Logic Design
-Calculus 1
-Linear Algebra
-Operating Systems
-Linear Algebra
-Data Structures
-Introduction to Embedded Systems
-Introduction to Computer Science
-Linear Algebra
-Linear Algebra
+Calculus 2
 Object Oriented Programming
+Operating Systems
+Introduction to Computer Science
+Introduction to Logic Design
+Introduction to Computer Science
+Calculus 2
+Introduction to Logic Design
+Linear Algebra
+Calculus 3
 Calculus 2
 Calculus 3
-Linear Algebra
-Introduction to Computer Science
-Calculus 3
 Data Structures
-Introduction to Logic Design
+Object Oriented Programming
+Operating Systems
+Data Structures
 Probability and Statistics
+Calculus 2
+Calculus 3
+Calculus 1
+Operating Systems
+Theory of Algorithms
+Linear Algebra
+Calculus 4
+Operating Systems
+Theory of Algorithms
+Object Oriented Programming
+Calculus 3
+Introduction to Embedded Systems
+Probability and Statistics
+Discrete Math
+Introduction to Computer Science
+Calculus 2
+Probability and Statistics
+Calculus 3
+Object Oriented Programming
+Theory of Automata and Languages
